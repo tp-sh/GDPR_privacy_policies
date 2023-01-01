@@ -1,1 +1,9 @@
-# GDPR-privacy-policy
+# More Context-Aware GDPR-Compliance Analysis of Privacy Policies: Taxonomy, Corpus and GDPR Concept Classifiers
+
+## "Web_list.csv" is the full list of the 150 websites.
+
+## "keyword_list.csv" is the keywords list for each of the 96 concepts in GDPR taxonomy.
+
+## "XXX.csv" is the full results of all concept classifiers.
+
+## "ICO_template_usage.csv" is the full results of ICO template usage.
