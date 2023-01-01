@@ -6,4 +6,4 @@
 
 ## "XXX.csv" is the full results of all concept classifiers.
 
-## "ICO_template_usage.csv" is the full results of ICO template usage.
+## "ICO_template_usage.xlsx" is the full results of ICO template usage.
