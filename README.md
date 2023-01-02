@@ -4,6 +4,6 @@
 
 ## "keyword_list.csv" is the keywords list for each of the 96 concepts in GDPR taxonomy.
 
-## "XXX.csv" is the full results of all concept classifiers.
+## "complete_classifier_results.xlsx" is the full results of all concept classifiers.
 
 ## "ICO_template_usage.xlsx" is the full results of ICO template usage.
