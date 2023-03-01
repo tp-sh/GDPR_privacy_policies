@@ -1,4 +1,4 @@
-# More Context-Aware GDPR-Compliance Analysis of Privacy Policies: Taxonomy, Corpus and GDPR Concept Classifiers
+# A Comprehensive Study on GDPR-Oriented Analysis of Privacy Policies: Taxonomy, Corpus and GDPR Concept Classifiers
 
 ## "Web_list.csv" is the full list of the 150 websites.
 
