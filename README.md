@@ -7,3 +7,6 @@
 ## "complete_classifier_results.xlsx" is the full results of all concept classifiers.
 
 ## "ICO_template_usage.xlsx" is the full results of ICO template usage.
+
+## "GoPPC-150.rar" is our corpus of 150 privacy polices.
+
