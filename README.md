@@ -11,3 +11,5 @@
 ## "GoPPC-150.rar" is our corpus of 150 privacy polices.
 
 ## "code" folder contains all the code in the paper.
+
+## "classifiers_results(coparsion with Torre).xlsx" is the results of Torre's classifiers.
