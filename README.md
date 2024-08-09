@@ -12,4 +12,4 @@
 
 ## "code" folder contains all the code in the paper.
 
-## "classifiers_results(coparsion with Torre).xlsx" is the results of Torre's classifiers.
+## "Torre et al.'s_classifiers_results.xlsx" is the results of Torre's classifiers.
