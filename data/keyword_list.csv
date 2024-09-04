@@ -1,0 +1,97 @@
+Node,Keywords
+1,controller;responsible
+2,controller is;responsible;identity
+3,register number
+4,contact
+5,phone number
+6,e-mail
+7,address
+8,representative
+9,representative is;identity
+10,register number
+11,contact
+12,phone number
+13,e-mail
+14,address
+15,DPO;data protection officer
+16,DPO;data protection officer;identity
+17,register number
+18,contact
+19,phone number
+20,e-mail
+21,address
+22,information;type;kind;category
+23,information;type;kind;category
+24,third party;information
+25,public;information
+26,special;specific
+27,special;specific
+28,from;collect
+29,directly
+30,automatically;passively
+31,third party;other;partner
+32,cookie;automatically;track
+33,third party;other;partner
+34,public
+35,purpose;goal;aim
+36,share;sharing;disclosure;disclose
+37,share;sharing;disclosure;disclose;recipient
+38,share;sharing;disclosure;disclose;when;while
+39,lawful basis;legal basis;legal ground
+40,contract
+41,contract;contractual
+42,contract;enter
+43,contract;statutory
+44,public;task
+45,legitimate interest
+46,vital interest
+47,consent
+48,legal obligation
+49,storage;store;retain;retention
+50,storage;store;until;retain;retention;period;how long;time
+51,storage;store;retain;retention;locate;location
+52,storage;store;retain;retention;disposal;delete
+53,right;control;manage;exercise
+54,inform;notify;consent
+55,change
+56,breach
+57,inform;notify;consent
+58,access
+59,modify;update;adjust;correct
+60,restrict
+61,delete;remove
+62,object
+63,protability
+64,auto decision make
+65,withdraw consent;opt-out
+66,complain;grievance
+67,complain;grievance
+68,principle
+69,limitation
+70,minimization
+71,choice;choose
+72,transfer;transmission;transmit;international
+73,transfer;transmission;transmit;international;derogation
+74,transfer;transmission;transmit;international;consent
+75,transfer;transmission;transmit;international;contract
+76,transfer;transmission;transmit;international;public;interest
+77,transfer;transmission;transmit;international;legal claim;law
+78,transfer;transmission;transmit;international;vital interest
+79,transfer;transmission;transmit;international;legitimate interest
+80,transfer;transmission;transmit;international;safeguard
+81,transfer;transmission;transmit;international;legal instrument;law
+82,transfer;transmission;transmit;international;binding corporate rules
+83,transfer;transmission;transmit;international;EU model clause
+84,transfer;transmission;transmit;international;code of conduct
+85,transfer;transmission;transmit;international;certification mechanism
+86,transfer;transmission;transmit;international;adequacy decision
+87,transfer;transmission;transmit;international;territory
+88,transfer;transmission;transmit;international;sector
+89,transfer;transmission;transmit;international;country
+90,children;under;age
+91,secure;security;protect
+92,obliged;
+93,california;korea;cookie;brazil
+94,cookie;track
+95,california;korea;brazil
+96,None
