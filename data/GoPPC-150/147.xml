@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<segment>
+		<title tagname="h2" depth="7" font-size="1.44" font-weight="1.0" category="">
+			Privacy Policy
+			</title>
+		<segment>
+			<title tagname="h3" depth="8" font-size="1.26" font-weight="1.0" category="8,9;8,9">
+				Types of Information Collected
+				</title>
+			<paragraph category="8,9.2;8,9.2">When you browse through any Web site, certain information about your visit can be collected. We automatically collect and temporarily store the following type of information about your visit:</paragraph>
+		<item>Domain from which you access the Internet;</item>
+		<item>IP address (an IP address is a number that is automatically assigned to a computer when surfing the Web);</item>
+		<item>Operating system and information about the browser used when visiting the site;</item>
+		<item>Date and time of your visit;</item>
+		<item>Pages you visited;</item>
+		<item>Address of the Web site that connected you to an NIH Web site (such as google.com or bing.com); and,</item>
+		<item>Demographic and interest data.</item>
+		<paragraph category="11;11">We use this information to measure the number of visitors to our site and its various sections and to help make our site more useful to visitors. This information cannot be used to identify you as an individual.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="8" font-size="1.26" font-weight="1.0" category="8,9;8,9">
+				How NIH Collects Information
+				</title>
+			<paragraph category="8,9.2;8,9.2">NIH.gov uses Google Analytics to collect the information in the bulleted list in the Types of Information Collected section above. Google Analytics gathers information automatically and continuously. No Personally Identifiable Information (PII) is collected. NIH staff conducts analyses and reports on the aggregated data from Google Analytics and those reports are only available to NIH.gov managers, members of the NIH.gov communications and web teams, and other designated staff who require this information to perform their duties.</paragraph>
+		<paragraph category="8,9.2;8,9.2">Additionally, NIH.gov participates in the Digital Analytics Program (DAP), in which Google Analytics data is collected from websites across the Federal Government. For more information on DAP, please visit the DigitalGov website(link is external).</paragraph>
+		<paragraph category="6,8,9.1;6,8,9.1">NIH also uses online surveys to collect opinions and feedback from a random sample of visitors. NIH.gov uses the ForeSee Results’ American Customer Satisfaction Index (ACSI) online survey to obtain feedback and data on visitors’ satisfaction with the NIH.gov website. This survey does not collect PII. Although the survey invitation pops up for a random sample of visitors, it is optional. If you decline the survey, you will still have access to the identical information and resources at the NIH.gov site as those who do not take the survey. The survey reports are available only to NIH.gov managers, members of the NIH.gov Communications and Web Teams, and other designated staff who require this information to perform their duties.</paragraph>
+		<paragraph category="8,9.3;8,9.3">NIH retains the data from Google Analytics, and ACSI survey results as long as needed to support the mission of the NIH.gov website.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="8" font-size="1.26" font-weight="1.0" category="18.1;18.1">
+				How NIH Uses Cookies
+				</title>
+			<segment>
+				<title tagname="h4" depth="9" font-size="1.08" font-weight="1.0" category="19;18.1">
+					Session Cookies
+					</title>
+				<paragraph category="18.1;18.1">We use session cookies for technical purposes such as to enable better navigation through our site. These cookies let our server know that you are continuing a visit to our site. The OMB Memo 10-22 Guidance defines our use of session cookies as "Usage Tier 1 — Single Session.” The policy says, "This tier encompasses any use of single session web measurement and customization technologies."</paragraph>
+</segment>
+			<segment>
+				<title tagname="h4" depth="9" font-size="1.08" font-weight="1.0" category="19;18.1">
+					Persistent Cookies
+					</title>
+				<paragraph category="18.1;18.1">We use persistent cookies to enable Webtrends and Google Analytics to differentiate between new and returning NIH.gov visitors. Persistent cookies remain on your computer between visits to NIH.gov until they expire. We also use persistent cookies to block repeated invitations to take the ACSI survey. The persistent cookies that block repeated survey invitations expire in 90 days. The OMB Memo 10-22 Guidance defines our use of persistent cookies as "Usage Tier 2 — Multi-session without Personally Identifiable Information (PII).” The policy says, "This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected."</paragraph>
+</segment>
+			<paragraph category="18.1;18.1">The Office of Management and Budget Memo M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies allows Federal agencies to use session and persistent cookies.</paragraph>
+		<paragraph category="18.1;18.1">When you visit any Web site, its server may generate a piece of text known as a "cookie" to place on your computer. The cookie allows the server to "remember" specific information about your visit while you are connected.</paragraph>
+		<paragraph category="18.1;18.1">The cookie makes it easier for you to use the dynamic features of Web pages. Cookies from NIH Web pages only collect information about your browser’s visit to the site; they do not collect personal information about you.</paragraph>
+		<paragraph category="18.1;18.1">There are two types of cookies, single session (temporary), and multi-session (persistent). Session cookies last only as long as your Web browser is open. Once you close your browser, the cookie disappears. Persistent cookies are stored on your computer for longer periods.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="8" font-size="1.26" font-weight="1.0" category="4.9;4.9">
+				How to Opt Out or Disable Cookies
+				</title>
+			<paragraph category="4.9;4.9">If you do not wish to have session or persistent cookies placed on your computer, you can disable them using your Web browser. If you opt out of cookies, you will still have access to all information and resources at NIH.gov. Instructions for disabling or opting out of cookies in the most popular browsers are located at https://www.usa.gov/optout-instructions(link is external). Please note that by following the instructions to opt-out of cookies, you will disable cookies from all sources, not just those from NIH.gov.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="8" font-size="1.26" font-weight="1.0" category="12;12">
+				How Personal Information Is Protected
+				</title>
+			<paragraph category="19;12">You do not have to give us personal information to visit the NIH Web sites. However, if you choose to receive alerts or e-newsletters, we collect your email address to complete the subscription process.</paragraph>
+		<paragraph category="8,9,11;8,9,11">If you choose to provide us with personally identifiable information, that is, information that is personal in nature and which may be used to identify you, through an e-mail message, request for information, paper or electronic form, questionnaire, customer satisfaction survey, epidemiology research study, etc., we will maintain the information you provide only as long as needed to respond to your question or to fulfill the stated purpose of the communication. If we store your personal information in a record system designed to retrieve information about you by personal identifier (name, personal email address, home mailing address, personal or mobile phone number, etc.), so that we may contact you, we will safeguard the information you provide to us in accordance with the Privacy Act of 1974, as amended (5 U.S.C. Section 552a).</paragraph>
+		<paragraph category="4.1,8,9.1;4.1,8,9.1">If NIH operates a record system designed to retrieve information about you in order to accomplish its mission, a Privacy Act Notification Statement should be prominently and conspicuously displayed on the public-facing website or form which asks you to provide personally identifiable information. The notice must address the following five criteria:</paragraph>
+		<item>NIH legal authorization to collect information about you</item>
+		<item>Purpose of the information collection</item>
+		<item>Routine uses for disclosure of information outside of NIH</item>
+		<item>Whether the request made of you is voluntary or mandatory under law</item>
+		<item>Effects of non-disclosure if you choose to not provide the requested information</item>
+		<paragraph category="1.2;1.2">For further information about NIH privacy policy, please contact the NIH Senior Official for Privacy at privacy@mail.nih.gov(link sends e-mail); call 301-451-3426 or visit https://oma.od.nih.gov/DMS/Pages/Privacy-Program.aspx.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="8" font-size="1.26" font-weight="1.0" category="12;12">
+				Data Safeguarding and Privacy
+				</title>
+			<paragraph category="12;12">NIH uses web measurement and customization technologies to help our Web sites function better for visitors and to better understand how the public uses the online resources we provide. All uses of web-based technologies comply with existing policies with respect to privacy and data safeguarding standards. Information Technology (IT) systems owned and operated by NIH are assessed using Privacy Impact Assessments (PIAs) posted for public view on the Department of Health and Human Services (DHHS) Web site (http://www.hhs.gov/pia/(link is external)). NIH conducts and publishes a PIA for each use of a third-party website and application (TPWA) as they may have a different functionality or practice. TPWA PIAs are posted for public view on DHHS Web site http://www.hhs.gov/pia/#Third-Party(link is external).</paragraph>
+		<paragraph category="12;12">Groups of records that contain information about an individual and are designed to be retrieved by the individual’s name or other personal identifier linked to the individual are covered by the Privacy Act of 1974, as amended (5 U.S.C. Section 552a). For these records, NIH Systems of Record Notices are published in the Federal Register and posted on the NIH Senior Official for Privacy Website. When you visit the NIH Institute/Center sites, please look for the Privacy Notice posted on the main pages. When web measurement and customization technologies are used, the Privacy Policy/Notice must provide:</paragraph>
+		<item>Purpose of the web measurement and/or customization technology;</item>
+		<item>Usage tier, session type, and technology used;</item>
+		<item>Nature of the information collected;</item>
+		<item>Purpose and use of the information;</item>
+		<item>Whether and to whom the information will be disclosed;</item>
+		<item>Privacy safeguards applied to the information;</item>
+		<item>Data retention policy for the information;</item>
+		<item>Whether the technology is enabled by default or not and why;</item>
+		<item>How to opt-out of the web measurement/customization technology;</item>
+		<item>Statement that opting-out still permits users to access comparable information or services; and,</item>
+		<item>Identities of all third-party vendors involved in the measurement and customization process.</item>
+</segment>
+		<segment>
+			<title tagname="h3" depth="8" font-size="1.26" font-weight="1.0" category="16;16">
+				Data Retention and Access Limits
+				</title>
+			<paragraph category="16.1;16.1">NIH will retain data collected using the following technologies long enough to achieve the specified objective for which they were collected. The data generated from these activities falls under the National Archives and Records Administration (NARA) General Records Schedule (GRS) 20-item IC 'Electronic Records,' and will be handled per the requirements of that schedule (http://www.archives.gov/records-mgmt/grs/grs20.html(link is external)).</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="8" font-size="1.26" font-weight="1.0" category="19;19">
+				How NIH.gov uses Third-Party Web sites and Applications
+				</title>
+			<paragraph category="19;19">As part of the OMB Memo M-10-06, Open Government Directive, the NIH uses a variety of new technologies and social media options to communicate and interact with citizens. These sites and applications include popular social networking and media sites, open source software communities and more. TPWAs are Web-based technologies that are not exclusively operated or controlled by NIH, such as applications not hosted on a.gov domain or those that are embedded on NIH Web pages. Users of TPWAs often share information with the general public, user community, and/or the third-party operating the Web site. These actors may use this information in a variety of ways. TPWAs could cause PII to become available or accessible to NIH and the public, regardless of whether the information is explicitly solicited or collected by NIH.</paragraph>
+		<paragraph category="8,9,11;8,9,11">The following list includes some of the TPWAs we use and their purpose. NIH sometimes collects and uses PII made available through third-party Web sites. However, we do not share PII made available through third-party Web sites. Your activity on the third-party Web sites we use is governed by the security and privacy policy of those sites, which we have linked below. You should review the third-party privacy policies before using the sites and ensure that you understand how your information may be used. If you have an account with a third-party Web site, and choose to follow, like, friend, or comment, certain PII associated with your account may be made available to NIH based on the privacy policy of the third-party Web site and your privacy settings within that third-party Web site. Therefore, you should also adjust privacy settings on your account to match your preferences.</paragraph>
+		<paragraph category="8,9,12;8,9,12">For any NIH TPWA that collects PII, the list below also includes details on the information NIH collects and how we will protect your private information.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="8" font-size="1.26" font-weight="1.0" category="19;19">Third-Party Web Sites and Applications</title>
+					<paragraph category="19;19">NIH conducts and publishes a Privacy Impact Assessment (PIA) for each use of a third-party website as they may have a different functionality or practice. To learn more, visit the published PIAs at http://www.hhs.gov/pia/#Third-Party(link is external).</paragraph>
+					<paragraph category="4.1;4.1">For more information on the uses of social and new media for which GSA has negotiated a federally-friendly Terms of Service Agreement, visit DigitalGov at https://www.digitalgov.gov/resources/negotiated-terms-of-service-agreements/(link is external).</paragraph>
+					<paragraph category="1.2;1.2">For further information about NIH privacy policy, please contact the NIH Senior Official for Privacy at privacy@mail.nih.gov(link sends e-mail); call 301-451-3426 or visit https://oma.od.nih.gov/DMS/Pages/Privacy-Program.aspx.</paragraph>
+					<paragraph category="5;5">This page last reviewed on January 14, 2021</paragraph>
+		</segment>
+		<paragraph category="">Protecting your privacy is very important to us. Our Web site links to other National Institutes of Health (NIH) sites, federal agency sites and occasionally, to private organizations. Once you leave the primary NIH.gov site, you are subject to the privacy policy for the site(s) you are visiting. We do not collect any personally identifiable information (PII) about you during your visit to NIH Web sites unless you choose to provide it to us. We do, however, collect some data about your visit to our Web site to help us better understand how the public uses the site and how to make it more helpful. We collect information from visitors who read, browse, and/or download information from our Web site. NIH never collects information for commercial marketing or any purpose unrelated to the NIH mission and goals.</paragraph>
+		<paragraph category="">When visitors submit questions or comments via the Ask NIH online form, NIH staff responds to the inquiries and files them. Only designated staff members requiring access to the emails to respond, may view, or answer them.</paragraph>
+</segment>
+</policy>

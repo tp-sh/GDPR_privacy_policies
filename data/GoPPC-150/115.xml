@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<segment>
+		<title tagname="h1" depth="1" font-size="2.5" font-weight="1.25" category="">
+			PRIVACY NOTICE
+			</title>
+		<segment>
+			<title tagname="h2" depth="1" font-size="2.25" font-weight="1.25" category="1.1;1.1">
+				WHO ARE WE?
+				</title>
+			<paragraph category="1.1;1.1">The controller of our Sites is Domino's Pizza UK &amp; Ireland Limited (“we”, “us” or “our”) of 1 Thornbury, West Ashland, Milton Keynes MK6 4BB. If you have any questions about how we process your personal data, please contact the Data Protection Officer at Domino’s Head Office, 1 Thornbury, West Ashland, Milton Keynes MK6 4BB or via email to dataprotection@dominos.co.uk.</paragraph>
+		<paragraph category="1.1;1.1">Domino's is a franchised business, where almost all stores are owned and operated by independent Domino’s Pizza franchisees (each a “Franchisee” and together our “Franchisees”). In this notice, references to ‘we’, ‘us’ and ‘our’ do not include our Franchisees and this notice does not apply to or cover the practices of our Franchisees. Please see our joint controller statement available here for further information on the legal relationship between us and our Franchisees in relation to your personal information.</paragraph>
+		<paragraph category="10;10">Each Franchisee is independently responsible for its own legal and regulatory compliance and for the operation of its own Domino’s Pizza store(s) (our “Store(s)”) and all compliance arising from any transactions with you, any products ordered by you from our Sites and any products ordered from our Stores.</paragraph>
+		<paragraph category="1.1;1.1">When we refer to the "Domino's Family" we mean us together with our Franchisees.</paragraph>
+		<paragraph category="1.2;1.2">If you would like to review the privacy notice and practices of any of our Franchisees, please contact the relevant Franchisee Store directly.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="1" font-size="2.25" font-weight="1.25" category="8,9,11;8,9,11">
+				What information do we collect and why do we collect it?
+				</title>
+			<paragraph category="8,9.1,9.2,11;8,9.1,9.2,11">When you visit our Sites, we may collect:</paragraph>
+		<item>Information such as your browser type and version and anonymous information collected from cookies when you are browsing our Sites. We’ll also store the food that you last ordered (up to 10 orders) so we can improve your reordering experience in future. We collect this information to help us understand how to improve our services and our Sites and to ensure that the content on our Sites is presented to you in an effective manner. We have a legitimate interest for this processing: to ensure that our Sites are operating effectively and to provide you with a great service. We will store this personal information for 6 months; and</item>
+		<item>Personal information such as your name, address, date of birth, university attended, graduation date, IP address, telephone number and email address as provided by you when you register to MyDomino’s, enter a competition with us, use a discount code via Student Beans or place an order with us. We collect this information for the following reasons:</item>
+		<item>To process orders placed on our Sites. We collect this information and share it with our Stores to process your order. If you fail to provide us with the information that we request, then you may not be able to place an order via our Sites. This processing is necessary for the performance of a contract to which you are a party. We will store this personal information for 25 months. We engage third party processors to process the payment of your order online. If you consent to them doing so, the third party processors may store your payment card details to speed up your transaction time the next time you order from us. If you want to change your account settings, please login to your account and follow the instructions provided;</item>
+		<item>For product development (for example, call backs for feedback on new products), for statistical analysis, market research, testing and survey purposes, to notify you about changes to our Sites or our services. We may also use your online browsing behaviour and your collection and delivery purchases to help us better understand you as a customer and to ensure our food and services meet your current and future needs. We have a legitimate interest to collect this information: to continue to improve the services we and our Franchisees provide to you. We will store this personal information for 25 months;</item>
+		<item>To ensure you receive marketing and offers that are of most interest and relevance to you. To help us achieve this, we may share your data with third party companies to understand your purchasing options and provide you with direct marketing, including online advertising. We have a legitimate interest to collect this information: to get to know your preferences and to personalise our offers to you to improve the marketing you receive from us. We will store this personal information for 25 months, however, if you have not placed an order for 13 months, you will not receive any further email or sms marketing messages from us until such time as you order from us again. You can opt out of receiving this direct marketing at any time, please see below for further information;</item>
+		<item>To send you service messages relating to order confirmations and delivery driver tipping. We have a legitimate interest to collect this information: to keep you updated on the status of your order and to provide you with a method of tipping your delivery driver using an electronic payment transfer. We will store this personal information for 25 months; and </item>
+		<item>To facilitate any competitions you may enter with us. This processing is necessary for the performance of a contract to which you are a party.</item>
+		<item>If you select “In car collection” when placing an order with us, we will process your location data, mobile number and vehicle details. We have a legitimate interest to process your mobile phone number and vehicle details in order to inform you that your order is ready for collection and to identify you when you arrive at the store to pick up your order. We will always ask you for your consent to process your location data in order for us to know when you have arrived at the store to pick up your order. Your location data, mobile phone number and vehicle details will be shared with Radius Networks Inc, who will share your mobile phone number with Twilio Inc. Both third party companies will delete the data automatically once the collection has been completed. </item>
+</segment>
+		<segment>
+			<title tagname="h2" depth="1" font-size="2.25" font-weight="1.25" category="19;19">
+				Direct Marketing
+				</title>
+			<segment>
+				<title tagname="u" depth="2" font-size="0.81" font-weight="1.0" category="4.9;4.9">
+					Can I stop receiving direct marketing?
+					</title>
+				<paragraph category="4.9;4.9">Yes! We give you an opportunity to opt out of marketing at the point we collect your data by ticking the relevant boxes on the order checkout page. You are also always free to unsubscribe from direct marketing at any time; this will never have an impact on our commitment to provide you with great service and a quality product. To opt out of marketing, please click here to visit our marketing preference centre and update your preferences. We will stop sending you marketing messages as soon as possible but, in any event, will do so no later than 48 hours from your request. If you opt out of marketing, we will record your marketing preference indefinitely.</paragraph>
+</segment>
+			<segment>
+				<title tagname="u" depth="2" font-size="0.81" font-weight="1.0" category="19;19">
+					How long do you keep me opted in for direct marketing?
+					</title>
+				<paragraph category="6;6">If you haven’t placed an order in 13 months, then we will automatically opt you out of receiving further email and sms direct marketing. If you order form us again and have not previously unsubscribed, or if you update your preferences to opt in to direct marketing, we will recommence sending marketing communications to you. </paragraph>
+</segment>
+			<paragraph category="4.9,10.3,11;4.9,10.3,11">When you place an order on our Sites, we will send you occasional direct marketing via email and SMS about similar products and services. We have a legitimate interest in sending you this marketing: to promote our products and services to our customers and to make sure you are aware of the best offers and deals available. In addition, we rely on the Privacy and Electronic Communications Regulations in order to send direct marketing to our existing customers, specifically regulation 22, which allows us to send electronic marketing to you about the same or similar products you have ordered from us, as long as you are given an opportunity to opt out at the point of data collection and in every subsequent message we send to you. </paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="1" font-size="2.25" font-weight="1.25" category="17.1;17.1">
+				Who do we share your information with?
+				</title>
+			<paragraph category="17.1,17.2;17.1,17.2">We may share your personal information with third party companies to perform data matching, data analysis or online advertising services on our behalf, including Google, Facebook, Twitter, Snapchat, Instagram, Sky, Channel 4, Infosum Limited, Radius Networks Inc, Twilio Inc, Service Management Group Limited, Braze Inc and Epsilon Data Interactive Inc, trading as Agility. These third parties will only be permitted to use your personal information for the purpose of performing the relevant services for us and not for any other purpose. Please see “What information do we collect and why do we collect it?” above for further information. Should you wish to object to us sharing your data with any of the above mentioned companies, please click here to visit our preference centre and update your preferences.</paragraph>
+		<paragraph category="17.1;17.1">We may share your personal information with the Domino’s Family in accordance with our joint controller statement.</paragraph>
+		<paragraph category="17.1,17.2;17.1,17.2">We may share your personal information with our third-party direct marketing companies Text Management Limited and Braze Inc for the purpose of sending you promotional sms and email messages and for sending you service emails or sms messages which relate to tipping your delivery driver using an electronic payment transfer.</paragraph>
+		<paragraph category="10.3,17.1;10.3,17.1">We may also share your personal information with a purchaser or a potential purchaser of our business. We have a legitimate interest to do this: to assist with the sale or potential sale of our business.</paragraph>
+		<paragraph category="17.1,17.2;17.1,17.2">In some circumstances, we may have to disclose your personal information by law, because a court or the police or other legal or regulatory enforcement agency has asked us for it.</paragraph>
+		<paragraph category="10;10">We require all third parties that we work with to treat your personal information as confidential and to fully comply with all applicable Data Protection Legislation.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="1" font-size="2.25" font-weight="1.25" category="16.2;16.2">
+				Where do we store your personal data?
+				</title>
+			<paragraph category="14.2;14.2">The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA") pursuant to: (a) the model clauses published by the European Commission pursuant to Commission Decision C(2010) 593 Standard Contractual Clauses (Processors) and a copy of the model contract clauses is available here; or (b) the model clauses published by the European Commission pursuant to Commission Decision C 2004/915/EC Standard Contractual Clauses (Controller) and a copy of the model contract clauses is available here. Your data is treated securely and in accordance with this privacy notice.</paragraph>
+		<paragraph category="14;14">In the event that any lawful basis were to be invalidated, we shall ensure data is transferred via an alternative, valid transfer mechanism then in existence.</paragraph>
+		<paragraph category="12,14;12,14">Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of any data transmitted to our Sites and any transmission is at your own risk.</paragraph>
+		<paragraph category="12,16.2;12,16.2">Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. All information you provide to us is stored on our secure servers. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and corporate policies to safeguard and secure the information we receive.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="1" font-size="2.25" font-weight="1.25" category="19;19">
+				Track and Trace - COVID 19
+				</title>
+			<paragraph category="9;9">If you chose to dine in at one of our Stores, we will collect limited personal information from you to assist with the government’s COVID-19 contact tracing scheme.</paragraph>
+		<paragraph category="8,9.1;8,9.1">You will be asked to provide your name, a contact number, email address and postal address.</paragraph>
+		<paragraph category="11;11">The Domino’s Family use a nominated third party, Text Management Limited, to process this data on our behalf. Your information will be securely stored for 21 days before being deleted.</paragraph>
+		<paragraph category="17.2;17.2">The Domino’s Family will only share your personal information when it is requested by a legitimate public health authority.</paragraph>
+		<paragraph category="10.2,11;10.2,11">We process this information for the performance of a task carried out in the public interest.</paragraph>
+		<paragraph category="3.2;3.2">If you have any concerns about the way your data is handled in relation to track and trace, please contact the Data Protection Officer at dataprotection@dominos.co.uk</paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="1" font-size="2.25" font-weight="1.25" category="4;4">
+				Your rights
+				</title>
+			<paragraph category="4.2,4.3,4.4,4.5,4.7;4.2,4.3,4.4,4.5,4.7">You have a right to request access to or rectification of your personal data which we hold about you. You also have a right to erase your personal data, to restrict the processing of your personal data and the right to receive your personal data that you have provided to us and to transit such personal data to another controller.</paragraph>
+		<paragraph category="4.6,10.3;4.6,10.3">You have the right to object at any time to any processing of your personal data where our lawful basis for such processing is legitimate interests.</paragraph>
+		<paragraph category="1.2,4;1.2,4">To exercise any of your rights, please contact us at dataprotection@dominos.co.uk or write to us at Domino's Head Office, 1 Thornbury, West Ashland, Milton Keynes MK6 4BB for the attention of the Data Protection Officer.</paragraph>
+		<paragraph category="1.2,10;1.2,10">If you are from the police or any other regulatory body and you require information to be disclosed pursuant to any of the Data Protection Act 2018 exemptions, please contact us at DPA.Requests@dominos.co.uk.</paragraph>
+		<paragraph category="19;4">Please note, when dealing with a data subject request, we have a duty to take reasonable measures to verify the identity of the data subject who has made the request.</paragraph>
+		<paragraph category="7;7">If you are concerned about our processing of your personal data, you have a right to make a complaint to the Information Commissioner’s Office in the UK.</paragraph>
+		<paragraph category="19;4">Please note that we cannot comply with a request relating to personal data held exclusively by any of our Franchisees as we do not have access to this information. You should make a request to the Franchisee directly via your local Store.</paragraph>
+		<paragraph category="4.3;4.3">If you think any information we have about you is incorrect or incomplete, please write to us or email us and we will correct or update any information as soon as possible.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="1" font-size="2.25" font-weight="1.25" category="19;19">
+				Linking
+				</title>
+			<paragraph category="19;19">We may link to other websites which are not within our control. Once you have left our Sites, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement applicable to the website in question.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="1" font-size="2.25" font-weight="1.25" category="5;5">
+				Changes to our Privacy Notice
+				</title>
+			<paragraph category="4.1,5;4.1,5">Any changes we make to this privacy notice will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy notice.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="1" font-size="2.25" font-weight="1.25" category="1.2;1.2">
+				How to Contact Us
+				</title>
+			<paragraph category="3.2;3.2">If you have any questions about our privacy notice, please contact the Data Protection Officer at Domino’s Head Office, 1 Thornbury, West Ashland, Milton Keynes MK6 4BB or via email to dataprotection@dominos.co.uk.</paragraph>
+</segment>
+		
+</segment>
+</policy>

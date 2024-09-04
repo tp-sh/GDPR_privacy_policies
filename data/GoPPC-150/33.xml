@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.6" font-weight="2.25" category="">
+			1. Introduction
+
+			</title>
+		<paragraph category="">At Spotify, we want to give you the best possible experience to ensure that you enjoy our service. To do this we need to understand your streaming habits so we can deliver an exceptional and personalized service specifically for you. Your privacy and the security of your personal data is, and will always be, enormously important to us. So, we want to transparently explain how and why we gather, store, share and use your personal data - as well as outline the controls and choices you have around when and how you choose to share your personal data.</paragraph>
+		<paragraph category="">That is our objective, and this Privacy Policy ("Policy") will explain exactly what we mean in further detail below.</paragraph>
+		</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.6" font-weight="2.25" category="19;19">
+			2. About this Policy
+			</title>
+		<paragraph category="19;19">This Policy sets out the essential details relating to your personal data relationship with Spotify AB. The Policy applies to all Spotify services and any associated services (referred to as the 'Spotify Service'). The terms governing your use of the Spotify Service are defined in our Terms and Conditions of Use (the "Terms and Conditions of Use").</paragraph>
+		<paragraph category="19;19">From time to time, we may develop new or offer additional services. If the introduction of these new or additional services results in any material change to the way we collect or process your personal data we will provide you with more information or additional terms or policies. Unless stated otherwise when we introduce these new or additional services, they will be subject to this Policy.</paragraph>
+		<paragraph category="4,8,9,11,12,17;4,8,9,11,12,17">The aim of this Policy is to:</paragraph>
+		<item>Ensure that you understand what personal data we collect about you, the reasons why we collect and use it, and who we share it with;</item>
+		<item>Explain the way we use the personal data that you share with us in order to give you a great experience when you are using the Spotify Service; and</item>
+		<item>Explain your rights and choices in relation to the personal data we collect and process about you and how we will protect your privacy.</item>
+		<paragraph category="1.2;1.2">We hope this helps you to understand our privacy commitments to you. For further clarification of the terms used in this Policy please visit our Privacy Center on spotify.com. For information on how to contact us if you ever have any questions or concerns, please see Section 13 'How to contact us' below. Alternatively, if you do not agree with the content of this Policy, then please remember it is your choice whether you want to use the Spotify Service.</paragraph>
+		</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.6" font-weight="2.25" category="4,6;4,6">
+			3. Your rights and your preferences: Giving you choice and control
+			</title>
+		<paragraph category="4.2,4.3,4.4,4.5,4.6,4.7,6,18.1;4.2,4.3,4.4,4.5,4.6,4.7,6,18.1">The General Data Protection Regulation or "GDPR" gives certain rights to individuals in relation to their personal data. Accordingly, we are happy to offer transparency and access controls to help users take advantage of those rights. As available and except as limited under applicable law, the rights afforded to individuals are:</paragraph>
+		<item>Right of access - the right to be informed of, and request access to, the personal data we process about you;</item>
+		<item>Right to rectification - the right to request that we amend or update your personal data where it is inaccurate or incomplete;</item>
+		<item>Right to erasure - the right to request that we delete your personal data;</item>
+		<item>Right to restrict - the right to request that we temporarily or permanently stop processing all or some of your personal data;</item>
+		<item>Right to object -</item>
+		<item>the right, at any time, to object to us processing your personal data on grounds relating to your particular situation;</item>
+		<item>the right to object to your personal data being processed for direct marketing purposes;</item>
+		<item>Right to data portability - the right to request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party's service; and</item>
+		<item>Right not to be subject to automated decision-making - the right to not be subject to a decision based solely on automated decision making, including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.</item>
+		<paragraph category="">In order to enable you to learn more about these rights, exercise these rights with ease, and record your preferences in relation to how Spotify uses your personal data, we provide the following resources:</paragraph>
+		<item>Privacy Settings (accessed via your account page) - allows you to exercise choices about the processing of certain personal data, and an automated 'Download your data' function to download basic account and usage information.</item>
+		<item>Privacy Center - provides a convenient central location where you can find more information about how Spotify uses your personal data, your rights in relation to your personal data, and how to exercise those rights.</item>
+		<item>Notification Settings (accessed via your account page) - allows you to choose which marketing communications you receive from Spotify. You may toggle these settings to opt in or out of receiving different types of email and push notifications. Please note that email marketing messages from Spotify include an opt-out mechanism within the message itself (e.g. an unsubscribe link in the emails we send to you). Clicking on the link in an email will opt you out of further messages of that category (e.g. Artist Updates). You can use the Notification Settings page to exercise choices about all categories of email and push marketing communication.</item>
+		<item>Cookies Policy - provides more information on how we use cookies, including for interest-based advertising. You will also find information about how you can manage your cookie preferences and opt-out of certain types of tracking; and</item>
+		<item>Customer Support resources - We have several pages on our customer support site which provide further guidance about data protection questions. A key source of information is the Data Rights and Privacy Settings article which includes answers to "frequently asked questions" about personal data processing in the Spotify Service.</item>
+		<paragraph category="3.2,4;3.2,4">If you have any questions about your privacy, your rights, or how to exercise them, please contact our Data Protection Officer using the 'Contact Us' form on the Privacy Center. If you have concerns around our processing of your personal data, we hope you will continue to work with us to resolve them. However, you can also contact and have the right to lodge a complaint with the Swedish Data Protection Authority (Datainspektionen) or your local Data Protection Authority.</paragraph>
+		</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.6" font-weight="2.25" category="8,9;8,9">
+			4. Personal data we collect from you
+			</title>
+		<paragraph category="8.1,9;8.1,9">We have set out in the tables below the categories of personal data we collect and use about you and how we collect it:</paragraph>
+		<paragraph category="8,9;8,9">The table below describes personal data collected when you sign up for the Spotify Service:</paragraph>
+		<paragraph category="4.1,8,9.1,9.2,11;4.1,8,9.1,9.2,11">The table below describes personal data collected through your use of the Spotify Service:</paragraph>
+		<item>Information about your type of Spotify Service plan.</item>
+		<item>Information about your interactions with the Spotify Service such as your search queries (including the date and time of any requests you make), streaming history, playlists you create, your library, your browsing history, and your interactions with the Spotify Service, content, other Spotify users. This also may include details of your use of third party applications in connection with the Spotify Service.</item>
+		<item>Inferences drawn about your interests and preferences based on your usage of the Spotify Service.</item>
+		<item>User Content (as defined in the Terms and Conditions of Use) you post to Spotify, such as photos, playlist titles, and interactions with the Spotify Customer Service team. Please note that we will only access your camera or photos from your device if you give us permission to do so, and we will only access images that you specifically choose to share with us and metadata related to those images, such as the type of file and the size of the image. We will never scan or import your device’s photo library or camera roll.</item>
+		<item>Certain technical data, which may include:</item>
+		<item>URL information;</item>
+		<item>online identifiers including cookie data and IP addresses;</item>
+		<item>information about the types of devices you are using such as unique device IDs, network connection type (e.g. wifi, 3G, LTE, Bluetooth), provider, network and device performance, browser type, language, information enabling digital rights management, operating system, and Spotify application version;</item>
+		<item>device attributes of devices on your wifi network that are available to connect to the Spotify Service (such as speakers);</item>
+		<item>your non-precise location, which may be derived or inferred from certain technical data (e.g., your IP address, language setting of your device, or payment currency), to comply with geographic requirements in our licensing agreements, and deliver personalized content and advertising to you; and</item>
+		<item>motion-generated or orientation-generated mobile sensor data (e.g. accelerometer or gyroscope) required for the purposes of providing specific features of the Spotify Service to you.</item>
+		<paragraph category="8,9.1;8,9.1">The table below describes personal data that you choose to give us that enables us to provide you with additional features/functionality</paragraph>
+		<item>Name;</item>
+		<item>Date of birth;</item>
+		<item>Credit or debit card type, expiration date, and certain digits of your card number;</item>
+		<item>Postal code;</item>
+		<item>Mobile phone number; and</item>
+		<item>Details of your purchase and payment history.</item>
+		<paragraph category="8,9.3;8,9.3">The table below describes personal data collected from third party sources</paragraph>
+		<paragraph category="8,9.3;8,9.3">We collect personal data about you from various third parties. These third party sources vary over time and include the following:</paragraph>
+		</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.6" font-weight="2.25" category="11;11">
+			5. What we use your personal data for
+			</title>
+		<paragraph category="4.1,8,9,10,11;4.1,8,9,10,11">When you use or interact with the Spotify Service, we use a variety of technologies to process the personal data we collect about you for various reasons. We have set out in the table below the reasons why we process your personal data, the associated legal bases we rely upon to legally permit us to process your personal data, and the categories of personal data (identified in Section 4 'Personal data we collect from you' used for these purposes:</paragraph>
+		<item>Performance of a Contract</item>
+		<item>Legitimate Interest</item>
+		<item>Consent</item>
+		<item>User Data</item>
+		<item>Usage Data</item>
+		<item>Payment and Purchase Data</item>
+		<item>Plan Verification Data</item>
+		<item>Voice Data</item>
+		<item>Performance of a Contract</item>
+		<item>Legitimate Interest</item>
+		<item>User Data</item>
+		<item>Usage Data</item>
+		<item>Legitimate Interest</item>
+		<item>Consent</item>
+		<item>User Data</item>
+		<item>Usage Data</item>
+		<item>Voice Data</item>
+		<item>Legitimate Interest</item>
+		<item>Consent</item>
+		<item>User Data</item>
+		<item>Usage Data</item>
+		<item>Voice Data</item>
+		<item>Compliance with legal obligations</item>
+		<item>Legitimate interest</item>
+		<item>User Data</item>
+		<item>Usage Data</item>
+		<item>Payment and Purchase Data</item>
+		<item>Plan Verification Data</item>
+		<item>Voice Data</item>
+		<item>Contests, Surveys and Sweepstakes Data</item>
+		<item>User Data</item>
+		<item>Usage Data</item>
+		<item>Payment and Purchase Data</item>
+		<item>User Data</item>
+		<item>Usage Data</item>
+		<item>Payment and Purchase Data</item>
+		<item>Plan Verification Data</item>
+		<item>Voice Data</item>
+		<item>Contests, Surveys and Sweepstakes Data</item>
+		<item>User Data</item>
+		<item>Usage Data</item>
+		<item>Payment and Purchase Data</item>
+		<item>Performance of a Contract</item>
+		<item>Compliance with legal obligations</item>
+		<item>User Data</item>
+		<item>Payment and Purchase Data</item>
+		<item>Performance of a Contract</item>
+		<item>Compliance with legal obligations</item>
+		<item>Legitimate Interest</item>
+		<item>User Data</item>
+		<item>Usage Data</item>
+		<item>Payment and Purchase Data</item>
+		<item>Plan Verification Data</item>
+		<item>Performance of a Contract</item>
+		<item>Legitimate Interest</item>
+		<item>Consent</item>
+		<item>User Data</item>
+		<item>Usage Data</item>
+		<item>Contests, Surveys and Sweepstakes Data</item>
+		<paragraph category="1.2,10;1.2,10">If you require further information about the balancing test that Spotify has undertaken to justify its reliance on the legitimate interest legal basis under the GDPR, please see Section 13 'How to contact us' for further details on how to contact us.</paragraph>
+		</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.6" font-weight="2.25" category="17;17">
+			6. Sharing your personal data
+			</title>
+		<paragraph category="17.1;17.1">We have set out the categories of recipients of the personal data collected or generated through your use of the Spotify Service.</paragraph>
+		<paragraph category="17.1;17.1">Publicly available information</paragraph>
+		<paragraph category="17.1;17.1">The following personal data will always be publicly available on the Spotify Service: your name and/or username, profile picture, who you follow and who follows you on the Spotify Service, your recently played artists, and your public playlists.</paragraph>
+		<paragraph category="6,17;6,17">Personal data you may choose to share</paragraph>
+		<paragraph category="6,17.1;6,17.1">The following personal data will only be shared with the categories of recipients outlined in the table below if:</paragraph>
+		<item>you choose to make use of a specific Spotify Service feature where sharing of particular personal data is required for the proper use of the Spotify Service feature; or</item>
+		<item>you grant us your permission to share the personal data, e.g. by selecting the appropriate setting in the Spotify Service or authorizing Spotify through a presented consent mechanism.</item>
+		<paragraph category="4,6,17;4,6,17">Learn more about how to manage notifications, your publicly available information, and what you share with others in Section 3 'Your rights and your preferences: Giving you choice and control' of this Policy and on the Privacy Center.</paragraph>
+		<paragraph category="17;17">Information we may share</paragraph>
+		</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.6" font-weight="2.25" category="16;16">
+			7. Data retention and deletion
+			</title>
+		<paragraph category="16.1;16.1">We keep your personal data only as long as necessary to provide you with the Spotify Service and for legitimate and essential business purposes, such as maintaining the performance of the Spotify Service, making data-driven business decisions about new features and offerings, complying with our legal obligations, and resolving disputes. We keep some of your personal data for as long as you are a user of the Spotify Service. For example, we keep your playlists, song library, and account information.</paragraph>
+		<paragraph category="4.4,16.3,17.2;4.4,16.3,17.2">If you request, we will delete or anonymise your personal data so that it no longer identifies you, unless we are legally allowed or required to maintain certain personal data, including situations such as the following:</paragraph>
+		<item>If there is an unresolved issue relating to your account, such as an outstanding credit on your account or an unresolved claim or dispute we will retain the necessary personal data until the issue is resolved;</item>
+		<item>Where we need to retain the personal data for our legal, tax, audit, and accounting obligations, we will retain the necessary personal data for the period required by applicable law; and/or,</item>
+		<item>Where necessary for our legitimate business interests such as fraud prevention or to maintain the security of our users.</item>
+		</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.6" font-weight="2.25" category="14;14">
+			8. Transfer to other countries
+			</title>
+		<paragraph category="14;14">Spotify shares your personal data globally with Spotify group companies in order to carry out the activities specified in this Policy. Spotify may also subcontract processing to, or share your personal data with, third parties located in countries other than your country. Your personal data, therefore, may be subject to privacy laws that are different from those in your country.</paragraph>
+		<paragraph category="14;14">Personal data collected within the European Union and Switzerland may, for example, be transferred to and processed by third parties located in a country outside of the European Union and Switzerland. In such instances Spotify shall ensure that the transfer of your personal data is carried out in accordance with applicable privacy laws and, in particular, that appropriate contractual, technical, and organisational measures are in place such as the Standard Contractual Clauses approved by the EU Commission.</paragraph>
+		<paragraph category="12;12">For further details of the security measures we use to protect your personal data, please see Section 10 'Keeping your personal data safe' of this Policy.</paragraph>
+		</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.6" font-weight="2.25" category="19;19">
+			9. Links
+			</title>
+		<paragraph category="19;19">We may display advertisements from third parties and other content that links to third-party websites. We cannot control or be held responsible for third parties' privacy practices and content. If you click on a third-party advertisement or link, please understand that you are leaving the Spotify Service and any personal data you provide will not be covered by this Policy. Please read their privacy policies to find out how they collect and process your personal data.</paragraph>
+		</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.6" font-weight="2.25" category="12;12">
+			10. Keeping your personal data safe
+			</title>
+		<paragraph category="12;12">We are committed to protecting our users' personal data. We implement appropriate technical and organisational measures to help protect the security of your personal data; however, please note that no system is ever completely secure. We have implemented various policies including pseudonymisation, encryption, access, and retention policies to guard against unauthorised access and unnecessary retention of personal data in our systems.</paragraph>
+		<paragraph category="12;12">Your password protects your user account, so we encourage you to use a strong password that is unique to your Spotify account, never share your password with anyone, limit access to your computer and browser, and log out after having used the Spotify Service.</paragraph>
+		</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.6" font-weight="2.25" category="15;15">
+			11. Children
+			</title>
+		<paragraph category="4.1,15;4.1,15">With the exception of Spotify Kids, a separate Spotify application available in certain markets, the Spotify Service is not directed to children under the age of 13 years. The Spotify Service is also not offered to children whose age makes it illegal to process their personal data or requires parental consent for the processing of their personal data under the GDPR or other local law.</paragraph>
+		<paragraph category="15;15">We do not knowingly collect personal data from children under 13 years or under the applicable age limit (the "Age Limit"). If you are under the Age Limit, please do not use the Spotify Service, and do not provide any personal data to us.</paragraph>
+		<paragraph category="1.2,4,15;1.2,4,15">If you are a parent of a child under the Age Limit and become aware that your child has provided personal data to Spotify, please contact us using the 'Contact Us' form on the Privacy Center, and you may request exercise of your applicable rights detailed in Section 3 'Your rights and your preferences: Giving you choice and control' of this Policy.</paragraph>
+		<paragraph category="16.3;16.3">If we learn that we have collected the personal data of a child under the age of 13 years, we will take reasonable steps to delete the personal data. This may require us to delete the Spotify account for that child.</paragraph>
+		</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.6" font-weight="2.25" category="5;5">
+			12. Changes to this Policy
+			</title>
+		<paragraph category="5;5">We may occasionally make changes to this Policy.</paragraph>
+		<paragraph category="4.1,5;4.1,5">When we make material changes to this Policy, we'll provide you with prominent notice as appropriate under the circumstances, e.g., by displaying a prominent notice within the Spotify Service or by sending you an email and/or a device notification. We may notify you in advance.</paragraph>
+		<paragraph category="19;5">Please, therefore, make sure you read any such notice carefully.</paragraph>
+		<paragraph category="5;5">If you want to find out more about this Policy and how Spotify uses your personal data, please visit the Privacy Center on spotify.com to find out more.</paragraph>
+		</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.6" font-weight="2.25" category="1.2;1.2">
+			13. How to contact us
+			</title>
+		<paragraph category="3.2;3.2">Thank you for reading our Policy. If you have any questions about this Policy, please contact our Data Protection Officer by using the 'Contact Us' form on the Privacy Center, emailing privacy@spotify.com, or by writing to us at the following address:</paragraph>
+		<paragraph category="1.2;1.2">Spotify AB Regeringsgatan 19 111 53 Stockholm Sweden</paragraph>
+		<paragraph category="1;1">Spotify AB is the data controller for the purposes of the personal data processed under this Policy.</paragraph>
+		</segment>
+</policy>

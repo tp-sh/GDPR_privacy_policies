@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.7" font-weight="1.75" category="8,9;8,9">
+			What data we collect
+			</title>
+		<paragraph category="8,9.1,9.2;8,9.1,9.2">The personal data we collect from you includes:</paragraph>
+		<item>questions, queries or feedback you leave, including your email address if you contact GOV.UK</item>
+		<item>your postcode if you use a GOV.UK service that includes a postcode lookup function (such as the school term and holiday dates service)</item>
+		<item>your email address and subscription preferences when you sign up to our email alerts</item>
+		<item>how you use our emails - for example whether you open them and which links you click on</item>
+		<item>your Internet Protocol (IP) address, and details of which version of web browser you used</item>
+		<item>information on how you use the site, using cookies and page tagging techniques</item>
+		<paragraph category="8,9.2;8,9.2">We use Google Analytics and LUX Real User Monitoring (RUM) software to collect information about how you use GOV.UK and how the website performs during your visit. This includes IP addresses. The data is anonymised before being used for analytics and web performance processing.</paragraph>
+		<paragraph category="8,9.2;8,9.2">Google Analytics processes anonymised information about:</paragraph>
+		<item>the pages you visit on GOV.UK</item>
+		<item>how long you spend on each GOV.UK page</item>
+		<item>how you got to the site</item>
+		<item>what you click on while you’re visiting the site</item>
+		<paragraph category="8,9.2;8,9.2">LUX Real User Monitoring software processes anonymised information about:</paragraph>
+		<item>how well the pages performed on your device</item>
+		<item>performance bottlenecks your device experienced</item>
+		<item>JavaScript errors your device encountered</item>
+		<paragraph category="16;16">We do not store your personal information through Google Analytics or LUX (for example your name or address).</paragraph>
+		<paragraph category="19;19">We will not identify you through analytics information, and we will not combine analytics information with other data sets in a way that would identify who you are.</paragraph>
+		<paragraph category="12;12">We continuously test and monitor our data protection controls to make sure they’re effective and to detect any weaknesses.</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.7" font-weight="1.75" category="11;11">
+			Why we need your data
+			</title>
+		<paragraph category="11;11">We collect information through Google Analytics to see how you use GOV.UK and government digital services and through LUX to see how well the site performs on your device. We do this to help:</paragraph>
+		<item>make sure GOV.UK is meeting the needs of its users</item>
+		<item>make improvements, for example improving site search</item>
+		<item>make performance improvements, for example improving page load time and data usage</item>
+		<paragraph category="11;11">We also collect data in order to:</paragraph>
+		<item>gather feedback to improve our services, for example our email alerts</item>
+		<item>respond to any feedback you send us, if you’ve asked us to</item>
+		<item>send email alerts to users who request them</item>
+		<item>allow you to access government services and make transactions</item>
+		<item>provide you with information about local services</item>
+		<item>monitor use of the site to identify security threats</item>
+		<item>monitor the performance of the site to identify inefficiencies and JavaScript errors</item>
+</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.7" font-weight="1.75" category="10;10">
+			Our legal basis for processing your data
+			</title>
+		<paragraph category="10.3;10.3">The legal basis for processing personal data in relation to site security is our legitimate interests, and the legitimate interests of our users, in ensuring the security and integrity of GOV.UK.</paragraph>
+		<paragraph category="10.5;10.5">The legal basis for processing anonymised data for Google Analytics and LUX is your consent.</paragraph>
+		<paragraph category="10.2;10.2">The legal basis for processing all other personal data is that it’s necessary:</paragraph>
+		<item>to perform a task in the public interest</item>
+		<item>in the exercise of our functions as a government department</item>
+</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.7" font-weight="1.75" category="11;11">
+			What we do with your data
+			</title>
+		<paragraph category="11,17;11,17">The data we collect may be shared with other government departments, agencies and public bodies. It may also be shared with our technology suppliers, for example our hosting provider.</paragraph>
+		<paragraph category="11,17;11,17">We will not:</paragraph>
+		<item>sell or rent your data to third parties</item>
+		<item>share your data with third parties for marketing purposes</item>
+		<item>use your data in analytics</item>
+		<paragraph category="17.2;17.2">We will share your data if we are required to do so by law - for example, by court order, or to prevent fraud or other crime.</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.7" font-weight="1.75" category="16.1;16.1">
+			How long we keep your data
+			</title>
+		<paragraph category="16.1;16.1">We will only retain your personal data for as long as:</paragraph>
+		<item>it is needed for the purposes set out in this document</item>
+		<item>the law requires us to</item>
+		<paragraph category="16.3;16.3">We will keep your email data until you unsubscribe. We will keep your feedback data for 2 years. We will delete access log data after 120 days.</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.7" font-weight="1.75" category="15;15">
+			Children’s privacy protection
+			</title>
+		<paragraph category="15;15">Our services are not designed for, or intentionally targeted at, children 13 years of age or younger. We do not intentionally collect or maintain data about anyone under the age of 13.</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.7" font-weight="1.75" category="16.2;16.2">
+			Where your data is processed and stored
+			</title>
+		<paragraph category="12;12">We design, build and run our systems to make sure that your data is as safe as possible at all stages, both while it’s processed and when it’s stored.</paragraph>
+		<paragraph category="16.2;16.2">All personal data is stored in the European Economic Area (EEA). Data collected by Google Analytics and LUX may be transferred outside the EEA for processing.</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.7" font-weight="1.75" category="12;12">
+			How we protect your data and keep it secure
+			</title>
+		<paragraph category="12;12">We are committed to doing all that we can to keep your data secure. We have set up systems and processes to prevent unauthorised access or disclosure of your data - for example, we protect your data using varying levels of encryption.</paragraph>
+		<paragraph category="12;12">We also make sure that any third parties that we deal with keep all personal data they process on our behalf secure.</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.7" font-weight="1.75" category="4;4">
+			Your rights
+			</title>
+		<paragraph category="4.1,4.3,4.7;4.1,4.3,4.7">You have the right to request:</paragraph>
+		<item>information about how your personal data is processed</item>
+		<item>a copy of that personal data</item>
+		<item>that anything inaccurate in your personal data is corrected immediately</item>
+		<paragraph category="4.4,4.5,4.6;4.4,4.5,4.6">You can also:</paragraph>
+		<item>raise an objection about how your personal data is processed</item>
+		<item>request that your personal data is erased if there is no longer a justification for it</item>
+		<item>ask that the processing of your personal data is restricted in certain circumstances</item>
+		<paragraph category="1.2;1.2">If you have any of these requests, get in contact with our Privacy Team.</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.7" font-weight="1.75" category="19;19">
+			Links to other websites
+			</title>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.9" font-weight="1.75" category="19;19">
+				Following a link to another website
+				</title>
+			<paragraph category="19;19">If you go to another website from this one, read the privacy policy on that website to find out what it does with your information.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.9" font-weight="1.75" category="19;19">
+				Following a link to GOV.UK from another website
+				</title>
+			<paragraph category="19;19">If you come to GOV.UK from another website, we may receive personal information from the other website. You should read the privacy policy of the website you came from to find out more about this.</paragraph>
+</segment>
+		<paragraph category="19;19">GOV.UK contains links to other websites.</paragraph>
+		<paragraph category="19;19">This privacy notice only applies to GOV.UK, and does not cover other government services and transactions that we link to. These services, such as Universal Credit, have their own terms and conditions and privacy policies.</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.7" font-weight="1.75" category="19;19">
+			GOV.UK accounts trial
+			</title>
+		<paragraph category="11;11">GOV.UK is trialling accounts to try to improve online public services.</paragraph>
+		<paragraph category="4.2,4.3,4.9;4.2,4.3,4.9">Creating an account is optional and all GOV.UK services are accessible with or without an account. You can access, update or permanently delete your account and all the information stored in it at any time.</paragraph>
+		<paragraph category="8,9,11;8,9,11">This privacy notice covers most things related to GOV.UK accounts but accounts need to collect and store some extra data to make them work. Read the full GOV.UK accounts trial privacy notice for more detail on how GOV.UK accounts store, process and share your personal information.</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.7" font-weight="1.75" category="1.2,7;1.2,7">
+			Contact us or make a complaint
+			</title>
+		<paragraph category="1.2;1.2">Contact the Privacy Team if you:</paragraph>
+		<item>have a question about anything in this privacy notice</item>
+		<item>think that your personal data has been misused or mishandled</item>
+		<paragraph category="19;1.2">Privacy Team
+gds-privacy-office@digital.cabinet-office.gov.uk</paragraph>
+		<paragraph category="3.2;3.2">You can also contact our Data Protection Officer (DPO):</paragraph>
+		<paragraph category="3.2;3.2">Data Protection Officer
+DPO@cabinetoffice.gov.uk
+Cabinet Office
+70 Whitehall
+London 
+SW1A 2AS</paragraph>
+		<paragraph category="3.2;3.2">The DPO provides independent advice and monitoring of our use of personal information.</paragraph>
+		<paragraph category="7;7">You can also make a complaint to the Information Commissioner, who is an independent regulator.</paragraph>
+		<paragraph category="7;7">Information Commissioner
+casework@ico.org.uk
+Telephone: 0303 123 1113
+Textphone: 01625 545860
+Monday to Friday, 9am to 4:30pm
+Find out about call charges</paragraph>
+		<paragraph category="7;7">
+Information Commissioner's Office
+Wycliffe House
+Water Lane
+Wilmslow
+Cheshire SK9 5AF
+
+</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.7" font-weight="1.75" category="5;5">
+			Changes to this policy
+			</title>
+		<paragraph category="5;5">We may change this privacy policy. In that case, the ‘last updated’ date at the bottom of this page will also change. Any changes to this privacy policy will apply to you and your data immediately.</paragraph>
+		<paragraph category="4.1,5;4.1,5">If these changes affect how your personal data is processed, GDS will take reasonable steps to let you know.</paragraph>
+</segment>
+</policy>

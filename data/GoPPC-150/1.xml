@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<url>https://policies.google.com/privacy?gl=DE&amp;hl=en-GB</url>
+	<update_time>2021/02/04</update_time>
+	<download_time>2021/02/18</download_time>
+	<paragraph category="">When you use our services, you’re trusting us with your information. We understand that this is a big responsibility and we work hard to protect your information and put you in control. This Privacy Policy is meant to help you understand what information we collect, why we collect it and how you can update, manage, export and delete your information. Privacy Check-Up Looking to change your privacy settings? Take the Privacy Check-Up Effective 4 February 2021 | Archived versions | Download PDF We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include: <list><item>Google apps, sites and devices, such as Search, YouTube and Google Home</item> <item>Platforms such as the Chrome browser and Android operating system</item> <item>Products that are integrated into third-party apps and sites, such as ads and embedded Google Maps</item></list> You can use our services in a variety of ways to manage your privacy. For example, you can sign up for a Google Account if you want to create and manage content such as emails and photos, or to see more relevant search results. And you can use many Google services when you’re signed out or without creating an account at all; for example, searching on Google or watching YouTube videos. You can also choose to browse the web privately using Chrome in Incognito mode. And across our services, you can adjust your privacy settings to control what we collect and how your information is used. To help explain things as clearly as possible, we’ve added examples, explanatory videos and definitions for key terms . And if you have any questions about this Privacy Policy, you can contact us . </paragraph>
+	<segment>
+		<title category="8,9;8,9" depth="3" font-size="0.75" font-weight="1.25" tagname="h1">Information that Google collects</title>
+		<paragraph category="8,9,11;8,9,11">We want you to understand the types of information we collect as you use our services We collect information to provide better services to all our users – from figuring out basic stuff such as which language you speak, to more complex things like which ads you’ll find most useful , the people who matter most to you online or which YouTube videos you might like. The information Google collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.  </paragraph>
+		<paragraph category="8,9.1,11;8,9.1,11">when you’re not signed in to a Google Account, we store the information that we collect with unique identifiers tied to the browser, application or device that you’re using. This helps us do things such as maintain your language preferences across browsing sessions.  </paragraph>
+		<paragraph category="8,9.2;8,9.2">When you’re signed in, we also collect information that we store with your Google Account, which we treat as personal information . </paragraph>
+		<segment>
+			<title category="8,9.1;8,9.1" depth="3" font-size="1.5" font-weight="1.25" tagname="h2">Things that you create or provide to us</title>
+			<paragraph category="8,9.1;8,9.1">When you create a Google Account, you provide us with personal information that includes your name and a password. You can also choose to add a phone number or payment information to your account. Even if you aren’t signed in to a Google Account, you might choose to provide us with information – like an email address to receive updates about our services.</paragraph>
+			<paragraph category="8,9.2;8,9.2"> We also collect the content that you create, upload or receive from others when using our services. This includes things such as email you write and receive, photos and videos that you save, docs and spreadsheets you create and comments that you make on YouTube videos. </paragraph>
+		</segment>
+		<segment>
+			<title category="8,9.2;8,9.2" depth="3" font-size="1.5" font-weight="1.25" tagname="h2">Information that we collect as you use our services</title>
+			<segment>
+				<title category="19;8,9.2" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">Your apps, browsers &amp; devices</title>
+				<paragraph category="8,9.2,11;8,9.2,11">We collect information about the apps, browsers and devices that you use to access Google services, which helps us provide features such as automatic product updates and dimming your screen if your battery runs low. </paragraph>
+				<paragraph category="8,9.2;8,9.2">The information that we collect includes unique identifiers , browser type and settings, device type and settings, operating system, mobile network information including operator name and phone number and application version number. We also collect information about the interaction of your apps, browsers and devices with our services, including <item>IP address</item> , crash reports, system activity, and the date, time and referrer URL of your request. </paragraph>
+				<paragraph category="8,9.2;8,9.2">We collect this information when a Google service on your device contacts our servers – for example, when you install an app from the Play Store or when a service checks for automatic updates. If you’re using an Android device with Google apps , your device periodically contacts Google servers to provide information about your device and connection to our services. This information includes things such as your device type, operator name, crash reports and which apps you’ve installed. </paragraph>
+			</segment>
+			<segment>
+				<title category="19;8,9.2" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">Your activity</title>
+				<paragraph category="8,9.2,9.3,11;8,9.2,9.3,11">We collect information about your activity in our services, which we use to do things like recommend a YouTube video that you might like. The activity information that we collect may include: <list><item>Terms that you search for</item> <item>Videos that you watch</item> <item>Views and interactions with content and ads</item> <item>Voice and audio information when you use audio features</item> <item>Purchase activity</item> <item>People with whom you communicate or share content</item> <item>Activity on third-party sites and apps that use our services</item> <item>Chrome browsing history that you’ve synced with your Google Account</item></list> </paragraph>
+				<paragraph category="8,9.2;8,9.2">If you use our services to make and receive calls or send and receive messages , we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information and types and volumes of calls and messages. </paragraph>
+				<paragraph category="4;4">You can visit your Google Account to find and manage activity information that’s saved in your account. Go to Google Account </paragraph>
+			</segment>
+			<segment>
+				<title category="8;8,9.2" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">Your location information</title>
+				<paragraph category="8,9.2,11;8,9.2,11">We collect information about your location when you use our services, which helps us offer features such as driving directions for your weekend getaway or show times for movies playing near you. </paragraph>
+				<paragraph category="19;19">Your location can be determined with varying degrees of accuracy by: <list><item>GPS</item> <item>IP address</item> <item>Sensor data from your device</item> <item>Information about things near your device , such as Wi-Fi access points, cell towers and Bluetooth-enabled devices</item></list> </paragraph>
+				<paragraph category="8.1,9,4;8.1,9,4">The types of location data that we collect depend in part on your device and account settings. For example, you can turn your Android device’s location on or off using the device’s settings app. You can also turn on Location History if you want to create a private map of where you go with your signed-in devices. In some circumstances, Google also collects information about you from publicly accessible sources . For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, including marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to protect against abuse . We also receive information from advertisers to provide advertising and research services on their behalf . We use various technologies to collect and store information, including cookies , pixel tags , local storage, such as browser web storage or application data caches , databases and server logs . </paragraph>
+			</segment>
+		</segment>
+	</segment>
+	<segment>
+		<title category="11;11" depth="3" font-size="0.75" font-weight="1.25" tagname="h1">Why Google collects data</title>
+		<paragraph category="11;11">We use data to build better services We use the information that we collect from all our services for the following purposes: </paragraph>
+		<segment>
+			<title category="19;11" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">Provide our services</title>
+			<paragraph category="11;11">We use your information to deliver our services , such as processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;11" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">Maintain &amp; improve our services</title>
+			<paragraph category="11,9.1;11,9.1">We also use your information to ensure that our services are working as intended , such as tracking outages or troubleshooting issues that you report to us. And we use your information to make improvements to our services – for example, understanding which search terms are most frequently misspelled helps us improve spell-check features used across our services. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;11" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">Develop new services</title>
+			<paragraph category="11;11">We use the information we collect in existing services to help us develop new ones. For example, understanding how people organised their photos in Picasa, Google’s first photos app, helped us design and launch Google Photos. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;11" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">Provide personalised services, including content and ads</title>
+			<paragraph category="11,9.3;11,9.3">We use the information we collect to customise our services for you, including providing recommendations, personalised content and customised search results . For example, Security Check-Up provides security tips adapted to how you use Google products. And Google Play uses information such as apps that you’ve already installed and videos that you’ve watched on YouTube to suggest new apps you might like.</paragraph>
+			<paragraph category="11,4;11,4">Depending on your settings, we may also show you personalised ads based on your interests. For example, if you search for 'mountain bikes', you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google. You can control what information we use to show you ads by visiting your ad settings. <list><item>We don’t show you personalised ads based on sensitive categories , such as race, religion, sexual orientation or health.</item> <item>We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the 'tap to call' button, we’ll connect your call and may share your phone number with the flower shop.</item></list> Go to Ad Settings </paragraph>
+		</segment>
+		<segment>
+			<title category="19;11" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">Measure performance</title>
+			<paragraph category="11,9.2;11,9.2">We use data for analytics and measurement to understand how our services are used. For example, we analyse data about your visits to our sites to do things like optimise product design. And we also use data about the ads with which you interact to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites that use Google Analytics, a Google Analytics customer may choose to enable Google to link information about your activity from that site with activity from other sites that use our ad services. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;11" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">Communicate with you</title>
+			<paragraph category="11,9.2;11,9.2">We use information that we collect, such as your email address, to interact with you directly. For example, we may send you a notification if we detect suspicious activity, such as an attempt to sign in to your Google Account from an unusual location. Or we may let you know about upcoming changes or improvements to our services. And if you contact Google, we’ll keep a record of your request in order to help solve any issues you might be facing. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;11" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">Protect Google, our users and the public</title>
+			<paragraph category="11;11">We use information to help improve the safety and reliability of our services. This includes detecting, preventing, and responding to fraud, abuse, security risks and technical issues that could harm Google, our users or the public. </paragraph>
+			<paragraph category="11,9.2;11,9.2">We use different technologies to process your information for these purposes. We use automated systems that analyse your content to provide you with things like customised search results, personalised ads or other features tailored to how you use our services. And we analyse your content to help us detect abuse such as spam, malware, and illegal content. We also use algorithms to recognise patterns in data. For example, Google Translate helps people communicate across languages by detecting common language patterns in phrases that you ask it to translate. </paragraph>
+			<paragraph category="11;11">We may combine the information we collect among our services and across your devices for the purposes described above. For example, if you watch videos of guitar players on YouTube, you might see an ad for guitar lessons on a site that uses our ad products. Depending on your account settings, your activity on other sites and apps may be associated with your personal information in order to improve Google’s services and the ads delivered by Google. </paragraph>
+			<paragraph category="11;11">If other users already have your email address or other information that identifies you, we may show them your publicly visible Google Account information, such as your name and photo. For example, this helps people identify an email coming from you. </paragraph>
+			<paragraph category="11,4.1;11,4.1">We’ll ask for your consent before using your information for a purpose that isn’t covered in this Privacy Policy. </paragraph>
+		</segment>
+	</segment>
+	<segment>
+		<title category="4;4" depth="3" font-size="0.75" font-weight="1.25" tagname="h1">Your privacy controls</title>
+		<paragraph category="4,6;4,6">You have choices regarding the information we collect and how it’s used This section describes key controls for managing your privacy across our services. You can also visit the Privacy Check-Up , which provides an opportunity to review and adjust important privacy settings. In addition to these tools, we also offer specific privacy settings in our products – you can learn more in our Product Privacy Guide . Go to Privacy Check-Up </paragraph>
+		<segment>
+			<title category="4;4" depth="3" font-size="1.5" font-weight="1.25" tagname="h2">Managing, reviewing, and updating your information</title>
+			<paragraph category="4;4">When you’re signed in, you can always review and update information by visiting the services you use. For example, Photos and Drive are both designed to help you manage specific types of content that you’ve saved with Google. We also built a place for you to review and control information saved in your Google Account. Your Google Account includes: </paragraph>
+			<segment>
+				<title category="4;4" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">Privacy controls</title>
+				<segment>
+					<title category="19;4" depth="5" font-size="0.88" font-weight="1.5" tagname="h3">Activity Controls</title>
+					<paragraph category="4;4">Decide what types of activity that you’d like saved in your account. For example, you can turn on Location History if you want traffic predictions for your daily commute, or you can save your YouTube Watch History to get better video suggestions. Go to Activity Controls </paragraph>
+				</segment>
+				<segment>
+					<title category="19;4" depth="5" font-size="0.88" font-weight="1.5" tagname="h3">Ad settings</title>
+					<paragraph category="4;4">Manage your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads. You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services. Go to Ad Settings </paragraph>
+				</segment>
+				<segment>
+					<title category="19;4" depth="5" font-size="0.88" font-weight="1.5" tagname="h3">About you</title>
+					<paragraph category="4,6;4,6">Control what others see about you across Google services. Go to About You </paragraph>
+				</segment>
+				<segment>
+					<title category="19;4" depth="5" font-size="0.88" font-weight="1.5" tagname="h3">Shared endorsements</title>
+					<paragraph category="4,6;4,6">Choose whether your name and photo appear next to your activity, such as reviews and recommendations, which appear in ads. Go to Shared Endorsements </paragraph>
+				</segment>
+			</segment>
+			<segment>
+				<title category="4;4" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">Ways to review &amp; update your information</title>
+				<segment>
+					<title category="19;4" depth="5" font-size="0.88" font-weight="1.5" tagname="h3">My Activity</title>
+					<paragraph category="4;4">My Activity allows you to review and control data that’s created when you use Google services, such as searches that you’ve done or your visits to Google Play. You can browse by date and by topic, and delete part or all of your activity. Go to My Activity </paragraph>
+				</segment>
+				<segment>
+					<title category="19;4" depth="5" font-size="0.88" font-weight="1.5" tagname="h3">Google Dashboard</title>
+					<paragraph category="4;4">Google Dashboard allows you to manage information associated with specific products. Go to Dashboard </paragraph>
+				</segment>
+				<segment>
+					<title category="19;4" depth="5" font-size="0.88" font-weight="1.5" tagname="h3">Your personal information</title>
+					<paragraph category="4;4">Manage your contact information, such as your name, email and phone number. Go to Personal Info When you’re signed out, you can manage information associated with your browser or device, including: <list><item>Signed-out search personalisation: Choose whether your search activity is used to offer you more relevant results and recommendations.</item> <item>YouTube settings: Pause and delete your YouTube Search History and your YouTube Watch History .</item> <item>Ad Settings: Manage your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.</item></list> </paragraph>
+				</segment>
+			</segment>
+		</segment>
+		<segment>
+			<title category="4.4,4.7;4.4,4.7" depth="3" font-size="1.5" font-weight="1.25" tagname="h2">Exporting, removing &amp; deleting your information</title>
+			<paragraph category="4.4,4.7;4.4,4.7">You can export a copy of content in your Google Account if you want to back it up or use it with a service outside of Google. Export your data You can also request to remove content from specific Google services based on applicable law. To delete your information, you can: <item>Delete your content from specific Google services</item> <item>Search for and then delete specific items from your account using My Activity</item>.<item>Delete specific Google products , including your information associated with those products</item> <item>Delete your entire Google Account</item> Delete your information And finally, Inactive Account Manager allows you to give someone else access to parts of your Google Account in case you’re unexpectedly unable to use your account. There are other ways to control the information that Google collects whether or not you’re signed in to a Google Account, including: <list><item>Browser settings: For example, you can configure your browser to indicate when Google has set a cookie in your browser. You can also configure your browser to block all cookies from a specific domain or all domains. But remember that our services rely on cookies to function properly , for things such as remembering your language preferences.</item> <item>Device-level settings: Your device may have controls that determine what information we collect. For example, you can modify location settings on your Android device.</item></list> </paragraph>
+		</segment>
+	</segment>
+	<segment>
+		<title category="17;17" depth="3" font-size="0.75" font-weight="1.25" tagname="h1">Sharing your information</title>
+		<segment>
+			<title category="17;17" depth="3" font-size="1.5" font-weight="1.25" tagname="h2">When you share your information</title>
+			<paragraph category="17;17">Many of our services let you share information with other people, and you have control over how you share. For example, you can share videos on YouTube publicly or you can decide to keep your videos private. Remember, when you share information publicly, your content may become accessible through search engines, including Google Search. </paragraph>
+			<paragraph category="17;17">When you’re signed in and interact with some Google services, like leaving comments on a YouTube video or reviewing an app in Play, your name and photo appear next to your activity. We may also display this information in ads, depending on your Shared Endorsements setting . </paragraph>
+		</segment>
+		<segment>
+			<title category="17;17" depth="3" font-size="1.5" font-weight="1.25" tagname="h2">When Google shares your information</title>
+			<paragraph category="17;17">We do not share your personal information with companies, organisations or individuals outside of Google except in the following cases: </paragraph>
+			<segment>
+				<title category="17.2;17.2" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">With your consent</title>
+				<paragraph category="17.2;17.2">We’ll share personal information outside of Google when we have your consent. For example, if you use Google Home to make a reservation through a booking service, we’ll get your permission before sharing your name or phone number with the restaurant. We’ll ask for your explicit consent to share any sensitive personal information . </paragraph>
+			</segment>
+			<segment>
+				<title category="19;17.1" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">With domain administrators</title>
+				<paragraph category="17.1,17.2;17.1,17.2">If you’re a student, or work for an organisation that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to: <list><item>Access and retain information stored in your account, such as your email</item> <item>View statistics regarding your account, such as how many apps you install</item> <item>Change your account password</item> <item>Suspend or terminate your account access</item> <item>Receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request</item> <item>Restrict your ability to delete or edit your information or your privacy settings</item></list> </paragraph>
+			</segment>
+			<segment>
+				<title category="19;17.2" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">For external processing</title>
+				<paragraph category="17.1,11;17.1,11">We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For example, we use service providers to help us with customer support. </paragraph>
+			</segment>
+			<segment>
+				<title category="19;17.2" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">For legal reasons</title>
+				<paragraph category="17.1,17.2;17.1,17.2">We will share personal information outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: <list><item>Meet any applicable law, regulation, legal process or enforceable governmental request . We share information about the number and type of requests that we receive from governments in our Transparency Report .</item> <item>Enforce applicable Terms of Service, including investigation of potential violations.</item> <item>Detect, prevent or otherwise address fraud, security or technical issues.</item> <item>Protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.</item></list></paragraph> 
+				<paragraph category="17.1;17.1">We may share non-personally identifiable information publicly and with our partners – such as publishers, advertisers, developers or rights holders. For example, we share information publicly to show trends about the general use of our services. We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies. </paragraph>
+				<paragraph category="4.1,12;4.1,12">If Google is involved in a merger, acquisition or sale of assets, we’ll continue to ensure the confidentiality of your personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. </paragraph>
+			</segment>
+		</segment>
+	</segment>
+	<segment>
+		<title category="12;12" depth="3" font-size="0.75" font-weight="1.25" tagname="h1">Keeping your information secure</title>
+		<paragraph category="12;12">We build security into our services to protect your information </paragraph>
+		<paragraph category="12;12">All Google products are built with strong security features that continuously protect your information. The insights we gain from maintaining our services help us detect and automatically block security threats from ever reaching you. And if we do detect something risky that we think you should know about, we’ll notify you and help guide you through steps to stay better protected. </paragraph>
+		<paragraph category="12;12">We work hard to protect you and Google from unauthorised access, alteration, disclosure or destruction of information we hold, including: <list><item>We use encryption to keep your data private while in transit</item> <item>We offer a range of security features, like Safe Browsing , Security Check-Up and 2 Step Verification to help you protect your account</item> <item>We review our information collection, storage and processing practices, including physical security measures, to prevent unauthorised access to our systems</item> <item>We restrict access to personal information to Google employees, contractors and agents who need that information in order to process it. Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.</item></list> </paragraph>
+	</segment>
+	<segment>
+		<title category="4.4,4.7;4.4,4.7" depth="3" font-size="0.75" font-weight="1.25" tagname="h1">Exporting &amp; deleting your information</title>
+		<paragraph category="4.4,4.7;4.4,4.7">You can export a copy of your information or delete it from your Google Account at any time You can export a copy of content in your Google Account if you want to back it up or use it with a service outside of Google. Export your data To delete your information, you can: <list><item><list><item>Delete your content from specific Google services</item> <item>Search for and then delete specific items from your account using My Activity</item> <item>Delete specific Google products , including your information associated with those products</item> <item>Delete your entire Google Account</item></list></item></list> Delete your information </paragraph>
+	</segment>
+	<segment>
+		<title category="16;16" depth="3" font-size="0.75" font-weight="1.25" tagname="h1">Retaining your information</title>
+		<paragraph category="16.1,16.3;16.1,16.3">We retain the data that we collect for different periods of time depending on what it is, how we use it and how you configure your settings: <list><item>Some data you can delete whenever you like, such as the content that you create or upload. You can also delete activity information saved in your account, or choose to have it deleted automatically after a set period of time.</item> <item>Other data is deleted or anonymised automatically after a set period of time, such as advertising data in server logs.</item> <item>We keep some data until you delete your Google Account, such as information about how often you use our services.</item> <item>And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping.</item></list> </paragraph>
+		<paragraph category="16.3,4.4;16.3,4.4">When you delete data, we follow a deletion process to make sure that your data is safely and completely removed from our servers or retained only in anonymised form. We try to ensure that our services protect information from accidental or malicious deletion. Because of this, there may be delays between when you delete something and when copies are deleted from our active and backup systems. </paragraph>
+		<paragraph category="16.1,16.3;16.1,16.3">You can read more about Google’s data retention periods , including how long it takes for us to delete your information. </paragraph>
+	</segment>
+	<segment>
+		<title category="19;19" depth="3" font-size="0.75" font-weight="1.25" tagname="h1">Compliance &amp; cooperation with regulators</title>
+		<paragraph category="19;19">We regularly review this Privacy Policy and make sure that we process your information in ways that comply with it. </paragraph>
+		<segment>
+			<title category="14;14" depth="3" font-size="1.5" font-weight="1.25" tagname="h2">Data transfers</title>
+			<paragraph category="14;14">We maintain servers around the world and your information may be processed on servers located outside the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy. We also comply with certain legal frameworks relating to the transfer of data. </paragraph>
+			<paragraph category="7,14;7,14">When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;19" depth="3" font-size="1.5" font-weight="1.25" tagname="h2">European requirements</title>
+			<paragraph category="4.2,4.4,4.5,4.6;4.2,4.4,4.5,4.6">If European Union (EU) or United Kingdom (UK) data protection law applies to the processing of your information, we provide the controls described in this policy so you can exercise your right to request access to, update, remove, and restrict the processing of your information. You also have the right to object to the processing of your information or export your information to another service. </paragraph>
+			<paragraph category="1.1;1.1">For users based in the European Economic Area or Switzerland, the data controller responsible for your information is Google Ireland Limited, unless otherwise stated in a service-specific privacy notice. In other words, Google Ireland Limited is the Google affiliate that is responsible for processing your information and for complying with applicable privacy laws. </paragraph>
+			<paragraph category="10;10">We process your information for the purposes described in this policy, based on the following legal grounds: </paragraph>
+			<segment>
+				<title category="19;10.5" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">With your consent</title>
+				<paragraph category="4.1,11;4.1,11">We ask for your agreement to process your information for specific purposes and you have the right to withdraw your consent at any time. For example, we ask for your consent to provide you with personalised services, such as ads based on your interests. We also ask for your consent to collect your voice and audio activity for speech recognition. You can manage these settings in your Google Account . </paragraph>
+			</segment>
+			<segment>
+				<title category="10.3;10.3" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">When we’re pursuing legitimate interests</title>
+				<paragraph category="11,12;11,12">We process your information for our legitimate interests and those of third parties while applying appropriate safeguards that protect your privacy. This means that we process your information for things such as: <list><item>Providing, maintaining and improving our services to meet the needs of our users</item> <item>Developing new products and features that are useful for our users</item> <item>Understanding how people use our services to ensure and improve the performance of our services</item> <item>Customising our services to provide you with a better user experience</item> <item>Marketing to inform users about our services</item> <item>Providing advertising, which keeps many of our services free (and when ads are personalised, we ask for your consent)</item> <item>Detecting, preventing or otherwise addressing fraud, abuse, security or technical issues with our services</item> <item>Protecting against harm to the rights, property or safety of Google, our users or the public as required or permitted by law, including disclosing information to government authorities</item> <item>Performing research that improves our services for our users and benefits the public</item> <item>Fulfilling obligations to our partners like developers and rights holders</item> <item>Enforcing legal claims, including investigation of potential violations of applicable Terms of Service</item></list> </paragraph>
+			</segment>
+			<segment>
+				<title category="19;10.1.1" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">When we’re providing a service</title>
+				<paragraph category="11;11">We process your data to provide a service you’ve asked for under a contract. For example, we process your payment information when you buy extra storage for Google Drive. </paragraph>
+			</segment>
+			<segment>
+				<title category="10.6;10.6" depth="3" font-size="1.12" font-weight="1.25" tagname="h3">When we’re complying with legal obligations</title>
+				<paragraph category="11,13;11,13">We’ll process your data when we have a legal obligation to do so, for example, if we’re responding to legal process or an enforceable governmental request . If you have questions, you can contact Google and our data protection office . And you can contact your local data protection authority if you have concerns regarding your rights under local law. </paragraph>
+			</segment>
+		</segment>
+	</segment>
+	<segment>
+		<title category="19;19" depth="3" font-size="0.75" font-weight="1.25" tagname="h1">About this policy</title>
+		<segment>
+			<title category="19;19" depth="3" font-size="1.5" font-weight="1.25" tagname="h2">When this policy applies</title>
+			<paragraph category="19;19">This Privacy Policy applies to all of the services offered by Google LLC and its affiliates , including YouTube, Android, and services offered on third-party sites, such as advertising services. This Privacy Policy doesn’t apply to services that have separate privacy policies that do not incorporate this Privacy Policy. This Privacy Policy doesn’t apply to: <list><item>The information practices of other companies and organisations that advertise our services</item> <item>Services offered by other companies or individuals, including products or sites that may include Google services, be displayed to you in search results, or be linked from our services</item></list> </paragraph>
+		</segment>
+		<segment>
+			<title category="5;5" depth="3" font-size="1.5" font-weight="1.25" tagname="h2">Changes to this policy</title>
+			<paragraph category="5;5">We change this Privacy Policy from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We always indicate the date when the last changes were published and we offer access to archived versions for your review. If changes are significant, we’ll provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). </paragraph>
+		</segment>
+	</segment>
+	<segment>
+		<title category="19;19" depth="3" font-size="0.75" font-weight="1.25" tagname="h1">Related privacy practices</title>
+		<segment>
+			<title category="19;19" depth="3" font-size="1.5" font-weight="1.25" tagname="h2">Specific Google services</title>
+			<paragraph category="19;19">The following privacy notices provide additional information about some Google services: <list><item>Chrome &amp; the Chrome Operating System</item> <item>Payments</item> <item>Fiber</item> <item>Google Fi</item> <item>G Suite for Education</item> <item>Read Along</item> <item>YouTube Kids</item> <item>Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)</item> <item>Voice and audio collection from children’s features on the Google Assistant</item></list> If you’re a member of an organisation that uses Google Workspace or Google Cloud Platform, learn how these services collect and use your personal information in the Google Cloud Privacy Notice . </paragraph>
+		</segment>
+		<segment>
+			<title category="19;19" depth="3" font-size="1.5" font-weight="1.25" tagname="h2">Other useful resources</title>
+			<paragraph category="19;19">The following links highlight useful resources for you to learn more about our practices and privacy settings: <list><item>Your Google Account is home to many of the settings you can use to manage your account</item> <item>Privacy Check-Up guides you through key privacy settings for your Google Account</item> <item>Google’s safety centre helps you learn more about our built-in security, privacy controls and tools to help set digital ground rules for your family online</item> <item>Privacy &amp; Terms provides more context regarding this Privacy Policy and our Terms of Service</item> Technologies includes more information about: <list><item>How Google uses cookies</item> <item>Technologies used for Advertising</item> <item>How Google uses pattern recognition to recognise things such as faces in photos</item> <item>How Google uses information from sites or apps that use our services</item></list></list> </paragraph>
+		</segment>
+	</segment>
+</policy>

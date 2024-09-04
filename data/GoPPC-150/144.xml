@@ -1,0 +1,621 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<segment>
+		<title tagname="h2" depth="11" font-size="2.0" font-weight="1.5" category="11;11">
+			How we use your personal information
+			</title>
+		<paragraph category="">Your information will be held by Bank of Scotland plc, which trades as Halifax, part of Lloyds Banking Group. This privacy notice is to let you know how companies within the Group promise to look after your personal information. This includes what you tell us about yourself, what we learn by having you as a customer, and the choices you give us about what marketing you want us to send you. This notice also tells you about your privacy rights and how the law protects you.</paragraph>
+</segment>
+	<segment>	
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="1.1;1.1">
+				1. Who we are
+				</title>
+			<paragraph category="1.1;1.1">This section gives you the legal name of the company who holds your personal information - known as the 'legal entity' - and tells you how you can get in touch with us.</paragraph>
+		<paragraph category="4.1;4.1">Lloyds Banking Group is made up of a mix of companies, set up on different legal entities. We'll let you know which you have a relationship with, when you take out a product or service with us. You can find out more about us at www.lloydsbankinggroup.com.</paragraph>
+		<paragraph category="1.2;1.2">Contacting us about data privacy
+					Please use these details to contact us about any of the topics set out in this Privacy notice.</paragraph>
+		<paragraph category="1.2;1.2">If you have any questions, or want more details about how we use your personal information, you can call us on 0345 720 3040 (+44 113 242 1984 from outside the UK). Calls may be monitored or recorded.</paragraph>
+		<paragraph category="1.2;1.2">If you have a hearing or speech impairment you can also call us using the Relay UK. If you use a textphone, just add 18001 before the number you're calling. On a smartphone, tablet or computer, you can call through the Relay UK app. There's more information on the Relay UK help pages.</paragraph>
+		<paragraph category="1.2;1.2">If you’re Deaf and a BSL user, you can talk to us live through a BSL interpreter online with our BSL SignVideo service.</paragraph>
+		<paragraph category="1.2;1.2">These are our main contact details. Some sections of this notice have special contact details that you can use instead.</paragraph>
+		<paragraph category="3.2;3.2">If you are not satisfied with our response, you can contact our Group Data Protection Officer.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="10;10">
+				2. How the law protects you
+				</title>
+			<segment>
+				<title tagname="h2" depth="11" font-size="2.0" font-weight="1.5" category="19;10">
+					Serving you as a customer
+					</title>
+				<item>To manage our relationship with you or your business</item>
+		<item>To develop and carry out marketing activities</item>
+		<item>To study how our customers use products and services from us and other organisations</item>
+		<item>To communicate with you about our products and services</item>
+		<item>To develop and manage our brands, products and services</item>
+		<item>Your consent</item>
+		<item>Fulfilling contracts</item>
+		<item>Our legitimate interests</item>
+		<item>Our legal duty</item>
+		<item>Keeping our records up to date, working out which of our products and services may interest you and telling you about them</item>
+		<item>Developing products and services, and what we charge for them.</item>
+		<item>Defining types of customers for new products or services</item>
+		<item>Seeking your consent when we need it to contact you</item>
+		<item>Being efficient about how we fulfil our legal and contractual duties</item>
+		<item>Managing competitions and promotions</item>
+</segment>
+			<segment>
+				<title tagname="h2" depth="11" font-size="2.0" font-weight="1.5" category="19;10">
+					Business improvement
+					</title>
+				<item>To test new products</item>
+		<item>To manage how we work with other companies that provide services to us and our customers</item>
+		<item>To develop new ways to meet our customers needs and to grow our business</item>
+		<item>Fulfilling contracts</item>
+		<item>Our legitimate interests</item>
+		<item>Our legal duty</item>
+		<item>Developing products and services, and what we charge for them</item>
+		<item>Defining types of customers for new products or services</item>
+		<item>Being efficient about how we fulfil our legal and contractual duties</item>
+</segment>
+			<segment>
+				<title tagname="h2" depth="11" font-size="2.0" font-weight="1.5" category="19;10">
+					Managing our operations
+					</title>
+				<item>To deliver of our products and services</item>
+		<item>To make and manage customer payments</item>
+		<item>To manage fees, charges and interest due on customer accounts</item>
+		<item>To collect and recover money that is owed to us</item>
+		<item>To manage and provide treasury and investment products and services</item>
+		<item>Fulfilling contracts</item>
+		<item>Our legitimate interests</item>
+		<item>Our legal duty</item>
+		<item>Being efficient about how we fulfil our legal and contractual duties</item>
+		<item>Complying with rules and guidance from regulators</item>
+</segment>
+			<segment>
+				<title tagname="h2" depth="11" font-size="2.0" font-weight="1.5" category="19;10">
+					Managing security, risk and crime prevention
+					</title>
+				<item>To detect, investigate, report, and seek to prevent financial crime</item>
+		<item>To manage risk for us and our customers</item>
+		<item>To obey laws and regulations that apply to us</item>
+		<item>To respond to complaints and seek to resolve them</item>
+		<item>Fulfilling contracts</item>
+		<item>Our legitimate interests</item>
+		<item>Our legal duty</item>
+		<item>Developing and improving how we deal with financial crime, as well as doing our legal duties in this respect</item>
+		<item>Complying with rules and guidance from regulators</item>
+		<item>Being efficient about how we fulfil our legal and contractual duties</item>
+</segment>
+			<segment>
+				<title tagname="h2" depth="11" font-size="2.0" font-weight="1.5" category="19;10">
+					Business management
+					</title>
+				<item>Our legitimate interests</item>
+		<item>Our legal duty</item>
+		<item>Complying with rules and guidance from regulators</item>
+		<item>Being efficient about how we fulfil our legal and contractual duties</item>
+</segment>
+			<segment>
+				<title tagname="h2" depth="11" font-size="2.0" font-weight="1.5" category="11;10,11">
+					For processing special categories of personal information
+					</title>
+				<item>Using criminal records data to help prevent, detect, and prosecute unlawful acts and fraudulent behaviour</item>
+		<item>Using criminal and health information as needed to provide insurance products</item>
+		<item>Showing whether we have assessed your situation in the right way</item>
+		<item>Passing information to the regulator as needed to allow investigation into whether we have acted in the right way</item>
+</segment>
+			<paragraph category="10;10">This section sets out the legal reasons we rely on, for each of the ways we may use your personal information.</paragraph>
+		<paragraph category="10;10">As well as our Privacy Promise, your privacy is protected by law. This section explains how that works.</paragraph>
+		<paragraph category="10.1,10.2,10.3,10.5,10.6;10.1,10.2,10.3,10.5,10.6">Data Protection law says that we are allowed to use personal information only if we have a proper reason to do so. This includes sharing it outside Lloyds Banking Group. The law says we must have one or more of these reasons:
+		<item>To fulfil a contract we have with you, or</item>
+		<item>When it is our legal duty, or</item>
+		<item>When it is in our legitimate interest, or</item>
+		<item>When you consent to it, or</item>
+		<item>When it is in the public interest.</item></paragraph>
+		<paragraph category="10.3;10.3">When we have a business or commercial reason of our own to use your information, this is called a ‘legitimate interest’. We will tell you what that is, if we are going to rely on it as the reason for using your data. Even then, it must not unfairly go against your interests.</paragraph>
+		<paragraph category="10.2,10.5;10.2,10.5">The law and other regulations treat some types of sensitive personal information as special. This information is called ‘special categories of personal data’. We will not collect or use these types of data without your consent unless the law allows us to do so. If we do, it will only be when it is necessary:
+		<item>For reasons of substantial public interest, or</item>
+		<item>To establish, exercise or defend legal claims.</item></paragraph>
+		<paragraph category="10.3,11;10.3,11">Here is a list of all the ways that we may use your personal information, and which of the reasons we rely on to do so. This is also where we tell you what our legitimate interests are.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="8;8">
+				3. Groups of Personal Information
+				</title>
+			<paragraph category="8;8">This explains what all the different types of personal information mean, that are covered by data protection law.</paragraph>
+		<paragraph category="11;11">We use many different kinds of personal information. They are grouped together like this. The groups are all listed here so that you can see what we may know about you, even if we simply get it from seeing which shops you buy things in. We don’t use all this data in the same way. Some of it is useful for marketing, or for providing services to you. But some of it is private and sensitive and we treat it that way.</paragraph>
+		<paragraph category="8,11;8,11">The law and other regulations treat some types of personal information as special. We will only collect and use these if the law allows us to do so:</paragraph>
+		<item>Racial or ethnic origin</item>
+		<item>Religious, political or philosophical beliefs</item>
+		<item>Trade union membership</item>
+		<item>Genetic and bio-metric data</item>
+		<item>Health data</item>
+		<item>Information that could identify aspects of your sex life</item>
+		<item>Sexual orientation</item>
+		<item>Criminal records of convictions and offences</item>
+		<item>Allegations of criminal offences</item>
+		<paragraph category="10,11;10,11">You can read how we may use special types of data in the table 'How the law protects you'.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="9;9">
+				4. Where we collect personal information from
+				</title>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="8,9.1;8,9.1">
+					Data you give to us:
+					</title>
+				<paragraph category="8,9.1;8,9.1">This covers data given by you as well as data provided by people linked with you or your business’s product or service, or people working on your behalf. This could mean a joint account holder, trustee, or fellow company director.</paragraph>
+		<item>When you apply for our products and services</item>
+		<item>When you talk to us on the phone or in branch, including recorded calls and notes we make</item>
+		<item>When you use our websites, mobile device apps, web chat or SignVideo services</item>
+		<item>In emails and letters</item>
+		<item>In insurance claims or other documents</item>
+		<item>In financial reviews and interviews</item>
+		<item>In customer surveys</item>
+		<item>If you take part in our competitions or promotions</item>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="8,9.2;8,9.2">
+					Data we collect when you use our services.
+					</title>
+				<paragraph category="8,9.2;8,9.2">This covers two things: details about how and where you access our services, and account activity that is shown on your statement.</paragraph>
+		<item>Payment and transaction data.
+This includes the amount, frequency, type, location, origin and recipients</item>
+		<item>Profile and usage data.
+This includes the security details you create and use to connect to our services. It also includes your settings and marketing choices. We also gather data from the devices you use (such as computers and mobile phones) to connect to our internet, mobile and telephone banking services.
+We may also use cookies and similar tracking technologies to collect data from our websites or mobile apps and when you receive, open or respond to emails we send you. You can find out more about this in our Cookies policy.</item>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="8,9.3;8,9.3">
+					Data from outside organisations:
+					</title>
+				<item>Companies that introduce you to us (if you use a price comparison website, a broker, or such as a store or car dealership offering finance deals through us)</item>
+		<item>Financial advisors</item>
+		<item>Credit Card providers like Visa and Mastercard</item>
+		<item>Credit reference agencies such as TransUnion, Equifax and Experian</item>
+		<item>Insurers</item>
+		<item>Retailers</item>
+		<item>Comparison websites</item>
+		<item>Social networks and other technology providers (for instance, when you click on one of our Facebook or Google ads)</item>
+		<item>Fraud prevention agencies</item>
+		<item>Other financial services companies (to fulfil a payment or other service as part of a contract with you, or to help prevent, detect and prosecute unlawful acts and fraudulent behaviour)</item>
+		<item>Employers (for instance, to get a reference if you apply for a mortgage)</item>
+		<item>Payroll service providers</item>
+		<item>Land agents (such as firms who do property valuations for mortgages)</item>
+		<item>Public information sources such as the Electoral Register or  Companies House</item>
+		<item>Products which have a loyalty scheme</item>
+		<item>Agents, suppliers, sub-contractors and advisers
+These can be types of firms we use to help us run accounts and services. They can also be specialist companies who advise us on ways to develop and improve our business</item>
+		<item>Market researchers (who combine data from many sources to produce market trend reports and advice)
+These firms may get in touch with you on our behalf to ask you for your opinions and feedback. Sometimes these firms will combine what you tell them with data from other sources to study it. They will use this to produce reports and advice that help us understand our customers’ point of view, so that we can improve the way we work as a business</item>
+		<item>Firms providing data services (we receive reports that we use to better understand our customers and look for general patterns and trends)</item>
+		<item>Medical professionals (for some insurance products, we may ask your GP or other medical practitioner to send us a report. We will only do this if we get your consent first)</item>
+		<item>Government and law enforcement agencies</item>
+</segment>
+			<paragraph category="8,9;8,9">This section lists all the places where we get data that counts as part of your personal information.</paragraph>
+		<paragraph category="8,9.3;8,9.3">We may collect personal information about you (or your business) from other Lloyds Banking Group companies and any of these sources:</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="16.1;16.1">
+				5. How long we keep your personal information
+				</title>
+			<paragraph category="16.1;16.1">This section explains how long we may keep your information for and why.</paragraph>
+		<paragraph category="16.1;16.1">We will keep your personal information for as long as you are a customer of Lloyds Banking Group.</paragraph>
+		<paragraph category="16.1;16.1">We may keep your data for up to 10 years after you stop being  a customer. The reasons we may do this are:</paragraph>
+		<item>To respond to a question or complaint, or to show whether we gave you fair treatment</item>
+		<item>To study customer data as part of our own internal research</item>
+		<item>To obey rules that apply to us about keeping records. For example, the Money Laundering Regulations require us to retain certain data for a minimum of 5 and a maximum of 10 years</item>
+		<paragraph category="16.1;16.1">We may also keep your data for longer than 10 years if we cannot delete it for legal, regulatory or technical reasons. As an example, we have to hold pension transfer information indefinitely; and in cases of subsidence* we will keep insurance claims data for up to 15 years after you stop being a customer.</paragraph>
+		<paragraph category="11;11">We will only use your personal information for those purposes and will make sure that your privacy is protected.</paragraph>
+		<paragraph category="19;19">* Subsidence is when a building becomes unsafe or damaged by ground sinking around it.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="6;6">
+				6. If you choose not to give personal information
+				</title>
+			<paragraph category="6;6">You can choose not to give us personal information. In this section we explain the effects this may have.</paragraph>
+		<paragraph category="11,10.1;11,10.1">We may need to collect personal information by law, or to enter into or fulfil a contract we have with you.</paragraph>
+		<paragraph category="6,11;6,11">If you choose not to give us this personal information, it may delay or prevent us from fulfilling our contract with you, or doing what we must do by law. It may also mean that we cannot run your accounts or policies. It could mean that we cancel a product or service you have with us.</paragraph>
+		<paragraph category="4.1,6;4.1,6">We sometimes ask for information that is useful, but not required by law or a contract. We will make this clear when we ask for it. You do not have to give us these extra details and it won't affect the products or services you have with us.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="18.1;18.1">
+				7. Cookies and similar tracking technologies
+				</title>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="18.1;18.1">
+					Cookies
+					</title>
+				<paragraph category="18.1;18.1">Cookies are small computer files that get sent down to your PC, tablet or mobile phone by websites when you visit them. They stay on your device and get sent back to the website they came from, when you go there again. Cookies store information about your visits to that website, such as your choices and other details. Some of this data does not contain personal details about you or your business, but it is still protected by this Privacy notice.</paragraph>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="18.1;18.1">
+					Email tracking
+					</title>
+				<paragraph category="4.3,11;18.1">We track emails to help us improve the communications we send. We use small images called pixels within our emails to tell us things like whether you opened the email, how many times and the device you used. We may also set a cookie to find out if you clicked on any links in the email.</paragraph>
+		<paragraph category="18.1;18.1">To find out more about how we use cookies and email tracking, please see our Cookies Policy.</paragraph>
+</segment>
+			<paragraph category="11;18.1">This section explains how we use data on our websites, apps and emails.</paragraph>
+		<paragraph category="18.1;18.1">We may use cookies and similar tracking technologies on our websites and apps, and in emails we send you. </paragraph>
+</segment>
+	</segment>
+	<segment>
+		<title tagname="h2" depth="11" font-size="2.0" font-weight="1.5" category="4;4">
+			The control you have
+		</title>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="7;7">
+				8. How to complain
+				</title>
+			<paragraph category="1.2,7;1.2,7">This section gives details of how to contact us to make a complaint about data privacy. It also shows you where you can get in touch with the government regulator.</paragraph>
+		<paragraph category="1.2;1.2">Please let us know if you are unhappy with how we have used your personal information. You can contact us using our secure online contact form.</paragraph>
+		<paragraph category="7;7">You also have the right to complain to the regulator, and to lodge an appeal if you are not happy with the outcome of a complaint.</paragraph>
+		<paragraph category="19;1.2">In the UK this is the Information Commissioner’s Office. Find out on their website how to report a concern.</paragraph>
+		<paragraph category="1.2;1.2">In Jersey, please contact the Office of the Information Commissioner
+In Guernsey, please contact the Office of the Data Protection Commissioner
+In Isle of Man, please contact the Information Commissioner</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="4.9;4.9">
+				9. How to withdraw your consent
+				</title>
+			<paragraph category="4.9;4.9">This section explains what to do if you change your mind about a consent you have given.</paragraph>
+		<paragraph category="1.2,4.9;1.2,4.9">You can withdraw your consent at any time. Please contact us if you want to do so.</paragraph>
+		<paragraph category="4.9;4.9">This will only affect the way we use information when our reason for doing so is that we have your consent. See the section 'Your Rights' about more generally restricting use of your information.</paragraph>
+		<paragraph category="4.9;4.9">If you withdraw your consent, we may not be able to provide certain products or services to you. If this is so, we will tell you.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="19;19">
+				10. Letting us know if your personal information is incorrect
+				</title>
+			<paragraph category="1.2;1.2">Here you can find out how to contact us if you think the information we hold for you is wrong, incomplete or out of date.</paragraph>
+		<paragraph category="4.3;4.3">You have the right to question any information we have about you that you think is incorrect. We’ll take reasonable steps to check this for you and correct it.</paragraph>
+		<paragraph category="4.3,1.2;4.3,1.2">If you want to do this you can visit one of our branches, or call us on 0345 720 3040 (+44 113 242 1984 from outside the UK). Calls may be monitored or recorded.</paragraph>
+		<paragraph category="1.2;1.2">If you have a hearing or speech impairment you can also call us using the Relay UK. If you use a textphone, just add 18001 before the number you're calling. On a smartphone, tablet or computer, you can call through the Relay UK app. There's more information on the Relay UK help pages.</paragraph>
+		<paragraph category="1.2;1.2">If you’re Deaf and a BSL user, you can talk to us live through a BSL interpreter online with our BSL SignVideo service.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="4.7;4.7">
+				11. How to get a copy of your personal information
+				</title>
+			<paragraph category="4.7;4.7">This section tells you where to write to us to get a copy of your personal information, and how to ask for a digital file you can use yourself or share easily with others. You can do this online or by writing to us.
+</paragraph>
+		<paragraph category="4.7;4.7">You can get a copy of all the personal information we hold about you by filling in this form or by writing to us at this address:</paragraph>
+		<paragraph category="1.2;1.2">Halifax DSAR Team
+ Charlton Place (C42)
+ Andover
+ Hampshire
+ SP10 1RE</paragraph>
+		<paragraph category="19;19">When you want to share your data with outside companies</paragraph>
+		<paragraph category="4.7;4.7">You also have the right to get certain personal information from us as a digital file, so you can keep and use it yourself, and give it to other organisations if you choose to. If you wish, we will provide it to you in an electronic format that can be easily re-used, or you can ask us to pass it on to other organisations for you.</paragraph>
+		<paragraph category="1.2;1.2">If you want to do this you can visit one of our branches, or call us on 0345 720 3040 (+44 113 242 1984 from outside the UK). Calls may be monitored or recorded.</paragraph>
+		<paragraph category="1.2;1.2">If you have a hearing or speech impairment you can also call us using the Relay UK. If you use a textphone, just add 18001 before the number you're calling. On a smartphone, tablet or computer, you can call through the Relay UK app. There's more information on the Relay UK help pages.</paragraph>
+		<paragraph category="1.2;1.2">If you’re Deaf and a BSL user, you can talk to us live through a BSL interpreter online with our BSL SignVideo service.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="4;4">
+				12. Your rights
+				</title>
+			<paragraph category="4.6,4.9;4.6,4.9">What if you want us to stop using your personal information? This section explains about your right to object and other data privacy rights you have – as well as how to contact us about them.</paragraph>
+		<paragraph category="4.6;4.6">You can object to us keeping or using your personal information. This is known as the ‘right to object’.</paragraph>
+		<paragraph category="4.4;4.4">You can also ask us to delete, remove, or stop using your personal information if there is no need for us to keep it. This is known as the ‘right to erasure’ or the ‘right to be forgotten’.</paragraph>
+		<paragraph category="11;11">There may be legal or other official reasons why we need to keep or use your data. But please tell us if you think that we should not be using it.</paragraph>
+		<paragraph category="10.3;10.3">We may sometimes be able to restrict the use of your data. This means that it can only be used for certain things, such as legal claims or to exercise legal rights.</paragraph>
+		<paragraph category="4.5;4.5">You can ask us to restrict the use of your personal information if:</paragraph>
+		<item>It is not accurate</item>
+		<item>It has been used unlawfully but you don’t want us to delete it</item>
+		<item>It is not relevant any more, but you want us to keep it for use in legal claims</item>
+		<item>You have already asked us to stop using your data but you are waiting for us to tell you if we are allowed to keep on using it</item>
+		<paragraph category="4.5;4.5">If we do restrict your information in this way, we will not use or share it in other ways while it is restricted.</paragraph>
+		<paragraph category="4.6;4.6">If you want to object to how we use your data, or ask us to delete it or restrict how we use it you can call us on 0345 720 3040 (+44 113 242 1984 from outside the UK). Calls may be monitored or recorded.</paragraph>
+		<paragraph category="1.2;1.2">If you have a hearing or speech impairment you can also call us using the Relay UK. If you use a textphone, just add 18001 before the number you're calling. On a smartphone, tablet or computer, you can call through the Relay UK app. There's more information on the Relay UK help pages.</paragraph>
+		<paragraph category="1.2;1.2">If you’re Deaf and a BSL user, you can talk to us live through a BSL interpreter online with our BSL SignVideo service.</paragraph>
+		<paragraph category="">Back to top</paragraph>
+</segment>
+	</segment>
+	<segment>
+		<title tagname="h2" depth="11" font-size="2.0" font-weight="1.5" category="11;11">How personal information is used</title>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="17.1;17.1">
+				13. Who we share your personal information with
+				</title>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;17.1">
+					Lloyds Banking Group
+				</title>
+			</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;17.1">
+					Authorities
+					</title>
+				<item>Central and local government</item>
+		<item>HM Revenue &amp; Customs, regulators and other tax authorities</item>
+		<item>UK Financial Services Compensation Scheme and other deposit guarantee schemes</item>
+		<item>Law enforcement and fraud prevention agencies</item>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;17.1">
+					Banking and financial services
+					</title>
+				<paragraph category="19;17.1,17.2">Outside companies we work with to provide services to you and to run our business.</paragraph>
+		<item>Agents, suppliers, sub-contractors and advisers
+These are types of firm that we use to help us run accounts, policies and services.</item>
+		<item>Agents who help us to collect what is owed to us</item>
+		<item>Credit reference agencies (such as TransUnion, Equifax and Experian)</item>
+		<item>Someone linked with you or your business’s product or service
+This could mean a joint account holder, trustee, or fellow company director</item>
+		<item>Other financial services companies (to fulfil a payment or other service as part of a contract with you; or to help prevent, detect and prosecute unlawful acts and fraudulent behaviour)</item>
+		<item>Independent Financial Advisors (if you have one)
+This could be someone who you, your employer, or product owner have selected to advise you on things like pensions or life assurance. We won’t share any personal information unless they have your consent to ask us for it.</item>
+		<item>Price comparison websites and similar companies
+We only do so if you buy something from us through such a company. We only share details needed to confirm what you have bought, to fulfil our own contract with the company.</item>
+		<item>Employers (for instance, to confirm your identity if we ask for a mortgage reference)</item>
+		<item>Companies you ask us to share your data with
+This is to do with something called Open Banking, which gives you more freedom and control to use your own banking data. It can make it easier for you or your business to shop around for products like credit cards, savings and current accounts.</item>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;17.1">
+					Insurers
+					</title>
+				<paragraph category="17.1,17.2;17.1,17.2">We share personal information with insurance industry companies to process claims and help reduce fraud. We do that in these ways:</paragraph>
+		<item>If you apply for insurance through us, we may pass your personal or business details to the insurer.</item>
+		<item>If you apply for insurance with us as the insurer, we may share your personal or business details with reinsurers.</item>
+		<item>If you make an insurance claim, information you give to us or the insurer may be put on a register of claims. This will be shared with other insurers, our agents, suppliers and sub-contractors. In some cases we may also share it with our business partners, if you also have a relationship with them.</item>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;17.2">
+					Other services and schemes
+					</title>
+				<paragraph category="17.1,17.2;17.1,17.2">These are organisations that we may need to share your personal information with, because of what you can do with the product or service you have with us.</paragraph>
+		<item>If you have a debit, credit or charge card with us, we will share transaction details with companies which help us to provide this service (such as Visa and Mastercard).
+This is needed to keep your account balance and statements up to date, for example.</item>
+		<item>If you use direct debits, we will share your data with the Direct Debit scheme.</item>
+		<item>If you have a product which has a loyalty scheme, we will share your data with that scheme.</item>
+		<item>If you have a product with benefits such as travel insurance or discount offers, we will share your data with the benefit providers. We may also share it with other companies involved in how you use the service (such as a private car park operator).</item>
+		<item>If you have a secured loan or mortgage with us, we may share information with other lenders who also hold a charge on the property, such as the other party in a shared     ownership scheme.</item>
+		<item>If you or your employer have a product with us that includes extra services or features, such as daily rental vehicles, we will share your data with the providers of those services or features. </item>
+		<item>If we are contacted by a third party about fines, penalties or charges imposed on you, we may share this with your employer, or share your details with these third parties.</item>
+		<item>If we carry out driving license, vehicle or any other checks as part of our products, services, or features we may share information with suppliers and other third parties needed for us to provide those to you, or your employer.  </item>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;17.2">
+					General business
+					</title>
+				<paragraph category="17.1,17.2;17.1,17.2">Outside companies we use to provide our services, help grow and improve our business.</paragraph>
+		<item>Companies we co-operate with based on a contractual arrangement, joint venture or agreement between us. For instance, this could be a store, a manufacturer, or a broker offering finance deals or other products, services or features through us. </item>
+		<item>Organisations that introduce you to us.
+This might be a store or car dealership that offers finance deals through us, or a price comparison website.</item>
+		<item>Market researchers
+These firms may get in touch with you on our behalf to ask you for your opinions and feedback. Sometimes these firms will combine what you tell them with data from other sources to study it. They will use this to produce reports and advice that help us understand our customers’ point of view, so that we can improve the way we work as a business.</item>
+		<item>Advisers who help us to come up with new ways of doing business.
+This might be a legal firm, IT supplier or consultancy.</item>
+		<item>Advertisers and technology providers that you use (such as websites you visit, social networks, and providers of apps and smart devices)
+This is so that:</item>
+		<item>You are only shown marketing we think you might be interested in.</item>
+		<item>You are not shown marketing we think you won’t be interested in. </item>
+		<item>We can try to find new customers who are like you, or have similar interests to yours.</item>
+		<paragraph category="11;11">Learn more about how we use your information to make automated decisions. </paragraph>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;17">
+					Outside companies you may use
+					</title>
+				<paragraph category="17.1,17.2;17.1,17.2">This could include:</paragraph>
+		<item>Price comparison websites and similar companies.
+We only do so if you buy something from us through such a company.
+We only share details needed to confirm what you have bought, to fulfil our own contract with the company.</item>
+		<item>Third party payment providers, for example if you use an App on your phone to pay for something, then we may share payment and transaction data with them.
+This includes the amount, type, location, origin and recipients.</item>
+		<paragraph category="19;17.2">Company mergers, and takeovers and transfers of products or services</paragraph>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;17.2">
+					Company mergers, and takeovers and transfers of products or services
+					</title>
+				<paragraph category="17.2;17.2">We may also share your personal information if the ownership of products or services or the make-up of Lloyds Banking Group changes in the future:</paragraph>
+		<item>We may choose to sell, transfer, or merge parts of our business, or our assets, including products or services. Or we may try to bring other businesses into Lloyds Banking Group
+This is sometimes called Mergers &amp; Acquisitions or ‘company takeovers’.</item>
+		<item>During any such process, we may share your data with other parties involved. We’ll only do this if they agree to keep your data safe and private.</item>
+		<item>If the change to our Group happens, then other parties may use your data in the same way as set out in this notice.</item>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="17;17">
+					Sharing data that does not say who you are
+					</title>
+				<paragraph category="17.1,17.2;17.1,17.2">We may share or sell some data to other companies outside Lloyds Banking Group, but only when it is grouped so that no-one’s identity can be known or found out.</paragraph>
+		<paragraph category="11,17.2;11,17.2">We combine data in this way so we can look for general patterns and trends. For instance, we might look at customers in one age group shopping for clothes. We could look at one area of the UK, or the average amount spent in one month. But we would not include any data about who these customers are. When we combine data this way, we use all of the information – including historical data – that we hold about you and our other customers.</paragraph>
+		<paragraph category="17.2;17.2">We do this to learn about the types of customers we have, how they use our products, and how our products perform for them. The law says this is not considered to be personal information after it has been grouped in this way.</paragraph>
+</segment>
+			<paragraph category="17.1,17.2;17.1,17.2">We may share your personal information with outside organisations such as credit card providers, insurers or tax authorities. This is so that we can provide you with products and services, run our business, and obey rules that apply to us. Here we list all the types of organisation that we may share your personal information with.</paragraph>
+		<paragraph category="17.1;17.1">Lloyds Banking Group
+We may share your personal information with other companies in Lloyds Banking Group.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="11;11">
+				14. How we work out what marketing you receive
+				</title>
+			<paragraph category="11;11">We use marketing to let you know about products, services and offers that you may want from us. This section tells you how we decide what marketing to show or send you. It also explains how we work out what you may be interested in.</paragraph>
+		<paragraph category="11;11">We may use your personal information to make decisions about what products, services and offers we think you may be interested in. This is what we mean when we talk about ‘marketing’.</paragraph>
+		<paragraph category="11;11">We can only use your personal information to send you marketing messages if we have either your consent or a ‘legitimate interest’. That is when we have a business or commercial reason to use your information. It must not conflict unfairly with your own interests.</paragraph>
+		<paragraph category="11;11">The personal information we have for you is made up of what you tell us, and data we collect when you use our services, or from outside organisations we work with. We study this to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you.</paragraph>
+		<paragraph category="1.2,4.9;1.2,4.9">This is called profiling for marketing purposes. You can contact us at any time and ask us to stop using your personal information this way.</paragraph>
+		<paragraph category="4.1;4.1">If you allow it, we may show or send you marketing material online (on our own and other websites including social media), in our own and other apps, or by email, mobile phone, or post or through smart devices and other digital channels.</paragraph>
+		<paragraph category="4.3,4.9;4.3,4.9">What you get will depend on marketing choices that you set. You can change these at any time and tell us to stop sending you marketing.</paragraph>
+		<paragraph category="4.9;4.9">You can also tell us not to collect data while you are using our websites or mobile apps. If you do, you will still see some marketing but it will not be tailored to you. See our Cookies policy for details about how we use this data to improve our websites and mobile apps.</paragraph>
+		<paragraph category="6;6">Whatever you choose, you'll still receive statements and other important information such as changes to your existing products and services.</paragraph>
+		<paragraph category="19;19">We do not sell the personal information we have about you to outside organisations.</paragraph>
+		<paragraph category="4.1,6;4.1,6">We may ask you to confirm or update your choices, if you take out any new products or services with us in future. We will also ask you to do this if there are changes in the law, regulation, or the structure of our business.</paragraph>
+		<paragraph category="1.2,4.3;1.2,4.3">If you change your mind you can contact us to update your choices at any time.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="11,4.8;11,4.8">
+				15. How we use your information to make automated decisions
+				</title>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;11">
+					Pricing
+					</title>
+				<paragraph category="11;11">We may decide what to charge for some products and services based on what we know. For instance, if you use our online mortgage calculator, it will use the personal financial details you put in to estimate the kind of mortgage we may offer you. If you apply for insurance, we will compare what you tell us with other records to work out how likely you are to make a claim. This will help us to decide whether to offer you the product and what price to charge you.</paragraph>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;11">
+					Tailoring products, services, offers and marketing
+					</title>
+				<paragraph category="11;11">We may place you in groups with similar customers. These are called customer segments. We use these to study and learn about our customers’ needs, and to make decisions based on what we learn. This helps us to design products, services and offers for different customer segments, and to manage our relationships with them. </paragraph>
+		<paragraph category="11;11">We also use customer segments from outside companies we work with - such as social networks - by asking them for groups of people who are similar to you, or have interests that are like yours in some ways. These companies help us look for new customers who may be interested in products, services or offers that our existing customers are interested in. </paragraph>
+		<paragraph category="11;11">This helps us tailor the marketing that individuals receive or are shown on our own and other websites and mobile apps, including social media. It also helps us to design products, services and offers for different customer segments, and to manage our relationships with them.</paragraph>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;11">
+					Detecting fraud
+					</title>
+				<paragraph category="11;11">We use your personal information to help decide if your personal or business accounts may be being used for fraud or money-laundering. We may detect that an account is being used in ways that fraudsters work. Or we may notice that an account is being used in a way that is unusual for you or your business. If we think there is a risk of fraud, we may stop activity on the accounts or refuse access to them.</paragraph>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;11">
+					Opening accounts
+					</title>
+				<paragraph category="11;11">When you open an account with us, we check that the product or service is relevant for you, based on what we know. We also check that you or your business meet the conditions needed to open the account. This may include checking age, residency, nationality or financial position. It may mean we cannot offer you the account you want.</paragraph>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;11">
+					Approving credit
+					</title>
+				<paragraph category="11;11">We use a system to decide whether to lend money to you or your business, when you apply for credit such as a loan or credit card. This is called credit scoring. It uses past data to assess how you’re likely to act while paying back any money you borrow. This includes data about similar accounts you may have had before.</paragraph>
+		<paragraph category="9;9">Credit scoring uses data from three sources:
+		<item>Your application form</item>
+		<item>Credit reference agencies</item>
+		<item>Data we may already hold</item></paragraph>
+		<paragraph category="11;11">It gives an overall assessment based on this. Banks and other lenders use this to help us make responsible lending decisions that are fair and informed.</paragraph>
+		<paragraph category="19;11">Credit scoring methods are tested regularly to make sure they are fair and unbiased.</paragraph>
+		<paragraph category="11;11">This credit score can determine whether we will give you credit, or allow you to take another product or service.</paragraph>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="4;4">
+					Your rights
+					</title>
+				<paragraph category="4.6;4.6">You can object to an automated decision we have made, and ask that a person reviews it.</paragraph>
+		<paragraph category="4.1;4.1">If you want to know more about these rights, please contact us.</paragraph>
+</segment>
+			<paragraph category="11,4.8;11,4.8">Here we tell you how we use automated systems to make decisions about you and your money. We also explain the rights you have to challenge decisions made this way.</paragraph>
+		<paragraph category="4.8;4.8">We sometimes use systems to make automated decisions about you or your business. This helps us to make sure our decisions are quick, fair, efficient and correct, based on what we know. Automated decisions can affect the products, services or features we may offer you now or in the future, or the price that we charge you for them. They are based on personal information that we have or that we are allowed to collect from others.</paragraph>
+		<paragraph category="4.8;4.8">Here are the types of automated decision we make:</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="19;19">
+				16. Credit Reference Agencies (CRAs)
+				</title>
+			<paragraph category="19;19">This section explains how we work with outside companies to decide whether to lend you money through products like credit cards or loans. It explains what we do and why we do it.</paragraph>
+		<paragraph category="11;11">We carry out credit and identity checks when you apply for a product or services for you or your business. We may use Credit Reference Agencies to help us with this.</paragraph>
+		<paragraph category="11;11">If you use our services, from time to time we may also search information that the CRAs have, to help us manage those accounts.</paragraph>
+		<paragraph category="17.1;17.1">We will share your personal information with CRAs and they will give us information about you. The data we exchange can include:</paragraph>
+		<item>Name, address and date of birth</item>
+		<item>Credit application</item>
+		<item>Details of any shared credit</item>
+		<item>Financial situation and history</item>
+		<item>Fraud prevention information</item>
+		<item>Public information sources such as the Electoral Register, Companies House, published media and social networks</item>
+		<paragraph category="11;11">We’ll use this data to:</paragraph>
+		<item>Assess whether you or your business is able to afford to make repayments</item>
+		<item>Make sure what you’ve told us is true and correct</item>
+		<item>Help detect and prevent financial crime</item>
+		<item>Manage your accounts with us</item>
+		<item>Trace and recover debts</item>
+		<item>Make sure any offers are relevant for you</item>
+		<paragraph category="17.1,17.2;17.1,17.2">We will go on sharing your personal information with CRAs for as long as you are a customer. This will also include details of funds going into the account, and the account balance. If you borrow, it will also include details of your repayments and whether you repay in full and on time. We will also tell the CRAs when you settle your accounts with us. The CRAs may give this information to other organisations that want to check your financial status.</paragraph>
+		<paragraph category="17;17">When we ask CRAs about you or your business, they will note it on your credit file. This is called a credit search. Other lenders may see this and we may see credit searches from other lenders.</paragraph>
+		<paragraph category="8,9;8,9">If you apply for a product with someone else, we will link your records with theirs. We will do the same if you tell us you have a spouse, partner or civil partner – or that you are in business with other partners or directors.</paragraph>
+		<paragraph category="4.1;4.1">You should tell them about this before you apply for a product or service. It is important that they know your records will be linked together, and that credit searches may be made on them.</paragraph>
+		<paragraph category="8,9,16;8,9,16">CRAs will also link your records together. These links will stay on your files unless one of you asks the CRAs to break the link. You will normally need to give proof that you no longer have a financial link with each other.</paragraph>
+		<paragraph category="19;19">You can find out more about the CRAs on their websites, in the Credit Reference Agency Information Notice. This includes details about:</paragraph>
+		<item>Who they are</item>
+		<item>Their role as fraud prevention agencies</item>
+		<item>The data they hold and how they use it</item>
+		<item>How they share personal information</item>
+		<item>How long they can keep data</item>
+		<item>Your data protection rights</item>
+		<paragraph category="19;19">Here are links to the information notice for each of the three main Credit Reference Agencies:
+TransUnion
+Equifax
+Experian </paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5" category="19;19">
+				17. Fraud Prevention Agencies (FPAs)
+				</title>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="8,9;8,9">
+					The information we use
+					</title>
+				<paragraph category="8,9;8,9">These are some of the kinds of personal information that we use:
+		<item>Name</item>
+		<item>Date of birth</item>
+		<item>Residential address</item>
+		<item>History of where you have lived</item>
+		<item>Contact details, such as email addresses and phone numbers</item>
+		<item>Financial data</item>
+		<item>Whether you have been a victim of fraud</item>
+		<item>Data about insurance claims you have made</item>
+		<item>Data relating to your or your businesses products or services</item>
+		<item>Employment details</item>
+		<item>Vehicle details</item>
+		<item>Data that identifies computers or other devices you use to connect to the internet. This includes your Internet Protocol (IP) address</item></paragraph>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="4.8;4.8">
+					Automated decisions for fraud prevention
+					</title>
+				<paragraph category="9.1,9.2;9.1,9.2">The information we have for you or your business is made up of what you tell us, and data we collect when you use our services, or from third parties we work with.</paragraph>
+		<paragraph category="11;11">We and other organisations acting to prevent fraud may process your personal information in systems that look for fraud by studying patterns in the data. We may find that an account or policy is being used in ways that fraudsters work. Or we may notice that an account is being used in a way that is unusual for you or your business. Either of these could indicate a risk that fraud or money-laundering may be carried out against a customer, the bank or the insurer.</paragraph>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="19;19">
+					How this can affect you
+					</title>
+				<paragraph category="19;19">If we or an FPA decide there is a risk of fraud, we may stop activity on the accounts or block access to them. FPAs and cross-industry organisations may also keep a record of the risk that you or your business may pose.</paragraph>
+		<paragraph category="19;19">This may result in other organisations refusing to provide you with products or services, or to employ you.</paragraph>
+</segment>
+			<segment>
+				<title tagname="strong" depth="8" font-size="1.0" font-weight="1.5" category="14;14">
+					Data transfers out of the UK and EEA
+					</title>
+				<paragraph category="14.2;14.2">FPAs and other organisations we share data with for these purposes may send personal information to countries outside the UK and European Economic Area (‘EEA’). When they do, there will be a contract in place to make sure the recipient protects the data to the same standard as the EEA. This may include following international frameworks for making data sharing secure.</paragraph>
+		<paragraph category="19;19">Here is the web page for the information notice for one of the main Fraud Prevention Agency we use:</paragraph>
+</segment>
+			<paragraph category="17.2;17.2">This section deals with information we share outside our group to help fight financial crime. This includes crimes such as fraud, money-laundering and terrorist financing.</paragraph>
+		<paragraph category="19;19">We may need to confirm your identity before we provide products or services to you or your business. This may include carrying out fraud checks at the point of sale.</paragraph>
+		<paragraph category="17.1,17.2;17.1,17.2">Once you have become a customer of ours, we will share your personal information as needed to help combat fraud and other financial crime. The organisations we share data with are:</paragraph>
+		<item>Registered Fraud Prevention Agencies (FPAs)</item>
+		<item>Other agencies and bodies acting for the same purpose</item>
+		<item>Industry databases used for this purpose</item>
+		<item>Insurers</item>
+		<paragraph category="17.1,17.2;17.1,17.2">Throughout our relationship with you, we and these organisations exchange data between us to help prevent, deter, detect and investigate fraud and money-laundering.</paragraph>
+		<paragraph category="10.3,11;10.3,11">None of us can use your personal information unless we have a proper reason to do so. It must be needed either for us to obey the law, or for a ‘legitimate interest’.</paragraph>
+		<paragraph category="10.3;10.3">When we have a business or commercial reason of our own to use your information, this is called a ‘legitimate interest’. We will tell you what that is, if we are going to rely on it as the reason for using your data. Even then, it must not unfairly go against your interests.</paragraph>
+		<paragraph category="11;11">We will use the information to:
+		<item>Confirm identities</item>
+		<item>Help prevent fraud and / or money-laundering</item>
+		<item>Fulfil any contracts you or your business has with us</item></paragraph>
+		<paragraph category="17.1,17.2;17.1,17.2">We or an FPA may allow law enforcement agencies to access your personal information. This is to support their duty to prevent, detect, investigate and prosecute crime.</paragraph>
+		<paragraph category="16.1;16.1">These other organisations can keep personal information for different lengths of time, up to six years.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="7" font-size="1.67" font-weight="1.5">
+				18. Sending data outside the UK and EEA
+				</title>
+			<paragraph category="14.2;14.2">This section tells you about the safeguards that keep your personal information safe and private, if it is sent outside the UK and EEA.</paragraph>
+		<paragraph category="10.5,10.6,14;10.5,10.6,14">We will only send your data outside of the UK and European Economic Area (‘EEA’) to:</paragraph>
+		<item>Follow your instructions
+For example, if you book a hotel in Australia with your Lloyds Banking Group card we will send your details necessary to fulfil that payment to the hotel’s bank.</item>
+		<item>Comply with a legal duty
+For example, we share information about US citizens with the US tax authority.</item>
+		<item>Work with our suppliers who help us to run your accounts and services</item>
+		<paragraph category="14.2;14.2">If we do transfer your personal information outside the UK and EEA to our suppliers, we will make sure that it is protected to the same extent as in the UK and EEA. We’ll use one of these safeguards:</paragraph>
+		<item>Transfer it to a non-EEA country with privacy laws that give the same protection as the UK and EEA. Learn more on the European Commission Justice website.</item>
+		<item>Put in place a contract with the recipient that means they must protect it to the same standards as the UK and EEA. Read more about this here on the European Commission Justice website,</item>
+</segment>
+	</segment>
+</policy>

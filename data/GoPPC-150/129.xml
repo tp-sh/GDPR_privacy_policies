@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<segment>
+		<title tagname="h2" depth="1" font-size="2.0" font-weight="1.5" category="">
+			Our privacy policy
+			</title>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="8,9;8,9">
+				What information do we collect when you use the NHS website?
+				</title>
+			<paragraph category="8,9.2;8,9.2">When you use the NHS website, we use various technologies to collect information automatically – such as your IP address. This is commonplace across all internet services to enable the investigation of issues such as service availability and the identification of malicious use. This information is then kept in our internet access logs.</paragraph>
+		<paragraph category="8,9.1;8,9.1">We also collect some personal information directly – for example, when you actively submit details like your postcode to find nearby services.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="11;11">
+				How do we use the information we collect about you?
+				</title>
+			<paragraph category="11;11">We analyse information to see what is most effective about our website and associated services to help us identify ways to improve it and to make it more effective. We may also use information for other purposes, which we would describe to you at the point when we collect the information.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="18.1;18.1">
+				Cookies
+				</title>
+			<paragraph category="18.1;18.1">Our website uses cookies. These are small files saved on your phone, tablet or computer when you visit a website. They store information about how you use the website, such as the pages you visit.</paragraph>
+		<paragraph category="18.1;18.1">The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission before we can use them on your device.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="19;19">
+				Video content
+				</title>
+			<paragraph category="19;19">The NHS website video content – whether viewed on the website, in emails or embedded in third-party sites – are streamed to users by a third-party company, Brightcove.</paragraph>
+		<paragraph category="19;19">See the Brightcove privacy policy for more information about how they collect and use data about viewers of our videos.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="19;19">
+				Email subscriptions
+				</title>
+			<paragraph category="16;16">If you sign up for one of our email subscription services, we will hold the information you submitted (such as your email address) for as long as we are providing you services.</paragraph>
+		<paragraph category="4.9;4.9">If you do not access the services provided by us, for instance you do not open or click through one of the emails for more than a year, we will send you an email asking you to confirm that you wish to continue receiving our emails. If you do not respond to this email within 1 month we will unsubscribe you.</paragraph>
+		<paragraph category="4.4,4.9;4.4,4.9">We will remove all personal information we hold relating to you, which you registered with us, within 6 months of you unsubscribing from the site. We hold this information for a further 6 months following unsubscription, as we may need to use it for statistical analysis or if you choose to resubscribe. Be assured that if you unsubscribe you will not receive further information from us.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="19;19">
+				NHS website enquiries
+				</title>
+			<paragraph category="10.5;10.5">If you contact the NHS website with an enquiry, such as a question about our content, you may be contacted to provide feedback on how we managed your enquiry. You will be asked for your consent when you submit your data to us.</paragraph>
+		<paragraph category="16.1;16.1">We will hold the information you provide us for as long as necessary to support the service we are providing you, for example so we can continue to provide assistance or resolve an ongoing issue.</paragraph>
+		<paragraph category="16.3;16.3">If no communication has been made in over 12 months and the information is not required to resolve an ongoing issue, then all communication and any personal information will be deleted. Non-personal information, such as how long your enquiry was open for or the part of the website you were using, will remain. This is to allow for reporting over a period greater than 12 months.</paragraph>
+		<paragraph category="16.1;16.1">Information is kept for 12 months to allow for trend analysis, identifying reoccurring issues and understanding common issues.</paragraph>
+		<paragraph category="16.3;16.3">Exceptions include those currently following the complaints process, or when consent to keep information for longer has been obtained. Additionally, if we have determined that the information supplied contains personal information that we do not need to hold to provide assistance, we will endeavour to remove this information sooner.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="19;19">
+				Our interactive tools
+				</title>
+			<paragraph category="11;11">We produce several interactive tools that can help you learn more about your health. For example, our Heart Age tool can help you find out how healthy your heart is.</paragraph>
+		<paragraph category="19;19">As well as appearing on the NHS website, these tools can be used on other (third-party) sites.</paragraph>
+		<paragraph category="18.1;18.1">If you turn on cookies that measure website use (on our cookies page), use of our tools on third-party sites will be tracked. No personal data is collected by these tools.</paragraph>
+		<paragraph category="8,9;8,9">Information gathered by us includes your IP address, the page a tool is used on, and how many times it is used. In some cases, tracking is used to show user progress through a tool. This information will not be shared with third parties. All our tools store the number of times a user has visited the tool. Some tools also store information about how far you got through a tool, so you do not have to restart the tool if you use it again.</paragraph>
+		<paragraph category="19;19">Some tools, such as the Heart Age tool, allow input of date of birth or postcode, which are converted to age and deprivation score.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="19;19">
+				Third-party services
+				</title>
+			<paragraph category="18.1;18.1">If you turn on cookies that measure website use (on our cookies page) we may use the following services on the NHS website:</paragraph>
+		<item>New Relic provides information on how well our site is working</item>
+		<item>Adobe Analytics, Google Analytics and Hotjar collect information about how you use our website, to help us make it better</item>
+		<item>Hotjar and Qualtrics survey tools are used to ask you questions to help us make the website better. These surveys may collect both personal data and data that cannot identify you (anonymised data). You will be reminded of specific details when we collect this data and your rights under this policy and legislation are not affected</item>
+		<paragraph category="18.1;18.1">For more information about how these services process your data, see:</paragraph>
+		<item>New Relic privacy policy</item>
+		<item>Adobe Analytics privacy policy</item>
+		<item>Google Analytics privacy policy</item>
+		<item>Hotjar privacy policy</item>
+		<item>Qualtrics privacy policy</item>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="19;19">
+				Syndication
+				</title>
+			<paragraph category="11;11">We offer a free syndication service that enables partner organisations to pull content from the NHS website via an application programming interface (API) and display it on their website, app or service.</paragraph>
+		<paragraph category="10.1,11;10.1,11">In line with the syndication standard licence agreement, we require personal information of those using this service for contractual purposes. We use the data to inform subscribers of changes to functionality, structure or features within the syndicated content, or if there is a breach of the agreement. We also use subscriber's personal data to feed into internal reports, which identify active callers of the API alongside their usage.</paragraph>
+		<paragraph category="4.9;4.9">While an active subscriber is receiving syndicated content we will continue to store their personal data. A partner can remove their own account without admin assistance via the API developer portal. Once an account has been closed by either the user or an admin, we will no longer store their data.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="19;19">
+				Service finders
+				</title>
+			<paragraph category="16;16">The website provides a number of service finders to assist you in finding health services near you. While we do not capture any specific information about you as part of this service, the searches, including postcode and other personal information, are saved in our logs and analytics tools. Ideally we would only use part postcodes but this renders the searches ineffectual in rural areas.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="19;19">
+				Comments and ratings
+				</title>
+			<paragraph category="8,9;8,9">User comments and ratings are moderated by a service called ICUC. They will receive details of your comment and the name and email address you submit.</paragraph>
+		<paragraph category="11;11">See the ICUC privacy policy to find out how they process your information.</paragraph>
+		<paragraph category="17;17">We also syndicate published comments and ratings to partner websites, apps or services that adhere to the syndication standard licence terms. We do not pass your email address to our syndication partners.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="19;19">
+				General data services
+				</title>
+			<paragraph category="11;11">We process and publish data in directories on NHS.UK from data aggregators and professional bodies – for example, the British Association for Counselling and Psychotherapy (BACP). This is to provide information to the public about health-related services.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="19;19">
+				Profile Information Management System (PIMS)
+				</title>
+			<paragraph category="11;11">PIMS is used by staff working within dental practices, general practices, pharmacies, opticians, NHS Trusts and social care providers to enter service information on the NHS website so that it can be displayed on the website and syndicated to third parties.</paragraph>
+		<paragraph category="8,9.1,11;8,9.1,11">If you are a PIMS profile editor, we collect personal data from you on registration. The personal data that we collect includes your name, email address, organisation name and job title. We use your personal data to provide the PIMS service and to communicate with you by email for PIMS service related purposes. Occasionally we may contact you for research purposes with the objective of improving the PIMS service or the service information that we provide on the NHS website.</paragraph>
+		<paragraph category="10.5;10.5">PIMS enables you to add staff information on to your service profile(s). Before doing so, you need to ensure that you acquire and record their consent unless the information is already in the public domain (for example, published on your corporate website or included in a professional body medical register).</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="19;19">
+				Social media
+				</title>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="8,9,16;8,9,16">
+					How the NHS website collects and stores your data
+					</title>
+				<paragraph category="6,8,9.2;6,8,9.2">If you choose to interact with us on social media, we may receive some personally identifiable data about you, which is supplied by the channel you are using (for example, Facebook, Twitter or YouTube). This may include:</paragraph>
+		<item>name</item>
+		<item>social media handles (such as Twitter account name)</item>
+		<item>location history (where you are contacting us from)</item>
+		<item>images (such as your profile picture)</item>
+		<paragraph category="11,16;11,16">We will process and store your data in accordance with the terms and conditions and privacy policy of the platform in question. You should be aware that your use of these platforms is governed by the terms and conditions agreed between you and the platform, rather than the NHS website.</paragraph>
+		<paragraph category="11;11">We may use social media management tools (such as Hootsuite) to help deliver elements of our service to you. Any personally identifiable data processed using these tools is supplied by the platforms we use, in accordance with their terms and conditions.</paragraph>
+		<paragraph category="4.1,17;4.1,17">We will not remove, duplicate or transfer your personal data from or between any of the social platforms that we use, except for when you give us explicit permission to do so or when we believe that we need to in order to respond to an urgent risk to health.</paragraph>
+		<paragraph category="17;17">For example, if you interact with us in a way that raises serious concerns about your mental health, we may share your personal details with local NHS services to ensure that you are offered appropriate support.</paragraph>
+		<paragraph category="16;16">You should be aware that social networks may control some of the data associated with interactions between you (the user) and us (the NHS website) on their platforms. For example, we will be able to delete our own records of a private message conversation if you request us to do so, but social networks may store a copy of this conversation that we are unable to access.</paragraph>
+		<paragraph category="4;4">We would recommend using the privacy tools built in to the social networks in question to ensure you are able to exercise your rights appropriately.</paragraph>
+</segment>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="11;11">
+					Understanding how social networks use your data
+					</title>
+				<paragraph category="11;11">Social networks use information about your online activity to build a profile of you. This data is then used (anonymously) to send you targeted adverts across various digital platforms.</paragraph>
+		<paragraph category="19;11">You should be aware that interacting with health-related accounts such as ours may help build the profile of you that social networks maintain, and could potentially result in you receiving adverts related to health issues.</paragraph>
+		<paragraph category="19;11">This process of collecting data for advertising purposes is not controlled by the NHS website, and we do not have access to the profiling data stored by social networks about you.</paragraph>
+</segment>
+			<paragraph category="11;11">We utilise the following social media platforms to interact with our users:</paragraph>
+		<item>Facebook (incorporating Instagram)</item>
+		<item>Twitter</item>
+		<item>YouTube</item>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="16.1;16.1">
+				How long do we hold this information?
+				</title>
+			<paragraph category="16.1;16.1">Unless otherwise stated, business information that falls under NHS Digital is held for a minimum of 3 years and will be subject to review. We will hold the information for as long as we are providing you services.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="17;17">
+				Do we share information?
+				</title>
+			<item>we strive to capture the minimal amount of personal data, and only share with other organisations where the law permits us to do so or where we require and have gained your consent</item>
+		<item>we only share information with our authorised Data Processors for the sole purpose of processing the data in connection with the service we have procured from them. These processors must act at all times on our instructions as the Data Controller under the Data Protection legislation</item>
+		<item>we do not sell individuals' information</item>
+		<item>we host health information campaigns on behalf of Public Health England, where we are Data Processors. These campaigns may have separate privacy terms and consent requirements</item>
+		<item>before you submit any information, you will be informed why we are asking for specific information and it is up to you whether you provide it</item>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="4.2.4.3.4.9;4.2,4.3,4.9">
+				How can you access, amend or withdraw the personal data you have given us?
+				</title>
+			<segment>
+				<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="4.6;4.6">
+					Right to object
+					</title>
+				<item>if we are using your data because we have a legal basis to do so under the Health and Social Care Act, and you do not agree, you have the right to object. We will respond to your request within the required time frame (although we may be allowed to extend this period in certain cases). Generally, we will only disagree with you if certain limited conditions apply</item>
+		<item>this right enables you to object to us processing your personal data where we do so for one of the following reasons: (i) to enable us to perform a public task or exercise official authority; (ii) to send you direct marketing communications; and (iii) for research or analytical purposes</item>
+</segment>
+			<segment>
+				<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="4.9;4.9">
+					Right to withdraw consent
+					</title>
+				<paragraph category="4.1,4.9;4.1,4.9">Where we have obtained your consent to process your personal data, or consent to send you information, you may withdraw your consent at any time and we will cease to carry out the particular activity that you previously consented to, unless we consider that there is an alternative reason to justify our continued processing of your data for this purpose, in which case we will inform you of this condition.</paragraph>
+</segment>
+			<segment>
+				<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="4.2;4.2">
+					Data access requests
+					</title>
+				<paragraph category="4.2,4.3,4.4;4.2,4.3,4.4">You may ask us to confirm what information we hold about you at any time, and request us to modify, update or delete such information. We may ask you to verify your identity and for more information about your request.</paragraph>
+		<paragraph category="4.1;4.1">If we provide you with access to the information we hold about you, we will not charge you for this. If we refuse your request for any legitimate reason, we will always tell you the reasons for doing so.</paragraph>
+</segment>
+			<segment>
+				<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="4.4;4.4">
+					Right to remove
+					</title>
+				<paragraph category="4.4;4.4">In certain situations, you have the right to request us to "remove" your personal data. We will respond to your request within the agreed timeframe (although we may be allowed to extend this period in certain cases) and will only disagree with you if certain limited conditions apply.</paragraph>
+		<paragraph category="4.4;4.4">If we do agree to your request, we will delete your data but will generally assume that you would prefer us to keep a note of your name on a register of individuals who would prefer not to be contacted. That way, we will minimise the chances of you being contacted in the future where your data is collected in unconnected circumstances. If you would prefer us not to do this, you are free to say so.</paragraph>
+		<paragraph category="4.4,4.6;4.4,4.6">Normally, the information must meet one of the following criteria:
+		<item>the data is no longer necessary for the purpose for which we originally collected and/or processed it</item>
+		<item>where previously given, you have withdrawn your consent to us processing your data, and there is no other valid reason for us to continue processing</item>
+		<item>the data has been processed unlawfully (i.e. in a manner that does not comply with existing Data Protection regulations)</item>
+		<item>it is necessary for the data to be deleted for us to comply with our legal obligations as a data controller</item></paragraph>
+		<paragraph category="10.2,10.6;10.2,10.6">We would only be entitled to refuse to comply with your request for one of the following reasons:
+		<item>to exercise the right of freedom of expression and information</item>
+		<item>to comply with legal obligations or for the performance of a public interest task or exercise of official authority</item>
+		<item>for public health reasons in the public interest</item>
+		<item>for archival, research or statistical purposes</item>
+		<item>to exercise or defend a legal claim. When complying with a valid request for the removal of data, we will take all reasonably practicable steps to delete the relevant data</item></paragraph>
+</segment>
+			<segment>
+				<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="4.5;4.5">
+					Right to restrict processing
+					</title>
+				<paragraph category="4.5;4.5">You have the right to request that we restrict our processing of your personal data in certain circumstances.</paragraph>
+		<paragraph category="16;16">This means that we can only continue to store your data and will not be able to carry out any further processing activities with it until either: (i) one of the circumstances listed below is resolved; (ii) you consent; or (iii) further processing is necessary for either the establishment, exercise or defence of legal claims, the protection of the rights of another individual, or reasons of important public interest.</paragraph>
+		<paragraph category="4.5,4.6;4.5,4.6">The circumstances in which you are entitled to request that we restrict the processing of your personal data are:</paragraph>
+		<item>where you dispute the accuracy of the personal data that we are processing about you. In this case, our processing of your personal data will be restricted for the period during which the accuracy of the data is verified</item>
+		<item>where you object to our processing of your personal data for our legitimate interests. Here, you can request that the data be restricted while we verify our grounds for processing your personal data</item>
+		<item>where our processing of your data is unlawful, but you would prefer us to restrict our processing of it rather than erasing it</item>
+		<item>where we have no further need to process your personal data but you require the data to establish, exercise or defend legal claims</item>
+		<paragraph category="4.1,4.5,17;4.1,4.5,17">If we have shared your personal data with third parties, we will notify them about the restricted processing unless this is impossible or involves disproportionate effort. We will, of course, notify you before lifting any restriction on processing your personal data.</paragraph>
+</segment>
+			<segment>
+				<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="4.3;4.3">
+					Right to rectification
+					</title>
+				<paragraph category="4.3;4.3">You also have the right to request that we rectify any inaccurate or incomplete personal data that we hold about you. If we have shared this personal data with third parties, we will notify them about the rectification unless this is impossible or involves disproportionate effort.</paragraph>
+		<paragraph category="4.1,17;4.1,17">Where appropriate, we will also tell you which third parties we have disclosed the inaccurate or incomplete personal data to. Where we think that it is reasonable for us not to comply with your request, we will explain our reasons for this decision.</paragraph>
+</segment>
+			<paragraph category="1.2,4;1.2,4">To get in touch about these rights, please contact us via the Data Controller details above. We will seek to deal with your request without undue delay, and in any event within 1 month (subject to any extensions to which we are lawfully entitled).</paragraph>
+		<paragraph category="11,16;11,16">*Please note that we may keep a record of your communications to help us resolve any issues that you raise.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="10,11;10,11">
+				Purpose and legal basis for processing
+				</title>
+			<paragraph category="10;10">NHS Digital operates the NHS website as directed by the Electronic Prescription Service, Health and Social Care Network, N3, NHS e-Referral Service, Secondary Use Service (SUS), Spine 2 (Named Programmes) Directions 2016 under the powers of sections 254(1) and (6), 274(2), 304(9) and (10) of the Health and Social Care Act 2012.</paragraph>
+		<paragraph category="10;10">This direction supplements the Health and Social Care Information Centre (Systems Delivery Functions for the NHS website and Additional Systems Delivery Functions for the NHS website) Directions 2013.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="12;12">
+				Keeping information secure
+				</title>
+			<paragraph category="12;12">We invest significant resources to protect your personal information, from loss, misuse, unauthorised access, modification or disclosure. However, no internet-based site can be 100% secure and so we cannot be held responsible for unauthorised or unintended access that is beyond our control.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.5" font-weight="1.5" category="1;1">
+				The NHS website Data Controller
+				</title>
+			<item>the Health and Social Care Information Centre (known as NHS Digital) is the Data Controller for the NHS website</item>
+		<item>the Data Protection Officer is Kevin Willis</item>
+		<item>find out how NHS Digital looks after your health and care information</item>
+		<item>if there are any queries regarding this privacy policy, you may contact us using the information below:</item>
+		<paragraph category="19;1.2">Information Governance Compliance Team NHS Digital 1 Trevelyan Square Boar Lane Leeds LS1 6AE</paragraph>
+		<paragraph category="1.1,4.2,4.3,7;1.1,4.2,4.3,7">or email enquiries@nhsdigital.nhs.uk
+		<item>in some cases, the NHS website is acting as a Data Processor on behalf of another Data Controller e.g. Health Campaigns by Public Health England</item>
+		<item>we will process your data in accordance with the Data Protection regulations in force in the UK at the time</item>
+		<item>you are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate</item>
+		<item>you also have the right to lodge a complaint with the Information Commissioner's Office. Contact the ICO</item></paragraph>
+</segment>
+		<paragraph category="">Your privacy is important to us. This privacy policy covers what we collect and how we use, disclose, transfer and store your information.</paragraph>
+</segment>
+</policy>

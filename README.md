@@ -35,12 +35,15 @@ Automated compliance analysis with the EU GDPR is in high demand. However, previ
 |           |-- train_segment.py(train_document.py) # Training code at different levels
 
 |-- data  # Contains data used and generated
+|   |-- GoPPC-150 # Our proposed corpus
+|       |-- 1.xml-150.xml # 150 labeled privacy policies with hierarchy 
 |   |-- complete_classifier_results.csv  # Type1-Type12 results at different levels
 |   |-- Torre et al.\'s_classifiers_results # Results from Torre et al.\'s classifier
 |   |-- opp_results.csv # Old evaluation and our evaluation results on OPP-115 datasets
 |   |-- keyword_list.csv # Keyword list for each of the 96 concepts in GDPR taxonomy
 |   |-- Web_list.csv # List of websites in our corpus
 |   |-- GDPR_taxonomy.pptx # GDPR taxonomy
+|   |-- readme.md # Description for this directory
 ```
 
 ## Citation

@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<segment>
+		<title tagname="h2" depth="2" font-size="0.81" font-weight="1.75" category="">
+			Article 1 - Acceptance of rules concerning the use of personal data
+			</title>
+		<paragraph category="">By using any of the Reverso sites or products, you acknowledge that you have read and agree to these rules regarding the use of personal data. If you disagree with them, please do not access the Reverso sites.</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="2" font-size="0.81" font-weight="1.75" category="1.1;1.1">
+			Article 2 – Identity of the data collector
+			</title>
+		<paragraph category="1.1.1,1.2;1.1.1,1.2">The person responsible for collecting your personal data is Reverso SAS, a simplified joint stock company with a capital of €42,500, registered with the Trade and Companies Register of NANTERRE under number 335 309 993, whose registered office is located at 5, rue Soyer 92200 NEUILLY-SUR-SEINE.</paragraph>
+		<paragraph category="3.2;3.2">You can contact our Data Protection Officer (or DPO) at dpo@reverso.com.</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="2" font-size="0.81" font-weight="1.75" category="19;19">
+			Article 3 – Nature of personal data
+			</title>
+		<segment>
+			<title tagname="u" depth="4" font-size="0.81" font-weight="1.75" category="8;8">
+				a - Registration data
+				</title>
+			<paragraph category="8,9.1;8,9.1">The registration data corresponds to the fields you fill in when you create or update your Reverso account.</paragraph>
+		<paragraph category="8,9.1;8,9.1">A validated, personal and not “temporary” email address is mandatory. Other data may be requested on an optional basis, such as your first name, last name, occupation, language, date of birth.</paragraph>
+		<paragraph category="8,9.1;8,9.1">First and last names are considered private data. They will be available publicly if you contribute to the collaborative dictionary or on the Expressio website. If you do not want to make this data publicly available, it is up to you not to enter your first and last name. In this case, only your username will be displayed.</paragraph>
+</segment>
+		<segment>
+			<title tagname="u" depth="4" font-size="0.81" font-weight="1.75" category="8;8">
+				b - Usage data
+				</title>
+			<paragraph category="8,9.2,11;8,9.2,11">Usage data is automatically stored when you navigate on Reverso’s websites in order to provide you with a personalized experience. For example, Reverso Translator is automatically set on the last language pair you used, Reverso Documents allows you to see the list of translation jobs you have performed with details such as the date, source language, target language, number of words, etc. This information also allows Reverso Documents to calculate the remaining credits on your account. Without such collected information, Reverso may not be able to provide you with the best user experience on its websites.</paragraph>
+		<paragraph category="8,9.2;8,9.2">To achieve that, Reverso collects log data and cookies, described in Article 8, even if you haven’t created a Reverso account or logged in yet. Reverso uses Google Analytics as an audience measurement tool to follow aggregated statistics and level of engagement, such as the number of visits on its pages, number of clicks, etc. For more information, you can consult Google’s Privacy and terms accessible via this link.</paragraph>
+		<paragraph category="8,9,11;8,9,11">Reverso also stores an anonymous history of spelling mistakes corrected on its Speller in the purpose of analyzing this data and improving the provided services.</paragraph>
+</segment>
+		<segment>
+			<title tagname="u" depth="4" font-size="0.81" font-weight="1.75" category="8;8">
+				c – Activity data
+				</title>
+			<paragraph category="19;9">When you are not logged in, no personal data is stored by Reverso.</paragraph>
+		<paragraph category="19;8">When you are logged in on Reverso’s Translation, Conjugation or Speller sites, no personal data is collected either.</paragraph>
+		<paragraph category="8,9.2,11;8,9.2,11">When you are logged in on Context or Synonyms, Reverso stores your search history, so that you can review and learn from it. You can mark an item as a favourite or choose to delete it. Your list of favorite items is stored by Reverso and you can access it on the Favourite page under your Account and synchronized across all your devices. By default, your favourites list is private and only you have access to it. However, you can choose to make it public, in this case anyone you share the link with can view your list (but cannot modify it).</paragraph>
+		<paragraph category="8,9.1,4.3,11,4.4;8,9.1,4.3,11,4.4">On Reverso Documents, your uploaded files and their translations are temporarily stored by Reverso to allow you to revise them online. This feature is very handy for proof-reading before downloading the translated document, as it allows you to see the texts in the original language and the target language side by side. The modifications you bring to the translated segments are stored in your Translation Memory, which will be used, only for your account, in the following documents. You can choose to disable this feature when launching a new translation. Your documents are accessible from your Dashboard. You can choose to share them with any reviewer you invite by email; the Reverso Documents’ support team can access them if you request help on a specific translation project. You can also choose to delete the project, which will permanently delete it from all our servers, as described in Article 6.</paragraph>
+		<paragraph category="19;12">In conclusion, your activity data is considered as highly confidential and no third-party can have access to it unless you share it with them.</paragraph>
+</segment>
+		<segment>
+			<title tagname="u" depth="4" font-size="0.81" font-weight="1.75" category="19;19">
+				d – User Contributions
+				</title>
+			<paragraph category="8,9.1;8,9.1">Users wishing to improve Reverso’s services can choose to contribute to the collaborative dictionary, send their suggestions, revisions and feedback. Their inputs are then stored by Reverso and associated to their account.</paragraph>
+</segment>
+		<paragraph category="8;8">Personal data includes any personally identifiable information that you deliberately provide when registering on one or more Reverso sites or products or that will be used in connection with your use of the Reverso sites. Personal data includes "registration data", "usage data", “activity data” and “user contributions”:</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="2" font-size="0.81" font-weight="1.75" category="11;11">
+			Article 4 – Purposes of the collection of personal data
+			</title>
+		<paragraph category="11;11">The Reverso services process personal data in order to enable users to take full advantage of the services offered and to enable the Reverso team to improve them.</paragraph>
+		<paragraph category="11;11">The use of this data allows, among other things, any Reverso user to:</paragraph>
+		<item>benefit from an optimized experience</item>
+		<item>retain their history, favourites and preferences</item>
+		<item>contribute to collaborative tools or provide feedback</item>
+		<item>receive responses to written requests made via the Reverso contact form</item>
+		<item>receive invoices for payments</item>
+		<item>receive updates on new or existing features &amp; Reverso products</item>
+		<item>receive personalized learning content</item>
+		<item>store, edit or revise translated documents</item>
+		<paragraph category="11;11">And it allows Reverso to:
+		<item>optimize the different functionalities of each site</item>
+		<item>measure the audience of Reverso sites</item>
+		<item>send email communication about new or existing functionalities of Reverso’s products and services</item></paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="2" font-size="0.81" font-weight="1.75" category="17.1;17.1">
+			Article 5 – Recipients of the collected data
+			</title>
+		<paragraph category="17.1;17.1">The data collected during the registration or use of the sites are exclusively intended for the staff of Reverso, its subcontractors and service providers, the companies of the same group, and other companies or persons of trust that process them on our behalf, according to our instructions, in accordance with this Privacy Policy and in compliance with any other appropriate security and confidentiality measures.</paragraph>
+		<paragraph category="17.2;17.2">They may, however, be disclosed pursuant to a law, regulation or decision of a competent regulatory or judicial authority.</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="2" font-size="0.81" font-weight="1.75" category="16;16">
+			Article 6 – Retention of personal data
+			</title>
+		<paragraph category="16.1;16.1">Personal data will be stored as long as your account is active or as long as you use Reverso’s sites.</paragraph>
+		<paragraph category="4.4,6;4.4,6">You can choose to delete your search history or your translated Documents and Translation Memories on Reverso, which will permanently delete them from our servers.</paragraph>
+		<paragraph category="4.9,6,16.3;4.9,6,16.3">You can also choose to deactivate your account at any time. Reverso will delete the registration data associated with your user account (name, surname, email etc.) and will anonymize the User Contributions linked to this account.</paragraph>
+		<paragraph category="12;12">Reverso takes all necessary precautions, organisational and technical measures to ensure the confidentiality of information stored on Reverso sites. Email addresses and personal data (except activation of the public profile and public contributions) of registered users do not appear at any time.</paragraph>
+		<paragraph category="16.2;16.2">Regarding the paid use of Reverso services, the payment details of the users are kept by the companies that manage the payments and subscriptions: Braintree (for paid use of Reverso Documents), Google and Apple (for the Premium version of Reverso applications).</paragraph>
+		<paragraph category="19;19">You can share information about your use of Reverso services on social networks. Reverso cannot be held responsible for the information you disseminate in this context.</paragraph>
+		<paragraph category="10.5,12,16.2;10.5,12,16.2">Reverso undertakes not to communicate your information to third parties without your consent and to take all necessary precautions, appropriate organisational and technical measures to safeguard the security of your personal data and, in particular, to prevent it from being distorted, damaged or accessed by unauthorised third parties. Data is secure and hosted in Europe.</paragraph>
+		<paragraph category="13;13">Reverso reserves the right to prosecute anyone who attempts to access personal information that does not concern them.</paragraph>
+</segment>
+	<segment>
+		<title tagname="h2" depth="2" font-size="0.81" font-weight="1.75" category="4;4">
+			Article 7 – Rights and responsibilities of users
+			</title>
+		<segment>
+			<title tagname="u" depth="4" font-size="0.81" font-weight="1.75" category="4.4;4.4">
+				a - Deletion of personal data
+				</title>
+			<paragraph category="4.3,4.4;4.3,4.4">In accordance with the GDPR, you can obtain communication and, if necessary, correction or deletion of information about you.</paragraph>
+		<paragraph category="1.2,4.3,4.4;1.2,4.3,4.4">To do so, you can contact Reverso by mail at: Reverso SAS, 5 rue Soyer, 92200 NEUILLY-SUR-SEINE or via the contact form Reverso, or by modifying online the information associated with your profile in the «My Account» pages on the Reverso sites. Reverso reserves the right to verify the identity of the persons who contact it (for example with an identity card) before allowing them to access personal data or to take into account their corrections.</paragraph>
+</segment>
+		<segment>
+			<title tagname="u" depth="4" font-size="0.81" font-weight="1.75" category="19;4">
+				b - Dereferencing
+				</title>
+			<paragraph category="4.4;4.4">You can ask the search engines and Reverso to stop associating content that damages your first and last name. If your request concerns the content that appears among the examples of use of the words proposed by Reverso, you can ask to delete the content. The request must be made via the contact form and you should be able to justify the harm caused and your identity. Please note that no claim for damages will be accepted by Reverso SAS.</paragraph>
+</segment>
+		<segment>
+			<title tagname="u" depth="4" font-size="0.81" font-weight="1.75" category="19;19">
+				c – Responsibilities
+				</title>
+			<paragraph category="19;19">The user remains responsible for the content he publishes on the Reverso sites and for managing their password.</paragraph>
+		<paragraph category="4.1;4.1">The user agrees that they are solely responsible for the content sent, displayed or downloaded during the use of the services. The user agrees not to use the Services in any way that violates applicable laws, including but not limited to anti-spam laws and regulations, relating to confidentiality, and agrees to be solely responsible for compliance with all such laws and regulations. The user further agrees not to use the Services to communicate any message or material harassing, defamatory, threatening, obscene, indecent, that violates the intellectual property rights of any third party or is otherwise illegal, incurs civil liability, or constitutes or encourages conduct that may constitute a criminal offence, under any applicable law or regulation.</paragraph>
+		<paragraph category="19;19">Where appropriate, Reverso reserves the right to take appropriate measures, including prosecution.</paragraph>
+</segment>
+</segment>
+	<segment>
+		<title tagname="h2" depth="2" font-size="0.81" font-weight="1.75" category="18.1;18.1">
+			Article 8 – Cookies
+			</title>
+		<segment>
+			<title tagname="u" depth="4" font-size="0.81" font-weight="1.75" category="18.1;18.1">
+				a - Use of cookies
+				</title>
+			<paragraph category="18.1;18.1">Cookies are small text files that websites send to a user’s computer or other Internet-connected device to uniquely identify the browser or to store information or settings in this browser. They are created when the browser loads a given website: the website sends information to the browser, which then creates a text file. Each time the user returns to the same site, the browser retrieves this file and sends it to the website server.</paragraph>
+		<paragraph category="18.1;18.1">We can distinguish several types of cookies, which do not have the same purposes: technical cookies, advertising cookies and affiliate cookies:</paragraph>
+		<item>Technical cookies are used throughout your browsing, in order to facilitate and perform certain functions. A technical cookie can, for example, be used to remember the answers given in a form or the user’s preferences regarding the language or presentation of a website, when such options are available.</item>
+		<item>Advertising cookies can be created not only by the website on which the user is browsing, but also by other websites broadcasting advertisements, ads, widgets or other elements on the page displayed. These cookies can be used to carry out targeted advertising, that is, advertising based on the user’s navigation.</item>
+		<paragraph category="18.1;18.1">Reverso primarily uses technical cookies, including:</paragraph>
+		<item>An authentication cookie, allowing you to remain authenticated without having to re-enter your account credentials on each page</item>
+		<item>A session cookie, allowing you to store your session information during your visit. This cookie is not persistent: it is deleted at the end of your visit.</item>
+		<paragraph category="18.1;18.1">You may object to the installation of these cookies, but such refusal could prevent the proper functioning of the Reverso sites.</paragraph>
+</segment>
+		<segment>
+			<title tagname="u" depth="4" font-size="0.81" font-weight="1.75" category="18.1;18.1">
+				b - Specific cookie used for advertising purposes
+				</title>
+			<paragraph category="18.1;18.1">Reverso also uses advertising cookies, subject to your consent requested during your visit to the Reverso sites. Advertising cookies allow us to adapt the advertising offered on our site</paragraph>
+		<item>by counting the total number of advertisements displayed by us on our advertising spaces, identifying those advertisements, the number of users who clicked on each advertisement and compiling statistics</item>
+		<item>by adapting our advertising spaces to the display preferences of your terminal (language used, display resolution, operating system used, etc.), depending on the hardware and software for viewing or reading your terminal has</item>
+		<item>by adapting the advertising content displayed on your terminal by our advertising spaces, according to the navigation of your terminal on our site</item>
+		<item>by adapting, where appropriate, the advertising content displayed on your terminal in our advertising spaces according to the location data transmitted by your terminal with your prior consent</item>
+		<item>by adapting the advertising content displayed on your device in our advertising spaces according to the personal data you have provided us</item>
+		<paragraph category="18.1;18.1">The list of these advertising cookies and the means to disable them are specified below:</paragraph>
+		<item>Google DFP, Google Adexchange, Google Adsense Ad Targeting Cookie: https://adssettings.google.com/</item>
+		<item>Facebook conversion measurement cookie, which works as https://www.facebook.com/business/learn/facebook-ads-pixel</item>
+		<item>To manage your Facebook data: https://www.facebook.com/policies/cookies/</item>
+		<item>Twitter conversion measurement cookie: https://help.twitter.com/en/rules-and-policies/twitter-cookies</item>
+		<item>Other advertising targeting cookies: https://www.youronlinechoices.com/</item>
+		<paragraph category="18.1;18.1">Reverso reminds you for all purposes that you can object to the deposit of cookies by configuring your browser by following the instructions given in the links below. These links may change depending on the versions of the different browsers.</paragraph>
+		<item>Internet Explorer: https://support.microsoft.com/en-us/help/17288/windows-internet-explorer-11-use-do-not-track</item>
+		<item>Microsoft Edge: https://support.microsoft.com/en-us/search?query=cookies</item>
+		<item>Safari: https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac</item>
+		<item>Chrome: https://support.google.com/chrome/answer/114836</item>
+		<item>Firefox: https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature</item>
+		<item>Opera: https://help.opera.com/en/latest/security-and-privacy/</item>
+</segment>
+		<segment>
+			<title tagname="u" depth="4" font-size="0.81" font-weight="1.75" category="18.1;18.1">
+				c - Specific cookie used for statistical purposes
+				</title>
+			<paragraph category="18.1;18.1">For reasons related to the technology used by one of our service providers, a visit to the Reverso sites may result in the use of a specific cookie for statistical analysis and audience measurement of the Reverso sites.</paragraph>
+		<paragraph category="18.1;18.1">The Reverso sites use Google Analytics, a statistical website audience analysis tool provided by Google Inc.and Quantcast Measure, a statistical website audience analysis tool provided by Quantcast Inc. Google Analytics and Quantcast Measure use cookies to measure the number of visits to the Reverso websites, the number of page views and the activity of visitors. Google Analytics and Quantcast Measure also collect your IP address to determine the city you are connecting from.</paragraph>
+		<paragraph category="19;18.1">Google Analytics Terms and Conditions are available at https://marketingplatform.google.com/about/analytics/terms/us/</paragraph>
+		<paragraph category="19;18.1">The Quantcast Measure Terms and Conditions are available at https://www.quantcast.com/privacy/</paragraph>
+</segment>
+</segment>
+	<segment>
+		<title tagname="h2" depth="2" font-size="0.81" font-weight="1.75" category="5;5">
+			Article 9 – Amendments
+			</title>
+		<paragraph category="5,4.1;5,4.1">Reverso reserves the right, in its sole discretion, to change this Privacy Policy at any time, in whole or in part. These amendments will come into effect upon the publication of this new policy. If we make significant changes to this Policy, we will inform you of these changes through appropriate notifications.</paragraph>
+		<paragraph category="4.9,5;4.9,5">If you disagree with the revised Privacy Policy, you can delete your Account and refrain from accessing any of the Reverso sites. Otherwise, your continued access to the Reverso sites will constitute recognition and acceptance of the new Privacy Policy.</paragraph>
+</segment>
+</policy>

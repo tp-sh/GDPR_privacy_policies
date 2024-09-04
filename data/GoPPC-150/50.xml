@@ -1,0 +1,198 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<url>https://padlet.com/about/privacy</url>
+	<update_time>20/ /</update_time>
+	<download_time>2021/02/18</download_time>
+	<paragraph category="">Empty Terms of Service by Padlet padlet more_vert </paragraph>
+
+	<segment>
+		<title category="" depth="6" font-size="0.88" font-weight="1.0" tagname="div">Privacy Policy</title>
+		<paragraph category="">Last updated: Jan 10, 2020 This Privacy Policy (“Policy”) applies to all products, services, and content offered by Wallwisher, Inc. DBA Padlet (“Padlet,” “we,” “us,” “our,” and our subsidiaries, affiliates, or holding company). When handling your information, Padlet may be acting as both a Controller and a Processor as those terms are defined under the European Union’s General Data Protection Regulation (“GDPR”). more_vert </paragraph>
+	</segment>
+
+	<segment>
+		<title category="" depth="6" font-size="0.88" font-weight="1.0" tagname="div">Overview</title>
+		<paragraph category="">Padlet takes user privacy seriously. This Policy describes how we handle information collected in relation to access and use of padlet.com (the "Site"), our mobile and desktop applications (the “App”), browser extensions, blog, and related products and services (collectively, the "Service"). When you access or use the Service, you are deemed to consent to the collection, use, retention, transfer, structuring, manipulation, storage, transmission and/or disclosure (collectively, “processing”) of your information as described in this Policy and in accordance with applicable laws. This Policy does not govern what our users do on their own padlets (i.e. custom pages that people make using the Service). When you visit a padlet page created by another Padlet user, that page may collect more information than we do and may provide information to third parties that we have no relationship with. We request you use discretion when sharing personal information on padlet pages created by other users. This Policy also does not apply to websites or services you might access through links or other features (e.g., YouTube videos, Twitter buttons) on the Service. These other services have their own privacy policies, and we encourage you to review them before providing them with personal information. more_vert </paragraph>
+	</segment>
+
+	<segment>
+		<title category="8,9.2;8,9.2" depth="6" font-size="0.88" font-weight="1.0" tagname="div">Information We Track Automatically</title>
+		<paragraph category="8,9.2,11;8,9.2,11">When you use the Service, we may automatically collect information, including personal information, about you and how you use the Service. This information is necessary for the adequate performance of the contract between you and us, to enable us to comply with legal obligations and given our legitimate interest in being able to provide and improve the Service. If you use Padlet on different devices, we may associate and combine the information we collect from those different devices to help us provide a consistent service across your different devices. If we do combine any automatically-collected information with personal information, we will treat the combined information as personal information, and it will be protected as per this Policy. </paragraph>
+		<segment>
+			<title category="8,9.2.1;8,9.2.1" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Collected Using Cookies</title>
+			<paragraph category="8,9.2.1;8,9.2.1">Cookies are data that a website can store on a user’s web browser for a duration of time. Every website stores its own set of cookies and, by design, one website cannot read the cookies of another website. Padlet’s cookies are used to: <list><item>authenticate users </item><item>keep users logged in while they use the Service </item><item>track behavior on the Service (e.g. which page the user visited after the home page) </item><item>remember user preferences (e.g. timezone) </item></list>When you share links to external services on Padlet, e.g. YouTube, those services may store cookies on your browser too. We have no control over the cookies they store and what they do with them. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;8,9" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Related to Your Device</title>
+			<paragraph category="8,9.2,11;8,9.2,11">We collect device-specific information such as: <list><item>device brand, version, and type (e.g. Samsung Galaxy S9 Cellphone) </item><item>operating system and version (e.g. Android 8.0) </item><item>browser type and version (e.g. Chrome 63.0) </item><item>screen size and resolution (e.g. 375px wide retina screen) </item><item>battery and signal strength (e.g. 15% battery, 75% signal strength)</item></list> This helps us measure how the Service is performing, improve Padlet for you on your particular device, and send you push notifications if you’ve opted in to receive them. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;8,9.2" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Related to the Use of the Service</title>
+			<paragraph category="8,9.2;8,9.2">We collect information about how people use the Service. This information includes general usage information, and may include information such as the number and frequency of our visitors, which pages or features of the Service they have visited, which links on the Service they have clicked on, and the length of those visits. We may also use third party applications and services, such as Google Analytics (GA), to collect, analyze, and report this information. </paragraph>
+			<paragraph category="8,9,11;8,9,11">We may also use some of this information in aggregate form, that is, as a statistical measure related to all of our users that would not identify you personally.</paragraph>
+			<paragraph category="11;11">We use information about your use of the Service to improve and enhance your experience on the Service. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;8,9" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Related to Your Location</title>
+			<paragraph category="8,9,17;8,9,17">An IP address is an address assigned to any device connected to the Internet. Depending on where you are, your IP address can be unique to your computer, or shared among many devices. An IP address can be used to locate the device it is assigned to, and in turn the user using it. </paragraph>
+			<paragraph category="8,9,11;8,9,11">When you use the Service, we collect your IP address for: <list><item>personalization (e.g. showing Portuguese site to Brazilian users) </item><item>analytics (e.g. how many people from France used Padlet today) </item><item>detecting and preventing spam and malware (e.g. blocking the IP addresses posting bad links) </item><item>troubleshooting issues with our Service (e.g. if users in Chicago are seeing more errors than users in New York, we should investigate our Chicago servers) </item></list></paragraph>
+			<paragraph category="16.1;16.1">We do not store your IP address anywhere on our service for longer than 30 days after your visit. We use Google Analytics’ IP anonymization feature to prevent them from associating your activity with your identity. (So, GA will only see that someone in San Francisco visited page X, not someone who lives on the corner of 6th St and Mission St.) </paragraph>
+		</segment>
+		<segment>
+			<title category="19;8,9" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Related to Your Search History</title>
+			<paragraph category="8,9.2,11;8,9.2,11">We track your search queries on the Service to learn your preferences and improve your search results over time. </paragraph>
+		</segment>
+		<segment>
+			<title category="8,9.3;8,9.3" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information received from third-party sources</title>
+			<paragraph category="8,9.3,11;8,9.3,11">We may also obtain information, including personal information, from third-party sources to update or supplement the information you provided or we collected automatically. This may include aggregated anonymous information or certain personal information that may be provided to us. If we receive personal information from third-parties, we will handle it in accordance with this Policy. If we directly combine information we receive from other third-parties with personal information that we collect through the Service, we will treat the combined information as personal information and handle it in accordance with this Policy. </paragraph>
+			<paragraph category="10,17;10,17">Local law may require you authorize the third-party to share your information with us before we can acquire it. We do not control, supervise, or respond to how third parties providing your information process your personal information, and any information request regarding the disclosure of your personal information to us should be directed to such third-parties. more_vert </paragraph>
+		</segment>
+	</segment>
+
+	<segment>
+		<title category="16.1;16.1" depth="6" font-size="0.88" font-weight="1.0" tagname="div">How Long We Retain Information</title>
+		<paragraph category="16.1,16.3;16.1,16.3">Padlet will keep information for as long as necessary to provide the Service under our Terms and Conditions and other relevant agreements between you and Padlet. We will also retain information so as to fulfil any legal requirement to which we are subject to, e.g. trade, tax, and employment law. We will discard personal information when: <list><item>the data subject withdraws consent to processing, </item><item>our contractual obligations have been fully performed and cannot be performed to any further extent, or</item> <item>the personal information is obsolete. </item></list></paragraph>
+		<paragraph category="16;16">We will also not keep any information the processing of which has been objected to, or for which a request for erasure has been made, beyond the legally required timeframe to complete such a request (usually 30 days). more_vert </paragraph>
+	</segment>
+
+	<segment>
+		<title category="17.1;17.1" depth="6" font-size="0.88" font-weight="1.0" tagname="div">Whom Do We Share the Collected Information With?</title>
+		<paragraph category="17.1;17.1">First and foremost, you should know that Padlet does not sell or rent your personal information to any third-party for any purpose. We share information we collect from you under the limited circumstances set forth below: </paragraph>
+		<segment>
+			<title category="17.1;17.1" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Shared With the Public Through the Service</title>
+			<paragraph category="17.1,17.2;17.1,17.2">All registered users have a public profile (e.g. https://padlet.com/doodlebug ). The profile has the user’s profile photo, name, username, bio, and their public padlets. These profiles are accessible to and searchable by all Padlet users. These profiles may also be indexed by search engines like Google and Bing. Any content you post on a public padlet is also indexable by search engines and, as such, is open to the public. </paragraph>
+		</segment>
+		<segment>
+			<title category="17.1;17.1" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Shared With Other Padlet Users Through the Service</title>
+			<paragraph category="17.1,17.2;17.1,17.2">When you collaborate with other people, they can see your profile photo, name, and username. </paragraph>
+		</segment>
+		<segment>
+			<title category="17.1,17.2;17.1,17.2" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Shared With Service Providers in Order to Operate and Improve the Services</title>
+			<paragraph category="12,17.1,17.2;12,17.1,17.2">We work with many vendors, service providers, and other partners to help us provide the Service by performing tasks on our behalf. These service providers may be located inside or outside of the European Economic Area (“EEA”). We may need to share or provide information (including personal information) to them to help them perform these business functions. E.g.: <list><item>We use Help Scout to manage customer support requests. We share your name, your email, and your messages with them. </item><item>We use Honeybadger to notify us when a user encounters an error so we can fix it promptly. We share your device information, IP, and email with them. </item><item>We use Chargebee to manage billing. They store your name, email, and credit card information. </item></list>We use 30-40 different providers to support our operations. These providers have limited access to your personal information to perform these tasks on our behalf, and are contractually bound to protect and use it only for the purpose for which it was disclosed and consistent with this Policy. Padlet has also entered into Data Processing Agreements with parties who process data on our behalf or in connection with the use of the Padlet Service. </paragraph>
+		</segment>
+		<segment>
+			<title category="17.1;17.1" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Shared with Third Parties</title>
+			<paragraph category="17.1,17.2;17.1,17.2">We may share aggregated information (information about our users that we combine together so that it no longer identifies or references an individual user) and other de-identified or non-personally identifiable information, with users, partners, press, or other third-parties in order to, for example, demonstrate how Padlet is used, spot industry trends, or to provide marketing materials for Padlet. Any aggregated information and non-personalized information shared this way will not contain any personal information. </paragraph>
+		</segment>
+		<segment>
+			<title category="17.2;17.2" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Disclosed to Fulfil Legal Obligations</title>
+			<paragraph category="17.1,17.2;17.1,17.2">We may disclose personal information if necessary to comply with the law, such as complying with a subpoena or other legal process. We may need to disclose personal information where, in good faith, we think it is necessary to protect the rights, property, or safety of Padlet, our employees, our community, or others, or to prevent violations of our Terms of Service or other agreements. This includes, without limitation, exchanging information with other companies and organizations for fraud protection or responding to law enforcement and government requests. </paragraph>
+			<paragraph category="4.1;4.1">Where appropriate, we may notify users about the legal requests, unless (i) providing notice is prohibited by the legal process itself, by court order we receive, or by applicable law; (ii) we believe that providing notice would be futile, ineffective, create a risk of injury or bodily harm to an individual or group, or create or increase a risk of fraud upon Padlet, or its users. In instances where we comply with legal requests without notice for these reasons, we will attempt to notify that user about the request after the fact where appropriate and where we determine in good faith that we are no longer prevented from doing so. </paragraph>
+		</segment>
+		<segment>
+			<title category="17.2;17.2" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Disclosed Pursuant to Business Transfers</title>
+			<paragraph category="17.1,17.2;17.1,17.2">Over time, Padlet may grow and reorganize. We may share your personal information with affiliates such as a parent company, subsidiaries, joint venture partners or other companies that we control or that are under common control with us, in which case we will require those companies to agree to use your personal information in a way that is consistent with this Policy. </paragraph>
+			<paragraph category="4.1,4.4,17.1,17.2;4.1,4.4,17.1,17.2">In the event that all or a portion of Padlet or its assets are acquired by or merged with a third-party, personal information that we have collected from users would be one of the assets transferred to or acquired by that third-party. This Policy will continue to apply to your information, and any acquirer would only be able to handle your personal information as per this Policy (unless you give consent to a new policy). We will provide you with notice of an acquisition within 30 days following the completion of such a transaction, by posting on our homepage, or by emailing you on your email address on file. If you do not consent to the use of your personal information by such a successor company, you may request its deletion from the company. </paragraph>
+			<paragraph category="12,17;12,17">In the unlikely event that Padlet goes out of business, or files for bankruptcy, we will protect your personal information, and will not sell it to any third-party. </paragraph>
+		</segment>
+		<segment>
+			<title category="17.2;17.2" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Shared to Enforce Content Policy</title>
+			<paragraph category="17.1,17.2;17.1,17.2">To make sure that all content on Padlet conforms to our content policy, we run all user content, no matter the privacy, through a series of automated checks. If any content is flagged to be in violation of our content policy, an authorized personnel at Padlet may look at it to determine the appropriate action to be taken against that content. This helps us keep the Service safe and appropriate for all users. </paragraph>
+		</segment>
+		<segment>
+			<title category="17.2;17.2" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information You Share with Third Party Services</title>
+			<paragraph category="6,17.1,17.2;6,17.1,17.2">You may access Third Party Services through the Service, for example by watching a YouTube video on a padlet. You may also choose to share information that you provide to us with Third Party Services (e.g., by posting your padlet to Twitter or Facebook). These services have their own privacy policies which we don’t govern. We encourage you to review them before providing them with personal information. </paragraph>
+		</segment>
+		<segment>
+			<title category="17.2;17.2" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Shared With Your Consent or at Your Request</title>
+			<paragraph category="4.1,17;4.1,17">Other than the cases above, we will share your information only if we have your consent. more_vert </paragraph>
+		</segment>
+	</segment>
+
+	<segment>
+		<title category="4.9;4.9" depth="6" font-size="0.88" font-weight="1.0" tagname="div">Deleting Your Account</title>
+		<paragraph category="4.9,16.3;4.9,16.3">You may delete your Account at any time. You can do so from your Account Settings page on the Site or the App or by emailing us at hello@padlet.com . If you email us, we may require sufficient identifying information to be able to determine that you own the account. When you delete your account, we delete: <list><item>your profile information and any other content you provide in your profile (such as your name, username, password, email address, and profile photos) </item><item>all the padlets you have created and all the content posted on them, whether or not that content was created by you </item></list></paragraph>
+		<paragraph category="4.9,10,17;4.9,10,17">We do not delete the user content you posted on padlets created by other users. It will continue to be on the platform, albeit anonymized (unless you shared personal information in the user content itself). Padlets are shared documents and the creator of the padlet is ultimately the owner of the content on it. It jeopardizes the contract between you and the padlet creator if you are allowed to delete content. If you shared a Google Doc with someone and they edited it, you wouldn’t want the edits to disappear if they deleted their account the following day. </paragraph>
+		<paragraph category="4.4;4.4">We also do not delete non-identifiable aggregate information about your usage of the service.</paragraph>
+		<paragraph category="4.3,4.4,12,16.1;4.3,4.3,12,16.1"> We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, even after you update or delete personal information you have provided us from our Service, your personal information may be retained in our backup files, archives, and server logs for up to 30 days, unless legal obligations require us to retain them for longer periods of time.</paragraph>
+		<paragraph category="4.9;4.9"> Please be aware that deleting your Account may not fully remove all content you have published on our Service from search engine indexes (e.g. Google) and network caches. We cannot control the behavior of these entities. more_vert </paragraph>
+	</segment>
+
+	<segment>
+		<title category="4;4" depth="6" font-size="0.88" font-weight="1.0" tagname="div">Your Rights</title>
+		<paragraph category="4.3,4.4,4.9;4.3,4.4,4.9">You have the choice to request correction and/or deletion of personal information we process about you as well as to request that we cease communicating with you where we do so on the basis of your consent or previous customer relationship with you. If you are a registered user, you can access and update most information associated with your Account by logging in to the Service and checking your Account Settings page. </paragraph>
+		<segment>
+			<title category="4;4" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Your GDPR Rights</title>
+			<paragraph category="4.4,4.5,4.6,4.7,4.9;4.4,4.5,4.6,4.7,4.9">Customers based in the European Union or the European Economic Area shall have the following data subject rights in line with the European Union General Data Protection Regulation: <list><item>Right to withdraw consent for processing of personal information at any time </item><item>Right to be forgotten or to require deletion or blocking personal data which is incorrect or which has been processed illegally</item> <item>Right to restrict or object to certain types of processing of personal information </item><item>Right to demand the rectification of erroneous or incomplete personal information </item><item>Right to obtain a copy of personal information in a structured machine-readable format and, on request, to transmit personal data to other data controllers</item></list> </paragraph>
+		</segment>
+		<segment>
+			<title category="18.2;18.2" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Your California Privacy Rights</title>
+			<paragraph category="4.9,6;4.9,6">Under California Civil Code sections 1798.83-1798.84, California residents have the right to request from us a list of all third parties to which we have disclosed personal information during the previous year for direct marketing purposes. Alternatively, the law stipulates that if a business entity maintains a privacy policy that provide users with an “opt-out” mechanism for use of personal information by third parties for their marketing purposes, the business entity may as an alternative provide you with information on how you may opt-out from the use of information by third parties for direct marketing purposes. We have not shared your personal information with any third party for direct marketing purposes. Should you need this in writing, you can contact us via the information provided later in this Policy. more_vert </paragraph>
+		</segment>
+	</segment>
+
+	<segment>
+		<title category="19;19" depth="6" font-size="0.88" font-weight="1.0" tagname="div">Privacy Shield</title>
+		<paragraph category="12,14;12,14">Padlet complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Padlet has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/ . No other entities are covered by our certification. We rely on our Privacy Shield certifications to transfer personal data that we receive from the EU and Switzerland to Padlet in the U.S. and we process such personal data in accordance with the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability (“ Privacy Shield Principles ”), as described below. </paragraph>
+		<segment>
+			<title category="19;6" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Notice And Choice.</title>
+			<paragraph category="6,8,9,11;6,8,9,11">This Privacy Policy provides notice of the personal data collected, the types of personal data transferred to third parties, the purposes for the transfers, and the choices that you have with respect to such personal data. It also provides information about other Privacy Shield Principles that are set forth below. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;14" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Accountability for Onward Transfers.</title>
+			<paragraph category="17;17">We may be accountable for the personal data that we transfer to third- party service providers (as described in the “Whom Do We Share the Collected Information With?” section above). If such service providers process personal data in a manner inconsistent with the Privacy Shield Principles, we are responsible for the harm caused. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;12" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Security.</title>
+			<paragraph category="12;12">We maintain security measures to protect personal data as described in the “How We Secure Information” section of this Privacy Policy. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;11,16" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Data Integrity and Purpose Limitation.</title>
+			<paragraph category="11,16.1;11,16.1">We take reasonable steps to ensure that personal data is reliable for its intended use, and that it is accurate, complete and current for as long as we retain it. Our data retention practices are described in the “How Long We Retain Information” section of this Privacy Policy. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;4.2" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Access.</title>
+			<paragraph category="4.2,4.3,4.4;4.2,4.3,4.4">EU users have certain rights to access, correct, amend, or delete personal data where it is inaccurate, or has been processed in violation of the Privacy Shield Principles. Please see the “Your GDPR Rights” section above for more information on the rights of users in the EU (and, to the extent applicable, users in Switzerland). </paragraph>
+		</segment>
+		<segment>
+			<title category="19;19" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Recourse, Enforcement, Liability.</title>
+			<paragraph category="7;7">In compliance with the Privacy Shield Principles, Padlet commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Padlet at hello@padlet.com . Further contact information can be found at the end of this document. Padlet has further committed to refer unresolved Privacy Shield complaints to JAMS (Judicial Arbitration and Mediation Services, Inc), an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit https://www.jamsadr.com/ for more information or to file a complaint. The services of JAMS are provided at no cost to you. EU users may have the option to select binding arbitration under the Privacy Shield Panel for the resolution of your complaint under certain circumstances. For further information, please see the Privacy Shield website. To learn more about the Privacy Shield Framework at https://www.privacyshield.gov . Padlet is subject to investigatory and enforcement powers of the U.S. Federal Trade Commission with respect to personal data. more_vert </paragraph>
+		</segment>
+	</segment>
+
+	<segment>
+		<title category="12;12" depth="6" font-size="0.88" font-weight="1.0" tagname="div">How We Secure Information</title>
+		<paragraph category="12;12">The security of your personal information is important to us. We maintain administrative, technical and physical safeguards to protect against loss, theft, unauthorized use, disclosure, or retrieval of personal information. In particular: <list><item>We perform application security testing; penetration testing; conduct risk assessments; and monitor compliance with security policies </item><item>We periodically review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems </item><item>We continually develop and implement features to keep your personal information safe </item><item>When you enter any information anywhere on the Service, we encrypt the transmission of that </item><item>information using secure socket layer technology (SSL/TLS) by default </item><item>We ensure passwords are stored and transferred securely using encryption and salted hashing </item><item>The Service is hosted on servers at a third-party facility, with whom we have a contract providing for enhanced security measures. For example, personal information is stored on a server equipped with industry standard firewalls. In addition, the hosting facility provides a 24x7 security system, video surveillance, intrusion detection systems and locked cage areas </item><item>We operate a ‘bug bounty’ security program to encourage an active community of third-party security researchers to report any security bugs to us </item><item>We restrict access to personal information to authorized Padlet employees, agents or independent contractors who need to know that information in order to process it for us, and who are subject to strict confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations </item><item>We require subprocessors to comply with security requirements via separate data processing agreements </item></list></paragraph>
+		<paragraph category="12;12">Although we make concerted good faith efforts to maintain the security of personal information, and we work hard to ensure the integrity and security of our systems, no practices are 100% immune, and we can’t guarantee the security of information. Outages, attacks, human error, system failure, unauthorized use or other factors may compromise the security of user information at any time. </paragraph>
+		<paragraph category="4.1,12;4.1,12">If we learn of a security breach, we will attempt to notify you electronically (subject to any applicable laws) so that you can take appropriate protective steps; for example, we may post a notice on our Site or elsewhere on the Service, and email to your email address on file. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. more_vert </paragraph>
+	</segment>
+
+	<segment>
+		<title category="5;5" depth="6" font-size="0.88" font-weight="1.0" tagname="div">Changes to This Privacy Policy</title>
+		<paragraph category="4.1,5;4.1,5">We may amend this Privacy Policy from time to time. In case of major changes, we will notify users by email addresses provided to us. If you don’t agree with any changes to the Privacy Policy, you may terminate your account. By continuing to use the Service after the revised Privacy Policy has become effective, you acknowledge that you accept and agree to the current version of the Privacy Policy. more_vert </paragraph>
+	</segment>
+
+	<segment>
+		<title category="8,9.1;8,9.1" depth="6" font-size="0.88" font-weight="1.0" tagname="div">Information You Give Us</title>
+		<paragraph category="8,9.1,10;8,9.1,10">We may ask for and collect the following personal information about you when you use the Service. This information is necessary for the adequate performance of the contract between you and us, for our legitimate interest in being able to provide and improve the Service, and to allow us to comply with our legal obligations. Without it, we may not be able to provide the Service as intended. </paragraph>
+		<segment>
+			<title category="8;8,9.1" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Account and Profile Information</title>
+			<paragraph category="8,9.1;8,9.1">When you create an account on a Padlet Service (an "Account"), we require you to provide us information such as your username , password , and email address . This information is used for confirming your identity and providing access to the Service. You can also provide us your photo , your name , and a short bio , so other users can better identify you when you collaborate with them. It also allows us to personalize your experience. As a user with a Padlet account, you will have a publicly accessible profile where your photo, name, username, and bio will be visible. We do not expose your email address to the public. </paragraph>
+		</segment>
+		<segment>
+			<title category="8;8,9.1" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Contact Information</title>
+			<paragraph category="8,9.1;8,9.1">When you contact us via our chat and email channels, you may provide us, in addition to the content of your message , your name and email address . If you call our support hotline, you provide us your phone number and any information you choose to provide us in relation to your inquiry. When you contact us for support or feedback, your information is used solely to respond to your request. We do not use your information for marketing. </paragraph>
+		</segment>
+		<segment>
+			<title category="8;8,9.1" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information About Your Accounts on Third-Party Services</title>
+			<paragraph category="8,9.1,11;8,9.1,11">Padlet provides the ability to log in to the Service using your Google, Facebook, or Microsoft account. If you authenticate yourself using any of these services, you grant us access to your email address , and, if available, your name , photo , and username associated with them. We do not receive your password. </paragraph>
+		</segment>
+		<segment>
+			<title category="8;8,9.1" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Information Posted on Padlets (User content)</title>
+			<paragraph category="6,8,9,17;8,9,17">Users can create padlets where they and other users can contribute, i.e., post content. This content (“user content”) may include text, images, videos, audio, documents, files, links from the web, drawings, and maps. The administrators of a padlet (the creator and other users appointed as such by the creator) can choose its privacy — private, password protected, secret, public. The privacy of your user content is dependent on the privacy of the padlet. Private : Only registered Padlet users invited to the padlet can view content. Password protected : People who have the password to the padlet can also view content. Secret : People who have the link to the padlet can view content. Public : Your content is public on the internet. If you are contributing to a padlet, we advise you to exercise caution when sharing personal information regardless of the privacy level. The administrators of a padlet can change its privacy at any time; a padlet you thought was private today may become totally public tomorrow. Secret padlets have another catch. Since a link is just a combination of characters, it is theoretically possible for someone to access a secret padlet by guessing its link. Public padlets give us, Padlet, the right to view, share, and promote the content on them. </paragraph>
+		</segment>
+		<segment>
+			<title category="8;8,9.1" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Precise Location Information</title>
+			<paragraph category="6,8,9;6,8,9">We let users easily add maps to padlets. When adding a map, users can choose to add a map of their current location. Should a user choose to do so, we may request a one-time access to the user’s precise location (correct to 10 meters). The location is used only to generate the map that one time. We do not store or track your device location on an ongoing basis. </paragraph>
+		</segment>
+		<segment>
+			<title category="8;8,9.1" depth="8" font-size="0.88" font-weight="1.75" tagname="strong">Payment Information</title>
+			<paragraph category="8,9,16;8,9,16">When you use a service that requires payment, we collect your name , email , and credit card information for the purpose of billing and charging you. Your payment information is stored in a PCI compliant way. more_vert </paragraph>
+		</segment>
+	</segment>
+
+	<segment>
+		<title category="1.2;1.2" depth="6" font-size="0.88" font-weight="1.0" tagname="div">Contact Us</title>
+		<paragraph category="1.2,7;1.2,7">If you have any questions, concerns, or complaints regarding this Policy or our data processing activities, please contact by email at hello@padlet.com or write to us at: Wallwisher, Inc. 981 Mission St San Francisco, CA 94103 more_vert </paragraph>
+	</segment>
+</policy>

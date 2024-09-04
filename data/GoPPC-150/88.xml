@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="">
+			Welcome to Patreon!
+			</title>
+		<paragraph category="">Patreon is a platform where patrons can support and engage with creators. This  updated Privacy Policy applies to patrons, creators, and all users of our platform, and is part of our Terms of Use.</paragraph>
+		<paragraph category="">Patreon is a global company. By using our platform, you agree that your personal information that you provide directly to us, or that we collect through your use of the platform, may be transferred to and stored in the United States and handled as described in this Policy.</paragraph>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="8,9.1;8,9.1">
+			Information You Provide Through Your Account
+			</title>
+		<paragraph category="8,9.1;8,9.1">This is information that you provide to us through text fields, such as your name, payment information and benefits. The information we collect differs depending on if you make an account, become a patron, or become a creator.</paragraph>
+		<item>First and Last Name</item>
+		<item>Email Address</item>
+		<item>Username</item>
+		<item>Password</item>
+		<item>State and Country of Residence</item>
+		<paragraph category="8,9.1,4;8,9.1,4">You may also sign up using a Facebook or Google account. We will ask permission to access basic information from your Facebook or Google account, such as your name, email, and profile picture. You can choose to stop sharing that information with us at any time by going to Facebook or Google to remove Patreon’s access to that account and your ability to log in.</paragraph>
+		<paragraph category="8,9.1;8,9.1">You also have the option to add more information to your public profile, such as a location, social media links, and an about section, which we store along with any comments or messages you submit on Patreon.</paragraph>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="19;19">
+			Patrons
+			</title>
+		<paragraph category="8,9.1,9.3;8,9.1,9.3">A patron is someone who joins Patreon’s membership platform to support a creator’s membership content. As a patron you must provide your payment information to our payment processors. You can see the privacy policy for these payment processors on the PayPal, Stripe, and Checkout sites. At this time, Patreon does not receive your full card number. Payment processors provide us with a token that represents your account, your card’s expiration date, card type and the last four digits of your card number. If you are required to provide your name and email address to the payment processor, then they also provide us with that information.</paragraph>
+		<paragraph category="8,9.2,9.1,11;8,9.2,9.1,11">We collect and process information about the creators you support, the level at which you support them, what benefits you receive and how often you support them. As a patron, if you select a benefit tier with a physical benefit, then you will provide your shipping information, including phone number, so the creator or Patreon can ship you the benefit, or provide updates related to the shipment.</paragraph>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="19;19">
+			Creators
+			</title>
+		<paragraph category="8,9.1;8,9.1">A creator is someone who creates and provides content for their patrons through Patreon’s membership platform. To become a creator, you must create a page that describes what you are creating and any benefits you are offering. To receive payouts you have to create an account with one of our payment partners: PayPal, Stripe, or Payoneer. We may also require your bank account information to process payouts. You must also provide us with additional information for tax purposes. Depending on your location you may have to fill out a form with some combination of your:</paragraph>
+		<item>First and Last Name</item>
+		<item>Address</item>
+		<item>Social Security Number or Employer Identification Number</item>
+		<item>Country of Citizenship</item>
+		<item>Foreign Tax Identification Number</item>
+		<item>Date of Birth</item>
+		<item>Your Nonprofit Registration Number,  if you are a nonprofit business</item>
+		<item>Bank Account Information for Payouts</item>
+		<item>Phone Number</item>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="8,9;8,9">Additional Information We Collect</title>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="8,9.2;8,9.2">
+				Automatically Collected Information
+				</title>
+			<paragraph category="8,9.2;8,9.2">We collect information automatically as you navigate the site or through our third party analytics providers. We may store usage information such as the type of device you use to access Patreon, your operating system, browser type, IP address, and device ID, the pages you visit or request, links clicked, referring sites, user interactions and your search terms. We also derive your location from your self-disclosed country, your IP address, and from your payment card.</paragraph>
+	</segment>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="19;8,9">
+				Forums and Messaging
+				</title>
+			<paragraph category="8,9.2,9.3,11;8,9.2,9.3,11">When you participate in a forum, we collect the comments you make as well as record how many times users visit, the activity on the site, where users have replied, with whom they’ve communicated, private messages, IP address, and from which location the user was last logged in. We use Discourse and Discord to help us host and operate our Forums. This means that they may access your information to help provide the Forum. You can find their privacy policies hyperlinked above.</paragraph>
+	</segment>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="19;8,9">
+				User Surveys
+				</title>
+			<paragraph category="8,9.1,4,11;8,9.1,4,11">From time to time, we may solicit your participation in user surveys. We may ask you demographic information, including information related to your gender, ethnicity, race, age, sexual orientation, earnings, and accessibility to better understand and serve our user base which you may elect to share or not. We collect such information to ensure we provide fair and equal access to our services, and to showcase creators to patrons for greater discoverability. To the extent that you participate, we will store your survey responses.</paragraph>
+	</segment>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="19;8,9">
+				Event Information
+				</title>
+			<paragraph category="8,9.1,11;8,9.1,11">At in-person and online events, we may request information from you. This is done to better tailor the event experience to those in attendance. This information may include your name, email address, payment details, mobile phone number and QR code, demographic information, social media and other online accounts you maintain, details around the types of works you create, and survey or feedback responses.</paragraph>
+	</segment>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="19;8,9">
+				Blogs
+				</title>
+			<paragraph category="8,9.2,11;8,9.2,11">We may collect and store your email address, your comments, and your profile information from our blog sites to better understand your interests and improve our services to you.</paragraph>
+	</segment>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="8,9.3;8,9.3">Information Collected by Third Parties</title>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="19;8,9.3">
+				Cookies
+				</title>
+			<paragraph category="8,9.2,9.3,11;8,9.2,9.3,11">We use Cookies on our website that collect information to allow us and third parties to understand your use of Patreon. Please see our cookie policy for more information on our use of cookies on Patreon.</paragraph>
+	</segment>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="19;8,9.3">
+				Social Media Features and Widgets
+				</title>
+			<paragraph category="8,9.3,9.1,11;8,9.3,9.1,11">We use social media features, including the Facebook Like button and widgets, such as the Share button or similar interactive mini-programs that run on Patreon. If you provide your social media information to us, we may use it to interact with you on these social networks. These features may collect your IP address and other personal data including which page you are visiting on our site and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on Patreon. Your interactions with these Features are governed by the privacy policy of the company providing it. For more information on the technologies used by these social networks, please refer to their specific privacy notices. We have provided links to the most used social networks below for easy reference:</paragraph>
+		<item>Facebook: https://www.facebook.com/about/privacy/</item>
+		<item>Twitter: https://twitter.com/privacy</item>
+		<item>YouTube: https://policies.google.com/privacy</item>
+		<item>Instagram: https://help.instagram.com/155833707900388</item>
+		<item>Twitch: https://www.twitch.tv/p/legal/privacy-notice/</item>
+	</segment>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="11;11">
+			How We Use Your Information
+			</title>
+		<paragraph category="11;11">We process your information to:</paragraph>
+		<item>verify your identity to comply with US federal, state, and international laws</item>
+		<item>allow you to sign in to your account</item>
+		<item>allow you to support a creator’s membership program on Patreon</item>
+		<item>process membership payments and payouts</item>
+		<item>send merchandise to your shipping address</item>
+		<item>send you emails relevant to your usage, as controlled by your email preferences</item>
+		<item>reply to your questions</item>
+		<item>provide to you existing and enhanced services related to your Patreon account</item>
+		<item>promote your Patreon account for greater discoverability</item>
+		<item>spotlight and celebrate creators</item>
+		<item>market Patreon products and services to you or to audiences similar to you based on your networks  and common factors that others have with you, unless you opt out, as controlled by your email preferences</item>
+		<item>understand how you use the service, and create better tools for creators to serve patrons</item>
+		<item>conduct research and development to improve Patreon and develop future products</item>
+		<item>prevent fraud and abuse on Patreon</item>
+		<item>provide you with reasonable accommodation, if you notify us of a disability</item>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="17.1;17.1">
+			Information We Share with Creators
+	</title>
+		<paragraph category="17.1;17.1">By becoming a patron of a creator, you agree to have the following information shared with that creator:</paragraph>
+		<item>your name and email address, and other profile information you’ve provided</item>
+		<item>any messages you send creators through Patreon</item>
+		<item>your physical address, city, state, and country</item>
+		<item>your phone number, when you have signed up to support a creator who engages with you via text messages, when you are receiving a benefit that requires shipping, or when you have signed up for event notifications via text</item>
+		<item>all information about your pledge, including amount and start date, but not your full payment card information</item>
+		<item>some aggregated and anonymized data about how you use Patreon that cannot be linked back to you or to any individual user</item>
+		<paragraph category="19;17">Creators agree to the terms of our Data Processing Agreement (DPA) when they start their membership program. This DPA is called the Creator Privacy Promise. The Creator Privacy Promise is a creator’s promise to protect the privacy of their patrons during and beyond their Patreon relationship. You can view a copy of the Creator Privacy Promise here.</paragraph>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="17.1;17.1">
+			Information We Share with Third Parties
+			</title>
+		<paragraph category="17.1,17.2;17.1,17.2">We never sell your information to third parties. We will only share data with third parties, other than with creators, under the following circumstances:</paragraph>
+		<item>with your consent, to creators’ service providers, to deliver benefits, such as to ship packages to you. You should read these service providers’ privacy policies to see how they use and share your data.</item>
+		<item>with our service providers, who are companies that are contractually engaged with us to provide us with services, such as order fulfillment, email management, analyzing data trends, credit card processing, multi currency settlement solutions,  increasing our brand awareness and user engagement with marketing initiatives, and fraud detection and prevention. These companies may have access to your data to perform their services, and are obligated by contract to safeguard any of your data they receive from us to the same extent that Patreon protects it.</item>
+		<item>to protect the security or integrity of Patreon, and to protect the rights, property, or safety of Patreon, its employees, users, or others, if we believe that disclosure is reasonably necessary to comply with a law, regulation, or other valid legal process (e.g., subpoenas or warrants served on Patreon). If we are going to release your data, we will do our best to provide you promptly with notice by email, unless we are prohibited by law from doing so.</item>
+		<item>in connection with the sale, merger, bankruptcy, sale of assets or reorganization of our company. We will notify you if a different company receives your data. The promises in this privacy policy apply to any data transferred to a new entity.</item>
+		<item>with third party apps used by creators to help run their membership programs. There is a list of apps in our apps directory. While we try to keep this list up to date, we often experiment with new third party app providers, and this list may not be exhaustive.</item>
+		<item>with partners in our Partners Directory, who may have access to your data to perform their services, and who are obligated by contract to safeguard any of your data they receive from us to the same extent that Patreon protects it.</item>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="8,9.3;8,9.3">
+			Information Patreon Collects from Third Party Apps
+			</title>
+		<paragraph category="8,9.3;8,9.3">When you create a Patreon account, you can elect to connect your social account(s) (e.g. Twitter, Facebook, Google, YouTube, Twitch) with Patreon, and we will collect and store some social information from those platforms, such as:</paragraph>
+		<item>follower or subscriber counts</item>
+		<item>post or upload counts</item>
+		<item>view, like, and comment counts</item>
+		<paragraph category="8,9.3,11;8,9.3,11">This social information allows us to provide you a better Patreon experience, and also helps guide future development of Patreon. We use this data to:</paragraph>
+		<item>help creators and patrons find each other on Patreon</item>
+		<item>assess how to make creators more successful on Patreon</item>
+		<item>analyze and describe our business</item>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="17.1;17.1">
+			Information We Share with the Public
+			</title>
+		<paragraph category="17.1,17.2;17.1,17.2">The following information is publicly accessible:</paragraph>
+		<item>your profile, and your social media links and location if you add that information</item>
+		<item>by default the creators you support are publicly displayed. If you flag your account as private, we will not display the creators you support</item>
+		<item>any posts, likes, or comments you make</item>
+		<item>your aggregated or anonymized usage data in blog posts, press releases, or in other ways to share information about Patreon’s usage. Aggregated or anonymized data cannot be linked back to any individual Patreon user</item>
+		<item>monthly pledge value and goals that creators choose to make public</item>
+		<item>number of patrons</item>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="4;4">Your Preferences and Rights over Data</title>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="4,6;4,6">
+				Choosing Your Preferences
+				</title>
+			<paragraph category="6,4.3;6,4.3">The Settings link is located by clicking on your avatar or profile at the top right hand of your screen, after your log into your Patreon account. Settings lets you see your account preferences. You can see and adjust your settings by viewing your preferences and, if you wish, by changing your selections.</paragraph>
+	</segment>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="19;4">
+				Marketing Activities
+				</title>
+			<paragraph category="4.2,4.9;4.2,4.9">By agreeing to our terms of use, you expressly agree that Patreon may:</paragraph>
+		<item>provide you with information about your service, service enhancements, or new Patreon products, while you are on our web site or using our apps.</item>
+		<item>send you messages regarding your existing service, or enhancements related to your existing service, when you are off our platform, via email, or via text, if you have signed up for a service or event notification that uses text messages.</item>
+		<item>send you messages related to services we provide which are separate from your existing service via email, from which you may opt out.</item>
+		<item>market Patreon to you and audiences similar to you based on your networks and common factors  that others have with you, unless you opt out.</item>
+		<item>send you marketing emails or texts if you don’t have a Patreon account but have consented to receiving such messages, from which you may opt out.</item>
+		<item>ask for demographic information to spotlight and celebrate creators.</item>
+		<item>promote your account for greater discoverability.</item>
+		<item>ship physical items to you via mail as part of a promotional activity.</item>
+	</segment>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="4.9;4.9">
+				Opting out of Marketing
+				</title>
+			<paragraph category="4.6,4.9;4.6,4.9">You may object to the use of your data for marketing purposes at any time, free of charge, when we collect your personal information and in every marketing communication. You may also object to the use of your data for marketing upon creation of your account or anytime thereafter, by opting out here.</paragraph>
+		<paragraph category="4.9;4.9">Opting out will stop marketing emails. Please allow up to 30 days for your opt-out request to be processed.  If you have an account with Patreon, you will continue to receive service-related emails, and texts, if you have opted into receiving texts. You will also continue to receive service-related shipments of benefits to the designated delivery address.</paragraph>
+		<paragraph category="4.1;4.1">We will never sell your information to third parties for marketing purposes without your prior consent.</paragraph>
+	</segment>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="4.2,4.3,4.7;4.2,4.3,4.7">
+				Accessing, Updating or Exporting the Information in Your Account
+				</title>
+			<paragraph category="4.2,4.3,4.4,4.7;4.2,4.3,4.4,4.7">You can access and update certain information associated with your account on the settings pages. Additionally, you can delete your account, or export your personal information, by going to privacy.patreon.com.</paragraph>
+	</segment>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="4.4;4.4">
+				Deleting Your Account
+				</title>
+			<paragraph category="4.4,4.7;4.4,4.7">You may self-initiate a deletion of your account directly at privacy.patreon.com, clicking on the Take Control button, and submitting an “Erase” request. Please be aware that this is a final act and cannot be reversed. If you would like to transport your data, please be sure to download your data first, before you delete your account.</paragraph>
+	</segment>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="4.9;4.9">
+				Turning off Email Notifications
+				</title>
+			<paragraph category="4.3,4.9;4.3,4.9">You can change your email notifications in your email settings. While this allows you to stop many notification emails, we will still send some critical service emails.</paragraph>
+	</segment>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="4.9;4.9">
+				Turning off Mobile Notifications
+				</title>
+			<paragraph category="4.1,4.9;4.1,4.9">If you download the Patreon App you may also receive notifications on your mobile device. These can be disabled in the App settings.</paragraph>
+	</segment>
+		<segment>
+			<title tagname="h3" depth="4" font-size="1.02" font-weight="1.5" category="4.1;4.1">
+				Verification of Requests
+				</title>
+			<paragraph category="4.1;4.1">Users maintain password protected accounts with Patreon. If you submit a request to exercise your privacy rights, you will be asked to verify the request by logging into your Patreon account.</paragraph>
+		<paragraph category="12;12,4.1">If we are unable to verify your request, then for your protection, we reserve the right to deny the request.</paragraph>
+	</segment>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="10;10">
+			Compliance with EU Privacy Laws and Privacy Shield
+			</title>
+		<paragraph category="1,10.3,10.1,10.5,4.9;1,10.3,10.1,10.5,4.9">Patreon is an international company that complies with the General Data Protection Regulation (GDPR). We act as Data Controllers, as defined under the GDPR, and process personal data based on our legitimate interests, and for contractual necessity in providing you the Service as described in “How We Use Your Information.” We  also process and share personal information based on notification and users’ consent, which our users may revoke at any time.</paragraph>
+		<paragraph category="10,14;10,14">Patreon relies on various legal bases to lawfully execute international transfers of personal information, including the European Union Commission approved standard contract clauses.</paragraph>
+		<paragraph category="14;14">Patreon complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Patreon has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.</paragraph>
+		<paragraph category="19;10">Under limited circumstances, you may invoke binding arbitration before the Privacy Shield Panel. More Information about this arbitration process can be found at https://www.privacyshield.gov/article?id=G-Arbitration-Procedures.</paragraph>
+		<paragraph category="14;14">Patreon is responsible for the processing of personal information it receives or subsequently transfers to a third party acting as an agent on Patreon’s behalf. Patreon complies with the Privacy Shield Principles for all onward transfers of personal information, including the onward transfer liability provisions.</paragraph>
+		<paragraph category="14.2;14.2">With respect to personal information received or transferred pursuant to the Privacy Shield Frameworks, Patreon is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.</paragraph>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="18.2;18.2">
+			Compliance with California Privacy Laws
+			</title>
+		<paragraph category="18.2;18.2">Patreon’s headquarters are located in California, USA, and we are subject to the California Consumer Privacy Act.</paragraph>
+		<paragraph category="18.2;18.2">Effective January 1, 2020, the California Consumer Privacy Act (CCPA) allows California residents to request access to the specific pieces and categories of personal information that the business has collected about the consumer, the categories of sources for that information, the business or commercial purposes for collecting the information, and the categories of third parties with which the information was shared.</paragraph>
+		<paragraph category="18.2;18.2">Patreon provides California residents, and all users, the right to view, access, or transport their information at the Patreon Privacy Center. All users also have the right to submit a request for deletion of information by going to the Patreon Privacy Center, clicking on the “Take Control” button, and requesting “Erase.”</paragraph>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="4;4">
+			Exercising Your Data Rights
+			</title>
+		<paragraph category="4.2,4.3,4.4,4.5,4.6,4.7,4.9;4.2,4.3,4.4,4.5,4.6,4.7,4.9">Users in certain locations may have certain rights under the General Data Protection Regulation (GDPR) or under the California Consumer Privacy Act (CCPA) regarding data that Patreon controls as a Data Controller as defined under the GDPR, including:</paragraph>
+		<item>the right of access to their personal data,</item>
+		<item>the right to correct or rectify any inaccurate personal data,</item>
+		<item>the right to restrict or oppose the processing of personal data,</item>
+		<item>the right to erase or delete their personal data,</item>
+		<item>the right to personal data portability, and</item>
+		<item>the right to opt-out of the sale of personal information.</item>
+		<paragraph category="4.2,4.3,4.4,4.7,4.9,1.2;4.2,4.3,4.4,4.7,4.9,1.2">You can exercise rights over your data on Patreon in the following ways:</paragraph>
+		<item>accessing, reviewing, modifying, and updating your data by logging into your account at Patreon and going to your account settings.</item>
+		<item>viewing our privacy policy or viewing our data practices by going online to our Patreon Privacy Center, where the Data Practices tab describes how we use your data, and the Policies tab shows you our privacy policy.</item>
+		<item>downloading your data to port it, or deleting your data altogether, by clicking on the “Take Control” button at the Patreon Privacy Center.</item>
+		<item>deleting a previously-disabled account by emailing Patreon at privacy@patreon.com.</item>
+		<item>opting out of marketing by entering your email address at this opt out link.</item>
+		<item>going to FAQ support online for data-related issues, or calling our U.S. toll-free phone number at 1 (833) 972-8766.</item>
+		<paragraph category="1.2;1.2">If you are unable to log into your account, and are unable to recover your account with a password reset in order to lodge your privacy request, then you may reach out to privacy@patreon.com. We reserve the right to decline you access to or recovery of your account, at our discretion, to prevent an unauthorized takeover of your account.</paragraph>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="19;19">
+			Account Holders with Disabilities
+			</title>
+		<paragraph category="1.2;1.2">Patreon is committed to accessibility for its account holders with disabilities. If you are having difficulty accessing your account, please email us at accessibility@patreon.com for assistance.</paragraph>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="3.2;3.2">
+			Contacting our Data Protection Officers
+			</title>
+		<paragraph category="3.2;3.2">If you have privacy concerns or questions, you can contact our European or US Data Protection Officers (DPOs) via email at privacy@patreon.com.</paragraph>
+		<paragraph category="3.2;3.2">You may also mail a letter to the DPO with your questions.</paragraph>
+		<item>For U.S. users, mail to “Patreon Privacy Team, 600 Townsend Street, Suite 500, San Francisco, CA 94103”</item>
+		<item>For E.U. users, mail to “Patreon Privacy Team, Patreon Ireland Limited, Suite 3, One Earlsfort Center, Lower Hatch Street, Dublin 2, Ireland”</item>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="19;19">
+			Establishing an Authorized Agent
+			</title>
+		<paragraph category="1.2;1.2">You may designate an authorized agent to make a request on your behalf. In order to designate an authorized agent to make a request on your behalf, you must provide a valid power of attorney, the requester’s valid government ID, and the authorized agent’s valid government ID. Please contact privacy@patreon.com with your request. To protect your information from account takeover, we may decline access to or recovery of your account at our discretion.</paragraph>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="19;19">
+			Prohibition against Discrimination
+			</title>
+		<paragraph category="19;19">We do not discriminate against users who exercise their privacy rights.</paragraph>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="16.1;16.1">
+			Our Data Retention Period
+			</title>
+		<paragraph category="16.1,16.3;16.1,16.3">We retain your account information for ten years after your account is last active, unless you delete, or you request us to delete, your account. We may continue to retain some information, even after you delete your account if we are required to do so in order to comply with various laws.</paragraph>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="12;12">
+			Security
+			</title>
+		<paragraph category="12;12">The security of your personal information is important to us and we follow industry standards to protect it. You can learn more on our Security Policy page.</paragraph>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="15;15">
+			Children
+			</title>
+		<paragraph category="15;15">Patreon is not directed at children under the age of 13, and children may not create an account or otherwise use Patreon.</paragraph>
+	</segment>
+	<segment>
+		<title tagname="h1" depth="4" font-size="1.31" font-weight="1.5" category="5;5">
+			Changes
+			</title>
+		<paragraph category="5,4.1,1.2;5,4.1,1.2">We may sometimes make changes to this policy. If we make material changes that adversely affect your rights under this policy, we will let you know by posting an announcement on the site or sending you an email in advance of the changes coming into effect. Continuing to use Patreon after a change to this policy means you accept the new policy. If you have any questions, please email privacy@patreon.com.</paragraph>
+		<paragraph category="5;5">Effective immediately for existing users and users joining Patreon on or after November 18, 2020.</paragraph>
+	</segment>
+</policy>

@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<segment>
+		<title tagname="h2" depth="1" font-size="1.88" font-weight="1.0" category="">
+			Privacy Notice
+			</title>
+		<segment>
+			<title tagname="h3" depth="1" font-size="1.38" font-weight="1.5" category="19;19">Key Questions and Answers</title>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="8,9;8,9">
+					1. What personal information does Smallpdf collect through its website and how is it collected?
+					</title>
+				<segment>
+					<title tagname="h5" depth="1" font-size="1.0" font-weight="1.5" category="19;8,9">
+						1.1 Account
+						</title>
+					<paragraph category="8,9,11;8,9,11">If you create any paying Smallpdf account via our website, we store data about your account in a database on Amazon Web Services (“AWS”). This includes your email, name and address if you have added them in your profile. To include an additional level of security, we use cryptographic hashing to save your password. This directly implies that our employees can’t see it. We also save the plan you are on and whether you have paid with PayPal, a credit card or other payment methods, your VAT number, type of credit card or payment method information, last 4 digits of credit card, IP address, user settings, company, role, industry &amp; employees size.</paragraph>
+		<paragraph category="12,16;12,16">For security reasons we also save the time, browser and IP address of your last login and the time of your last password reset.</paragraph>
+	</segment>
+				<segment>
+					<title tagname="h5" depth="1" font-size="1.0" font-weight="1.5" category="19;8,9">
+						1.2 Payment
+						</title>
+					<paragraph category="11,16.2;11,16.2">Our payment providers are Braintree and Stripe. Your credit card information or payment account (e.g. PayPal, Alipay, Apple Pay) is stored here so that we can charge you in the upcoming billing cycle, depending on your current subscription.</paragraph>
+		<paragraph category="8,9,11;8,9,11">Any personal data you provide to Braintree, Stripe and PayPal will be processed by them in accordance with their privacy policies. Please review their privacy policies in order to understand what types of personal data they collect from you and how such data is processed.</paragraph>
+		<paragraph category="19;8,9">Your full credit card number will never reach our server and will always be sent directly to Braintree or Stripe from your computer. We can only see the first and last 4 digits of your credit card.</paragraph>
+		<paragraph category="16;16">We also store information about your subscription details in Braintree or Stripe, including: plan, status and price, first billing date, current billing period and paid-through date.</paragraph>
+		<paragraph category="16;16">We store information about every PayPal or credit card transaction, including: payer email (for PayPal), payer name, transaction type, amount, time, and status.</paragraph>
+		<paragraph category="11;11">Lastly, we also import information from Braintree and Stripe into Chartmogul and into AWS to get a better overview of our subscriptions. To import some of this data we use the service Stitch.</paragraph>
+	</segment>
+				<segment>
+					<title tagname="h5" depth="1" font-size="1.0" font-weight="1.5" category="19;8,9">
+						1.3 Invoices
+						</title>
+					<paragraph category="11,16;11,16">Your invoices are stored in a database on AWS in Ireland. Here, we store detailed data relating to transactions and subscriptions from Braintree or Stripe and VAT tax-related information.</paragraph>
+		<paragraph category="16.2;16.2">As an additional backup, the raw data used to generate the invoice database entry is also saved as a file on AWS.</paragraph>
+	</segment>
+				<segment>
+					<title tagname="h5" depth="1" font-size="1.0" font-weight="1.5" category="19;8,9">
+						1.4 Email
+						</title>
+					<paragraph category="8,9,16;8,9,16">We use MailChimp and its add-on Mandrill to send emails to you. Here we store your name, email, country, plan and language, your signup date, last used date and expiration date. We can also see which emails we have sent to you, the email client you used, which emails you have opened and whether you have clicked on any links in them.</paragraph>
+	</segment>
+				<segment>
+					<title tagname="h5" depth="1" font-size="1.0" font-weight="1.5" category="19;8,9">
+						1.5 Errors and Improvements
+						</title>
+					<paragraph category="11,16;11,16">We use TrackJS to discover possible javascript errors when you use our service. If an error is detected, we save this along with your browser, operating system, screen size and IP address.</paragraph>
+		<paragraph category="8,9.2,16;8,9.2,16">We have our own custom analytics system that feeds a database on AWS. Here we save for example the pages which you have visited, the tools you have used, and which options you have chosen on our tools as well as the options during the signup process. With this, we store your browser type, operating system, your default PDF software, number of processors, your RAM, country and file sizes. On our mobile app we store additional information about how your file was created and which device you are using. All this helps us to identify errors on our site, our mobile app or our desktop app, areas that are used frequently, and things that should be improved.</paragraph>
+		<paragraph category="11;11">In order to analyze how users access our website, understand web traffic, and determine targeted advertisements based on your preferences, some of our services use cookies. For more information, please read the question relating to Cookies below.</paragraph>
+		<paragraph category="11,16;11,16">To improve your experience on our desktop app we track and store your operating system, the number of CPU cores your computer uses, your computer memory, and which PDF reader is your default.</paragraph>
+	</segment>
+				<segment>
+					<title tagname="h5" depth="1" font-size="1.0" font-weight="1.5" category="19;8,9">
+						1.6 Feedback and Support
+						</title>
+					<paragraph category="8,9.1,11;8,9.1,11">Sometimes, we will ask you for feedback using Hotjar, Typeform and SurveyMonkey. We save your answers along with your name, email and IP address. Data recorded on Hotjar relating to user behavior will be used to optimize your workflows on our website.</paragraph>
+		<paragraph category="19;8,9">If you send us a support ticket, it will be answered via Freshdesk.</paragraph>
+	</segment>
+				<segment>
+					<title tagname="h5" depth="1" font-size="1.0" font-weight="1.5" category="19;8,9">
+						1.7 Signature / eSign
+						</title>
+					<paragraph category="8,9;8,9">We save your signature(s) in AWS for your convenience if you use our eSign tool.</paragraph>
+		<paragraph category="11,16;11,16">If you are requesting a signature from someone else, the third party will have to agree to our General Terms and Conditions and to this Privacy Notice by using our services. In order to verify the signing process, we store data from all involved persons/people in AWS including their email address, the signer’s IP address, the time when the document was signed and the document status. This data is stored in the background only to prevent abuse of our services and, if necessary, to be used to investigate criminal action.</paragraph>
+	</segment>
+				<segment>
+					<title tagname="h5" depth="1" font-size="1.0" font-weight="1.5" category="19;8,9">
+						1.8 Generated data
+						</title>
+					<paragraph category="8,9,11,16;8,9,11,16">We are generating data in order to improve our services. Such data is stored in our database on AWS or directly in a database of our third parties, e.g. as Braintree or Stripe. See more about it question 4. For analyzing how our service is used and to optimize its quality and the user experience, Smallpdf may analyze and categorize Your Personal Data and User Files with a machine learning algorithm.</paragraph>
+	</segment>
+				<paragraph category="8,9;8,9">In brief: If you use our services, regardless of whether you are a free or paying user, we will collect Your Personal Data that is required to provide our services to you and/or that will help us to improve our services for you.</paragraph>
+		<paragraph category="8,9.1;8,9.1">By visiting any domain or subdomain of smallpdf.com, your IP address and other usage metrics will be logged along with the dates and times of access. Other of Your Personal Data that we obtain from you includes:</paragraph>
+	</segment>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="12;12">
+					2. How does Smallpdf protect Your Personal Data?
+					</title>
+				<paragraph category="12;12">In brief: We do a lot to make our service as secure as possible.</paragraph>
+		<paragraph category="12;12">Smallpdf takes appropriate technical and organisational measures to protect Your Personal Data. Only authorized Smallpdf staff or third-party company staff (i.e. service providers) have access to Your Personal Data. All Smallpdf staff who have access to Your Personal Data are required to adhere to Smallpdf’s Privacy Notice and all third-party employees who have access to Your Personal Data have signed non-disclosure agreements. In addition, Smallpdf has contracts in place with third-party companies that have access to Your Personal Data in order to protect Your Personal Data. To ensure your personal information is protected, Smallpdf maintains a secure IT environment and has appropriate measures in place to prevent unauthorised access (i.e. hacking). All communication and file transfers to and from our server are encrypted with SSL. Passwords are never stored in plain text for either paying or non-paying Smallpdf accounts. They are encrypted (hashed) in our databank on AWS, and no one is able to read them.</paragraph>
+	</segment>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="11;11">
+					3. What does Smallpdf use your personal information for?
+					</title>
+				<paragraph category="11;11">In brief: We use Your Personal Data to provide you with high-quality services. Your privacy is our priority. We would not use Your Personal Data for unlawful purposes.</paragraph>
+		<paragraph category="11;11">We log your IP address and other usage metrics for administrative and analytical purposes, all with the goal of improving our services. We use the email address you provide us to communicate with you. If you provide us with personal data when purchasing our software, we will use that data to issue a software license to you, provide you with customer support, or issue you a refund.</paragraph>
+		<item>(1) providing you with our service;</item>
+		<item>(2) providing you with an invoice and allowing you to pay for your paying Smallpdf account;</item>
+		<item>(3) managing your Smallpdf account;</item>
+		<item>(4) analyzing with machine learning how our service is used to optimize it for you;</item>
+		<item>(5) sending you promotional emails;</item>
+		<item>(6) delivering our newsletter to you;</item>
+		<item>(7) verifying the signing process in our eSign tool.</item>
+		<paragraph category="19;11">The VAT number provided by you will be validated by using the VAT-validation service offered by the European Commission.</paragraph>
+		<paragraph category="4.9;4.9">If you would like to stop receiving promotional emails from us, please send an email to support@smallpdf.com with the word “Unsubscribe” in the subject line.</paragraph>
+		<paragraph category="4.9;4.9">If you would like to stop receiving emails from us, you can unsubscribe from promotional emails directly through a link in the email. For emails relating to your account (educational, payment information etc.) you can unsubscribe via your settings on your account page.</paragraph>
+	</segment>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="17.1;17.1">
+					4. To whom does Smallpdf disclose Your Personal Data, and why?
+					</title>
+				<paragraph category="17.1,17.2;17.1,17.2">In brief: We share some of Your Personal Data with others in order to provide you with our services. Don’t worry, we will not sell Your Personal Data or give it to spammers.</paragraph>
+		<paragraph category="4.1,17.1,17.2;4.1,17.1,17.2">Smallpdf will never share Your Personal Data with any Third Party business organisation that intends to use it for direct marketing purposes unless you have given us specific permission to do so.</paragraph>
+		<item>We may supply Your Personal Data to Third Parties (such as our internet service providers) who help us administer our websites. Some of these business partners may be located outside Switzerland. These Third Parties must at all times provide the same or at least comparable level of security for Your Personal Data as Smallpdf and are bound by a legal agreement to keep protect Your Personal Data and to process it only according to Smallpdf’s specific instructions. All these third-party processors have to sign a non-disclosure agreement with us.</item>
+		<item>We may also supply Your Personal Data to government bodies and law enforcement agencies if: we are required to do so by applicable law; or, if in our good faith judgment, such action is reasonably necessary to comply with legal procedures; to respond to any legal claims or actions; or to protect the rights of Smallpdf or its customers and the public.</item>
+	</segment>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="4;4">
+					5. How can I access, check, change or delete my Personal Data and which rights do I have and how can I exercise them?
+					</title>
+				<paragraph category="4,10;4,10">In brief: Your rights based according to Swiss Federal Data Protection Act and the EU GDPR are respected. Please also go to the “Terms and Conditions” page.</paragraph>
+		<paragraph category="4.1,4.2,4.3,4.4,4.5,4.6,10.1;4.1,4.2,4.3,4.4,4.5,4.6,10.1">We allow you to access, modify or delete Your Personal Data. If you would like to do so, please contact us at info@smallpdf.com or at the address given above. In accordance with and as far as provided by applicable law, you have the right to access, rectification, and erasure of Your Personal Data, the right to restriction of processing or to object to our data processing in addition to receiving certain personal data for transfer to another controller (data portability). Please note, however, that we reserve the right to enforce statutory restrictions on our part, for example if we are obliged to retain or process certain data, have an overriding interest (insofar as we may invoke such interests) or need the data for asserting claims. If exercising certain rights will incur costs on you, we will notify you in advance. Please further note that exercising these rights may be in conflict with your contractual obligations and this may result in consequences such as premature contract termination or involve costs. If this is the case, we will inform you in advance unless it has already been contractually agreed upon.</paragraph>
+		<paragraph category="1.2,4;1.2,4">In general, exercising these rights requires you to be able to prove your identity (e.g., by a copy of identification documents where your identity is not evident otherwise or can be verified in another way). In order to assert these rights, please contact us at Smallpdf AG, Steinstrasse 21, 8003 Zürich, Switzerland.</paragraph>
+		<paragraph category="7;7">In addition, every data subject has the right to enforce his/her rights in court or to lodge a complaint with the competent data protection authority. The competent data protection authority of Switzerland is the Federal Data Protection and Information Commissioner (https://www.edoeb.admin.ch).</paragraph>
+		<paragraph category="19;4">For more detailed information please consult the “Terms and Conditions” page.</paragraph>
+	</segment>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="16;16">
+					6. How and how long do we store Personal Data, User Files and generated data?
+					</title>
+				<paragraph category="16.1;16.1">In brief: We keep Your Personal Data only as long as it is needed for the provision of our services or required by law. As a registered Smallpdf user we store your User Files for your conveniences. If you do not have an account we keep your User Files long enough for you to download or process them. The time required to upload, process and convert User Files varies from tool to tool.</paragraph>
+		<paragraph category="16;16">We will only retain Your Personal Data for as long as necessary to fulfil the purpose for which it was collected or to comply with legal, regulatory or internal policy requirements. To help us do this, we apply criteria to determine the appropriate periods for retaining Your Personal Data depending on its purpose, such as account maintenance, facilitating client relationship management, and responding to legal claims or requests from authorities. In general, Smallpdf may retain personal data for the period of your relationship or contract with us plus 10 years, reflecting the retention period according to Swiss law and the length of time for which legal claims may be made following termination of such relationship or contract. An ongoing or anticipated legal or regulatory proceeding may lead to retention beyond this period.</paragraph>
+		<paragraph category="16.2;16.2">If you have a Smallpdf account and you are logged in, it doesn’t matter if you are a paying user or not, we will save your User Files and store them in our database on AWS.</paragraph>
+		<paragraph category="4.1,16.3;4.1,16.3">We have to inform you 14, 7 and 1 day in advance by sending an email if Smallpdf will delete your User Files.</paragraph>
+		<paragraph category="11,16.1,16.2;11,16.1,16.2">All the files uploaded for processing on smallpdf.com are stored on an appropriate server infrastructure for processing and the download afterwards. The time we keep User Files varies from tool to tool, as some tools require longer saving periods (eg. eSign). In most tools we delete the files after one hour. We only store User Files and generated data for longer than an hour,</paragraph>
+		<item>if the additional storage time is required to provide our service, for example if the recipient of a User File shared with a tool, including but not limited to our eSign tool, needs more time for downloading the User File;</item>
+		<item>for analyzing how our service is used to optimize its quality and the user experience.</item>
+	</segment>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="14;14">
+					7. Which countries will your personal information be sent to and why?
+					</title>
+				<paragraph category="12,14;12,14">In brief: We transfer your personal data outside of Switzerland and ensure that your personal data is well protected irrespective of its location.</paragraph>
+		<paragraph category="14,17;14,17">When you use our services, Your Personal Data and User Files may be transferred to and from servers located in other countries. Further, User Files (whether originally provided by you or processed by using our services) are not shared with third parties, unless such parties are subject to confidentiality obligations.</paragraph>
+		<paragraph category="10.3,14;10.3,14">If we transfer data to a country without adequate legal data protection, we ensure an appropriate level of protection as legally required by way of using appropriate contracts or binding corporate rules or we rely on the statutory exceptions of consent, performance of contracts, the establishment, exercise or enforcement of legal claims, overriding public interests, published personal data or because it is necessary to protect the integrity of the persons concerned.</paragraph>
+	</segment>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="18.1;18.1">
+					8. COOKIES (“Tracking Technology”) – How and why does Smallpdf use them?
+					</title>
+				<paragraph category="18.1;18.1">In brief: These are cookies you can’t eat. We don’t use cookies with the exception of cookies solely for functional purposes, but Dropbox, Google Drive, Google Analytics, Google Adwords, Google Adsense and Google reCAPTCHA and similar services do.</paragraph>
+		<paragraph category="18.1;18.1">A cookie is a small piece of data placed on your computer’s hard drive that enables a service to monitor websites. We do not use any cookies on our site with the exception of cookies solely for functional purposes. Third party applications that we use, such as Dropbox, Google Drive, Google Analytics, Google AdManager, Google Adsense and Google reCAPTCHA do use cookies on our site to help analyse the web traffic or determine targeted advertisements based on your preferences. The third parties do not receive Your Personal Data from us, but they may track your use of the website, combine this information with data from other websites you have visited and which are also tracked by the respective third parties and may use this information for their own purposes (e.g. controlling of advertisements). To opt out of Google’s use of cookies, please visit the Google ad and content network privacy policy. If you prefer not to use cookies at all, we recommend adjusting your browser settings accordingly. If you are unsure how to do that, use your favorite search engine to find out everything about it or visit aboutcookies.org.</paragraph>
+	</segment>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="19;19">
+					9. How do we handle like buttons?
+					</title>
+				<paragraph category="19;19">In brief: You might not like liking us.</paragraph>
+		<paragraph category="19;19">We know that you like to click on “Like” buttons. Therefore, smallpdf.com features “Like” buttons from Facebook and Twitter. However, these “Like” buttons may track users. Before using Smallpdf, please make sure that you are familiar with the privacy policies of Google, Facebook and Twitter.</paragraph>
+	</segment>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="19;19">
+					10. Why do we track errors?
+					</title>
+				<paragraph category="11;11">In brief: We track errors to improve our product.</paragraph>
+		<paragraph category="11;11">Although we put our best efforts to ensure the best quality of our services, sometimes our website may experience tough moments. We use specific services in order to track errors on Smallpdf that affect our customers.</paragraph>
+	</segment>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="5;5">
+					11. Can Smallpdf change the terms of this Privacy Notice?
+					</title>
+				<paragraph category="5;5">In brief: If you use our website, you agree with this Privacy Notice. Changes to this Privacy Notice may occur and will be made available to you.</paragraph>
+		<paragraph category="4.1,11,17;4.1,11,17">By using our website, you allow us to collect, delete, use, and share your personal data in accordance with this Privacy Notice.</paragraph>
+		<paragraph category="5;5">Smallpdf may occasionally make changes and corrections to this Privacy Notice. Please check this Privacy Notice regularly to see the changes and how these may affect you.</paragraph>
+	</segment>
+			<segment>
+				<title tagname="h4" depth="1" font-size="1.38" font-weight="1.5" category="19;19">
+					12. IMPORTANT – Why do I have to accept the terms of this Privacy Notice?
+					</title>
+				<paragraph category="8,9,14;8,9,14">Smallpdf collects Your Personal Data when you use our online service, our desktop app or our mobile app. In all cases Smallpdf uses the internet to collect and process Your Personal Data. This naturally involves the processing and transmission of Your Personal Data across borders.</paragraph>
+		<paragraph category="6,11;6,11">This Privacy Notice provides you with all necessary information (in an easily accessible way) to make an informed choice as to whether to use our services and to send Your Personal Data to Smallpdf or not.</paragraph>
+		<paragraph category="10.1;10.1">Therefore, by browsing our website, using our desktop or mobile app, and communicating electronically with us, you acknowledge and agree to our processing of Your Personal Data (cookies, connection and system information) in the manner set out in this Privacy Notice.</paragraph>
+		<paragraph category="1.2;1.2">If you have any questions regarding this Privacy Notice please contact Smallpdf by using the email support@smallpdf.com and we will be pleased to assist you with any additional queries you may have.</paragraph>
+		<paragraph category="">Zürich, January 2020, Smallpdf AG, Zürich</paragraph>
+	</segment>
+		</segment>
+		<paragraph category="">Thank you for visiting our website.</paragraph>
+		<paragraph category="">Smallpdf respects your right to privacy when you use our services, visit our website or communicate electronically with us. We take all necessary measures to ensure any personal data you give us is kept secure and safe.</paragraph>
+		<paragraph category="">We are Smallpdf AG, a company incorporated under the laws of Switzerland, with its registered offices at Steinstrasse 21, 8003 Zürich, Switzerland. ‘Personal data’ is any information that relates to an identified or identifiable natural person. By providing our services to you, we may have to process personal data related to you (‘Your Personal Data’). Smallpdf is the controller of Your Personal Data. By using our services, you may upload or otherwise provide files and information and process such files and information (‘User Files’ whether originally provided by you or processed by using our services) to us which may contain personal data not related to you. In such case, you remain fully responsible for such personal data contained in the User Files.</paragraph>
+		<paragraph category="">In the paragraphs below, we endeavor to answer key questions about your data privacy and Your Personal Data you share with Smallpdf. These answers should inform you of both your rights regarding Your Personal Data, and the measures we take to maintain the privacy and security of Your Personal Data.</paragraph>
+		<paragraph category="">If you provide us with personal data of other people (such as family members or work colleagues) or provide us User Files which contain personal data related to other people, please make sure they are aware of this Privacy Notice and only provide us with their data if you are allowed to do so and such personal data is correct.</paragraph>
+		<paragraph category="">This Privacy Notice has been drafted to be in line with the Swiss Federal Data Protection Act and the EU General Data Protection Regulation (GDPR).</paragraph>
+		<paragraph category="">If you have any requests concerning Your Personal Data or any queries with regard to these practices, please contact Smallpdf at the address given above.</paragraph>
+	</segment>
+	
+</policy>

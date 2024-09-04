@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<segment>
+		<title tagname="h3" depth="1" font-size="2.0" font-weight="1.75" category="">
+			Privacy Policy
+			</title>
+		<item>The Privacy Policy applies during the full duration of use of Our Service(s). The personal information collected from users will be managed according to our privacy policy.</item>
+		<item>This Privacy Policy does not apply to individuals or firms who do not directly use FC2 services.</item>
+	</segment>
+	<segment>
+		<title tagname="h3" depth="1" font-size="2.0" font-weight="1.75" category="9,11;9,11">
+			Gathering and Use of Information
+			</title>
+		<item>The personal information we request from User(s) is limited to the minimum necessary.</item>
+		<item>Information, including IP addresses, cookies, visited pages, devices, etc. are automatically received from the user’s browser or app and saved onto our servers.</item>
+		<item>FC2 may use the information for the following reasons.</item>
+		<item>In order to improve Our Service(s).</item>
+		<item>In order offer new services and correct information to User(s).</item>
+		<item>To contact users if needed.</item>
+		<item>In order to provide better conditions for User(s).</item>
+	</segment>
+	<segment>
+		<title tagname="h3" depth="1" font-size="2.0" font-weight="1.75" category="17;17">
+			Sharing of Information
+			</title>
+		<item>FC2 will never sell or lend out personal information acquired from users.</item>
+		<item>However, FC2 may release personal information for the following reasons.</item>
+		<item>When requested by official facilities such as court or the police.</item>
+		<item>If there are any life threatening reasons or emergency situations.</item>
+		<item>When required to provide Service(s) to User(s).</item>
+		<item>When companies entrusted by FC2 require the information in order to provide Service(s) to Users. （These companies are not allowed to use the personal information for any other purposes.）</item>
+		<item>When its considered necessary in order to protect FC2's rights and/or assets aginst User(s) violations of the Terms of Use.
+  </item>
+	</segment>
+	<segment>
+		<title tagname="h3" depth="1" font-size="2.0" font-weight="1.75" category="19;19">
+			Use of Third Party Service
+			</title>
+		<paragraph category="4.1,11;4.1,11">Please note that Services within the FC2 websites may use the YouTube API Services,
+and Google Analytics is being utilized in order for FC2 to provide optimal service to its users. 
+
+By using our services you agree to the YouTube Terms of Service and Google Privacy Policy,
+along with the FC2 Terms of Service. 
+
+Links for the policy and terms are provided below for reference. </paragraph>
+		<item>Google Privacy Policy - https://policies.google.com/privacy</item>
+		<item>YouTube Terms of Service - https://www.youtube.com/t/terms</item>
+		<item>FC2 Terms of Service - https://help.fc2.com/common/tos/en</item>
+	</segment>
+	<segment>
+		<title tagname="h3" depth="1" font-size="2.0" font-weight="1.75" category="12;12">
+			Security
+			</title>
+		<item>For security reasons, FC2 requires password access to all FC2 user information.</item>
+		<item>SSL code is used to protect your information in the event of data transfers.</item>
+	</segment>
+	<segment>
+		<title tagname="h3" depth="1" font-size="2.0" font-weight="1.75" category="5;5">Amendments to the Privacy Policy</title>
+				<item>FC2 retains the right to amend and/or alter the Privacy Policy in part or full.（We will inform Users of any important changes on the FC2 website.)</item>
+	</segment>
+</policy>

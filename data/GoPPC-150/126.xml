@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<segment>
+		<title tagname="h2" depth="2" font-size="1.0" font-weight="1.75" category="">
+			Privacy
+			</title>
+		<segment>
+			<title tagname="h2" depth="5" font-size="1.0" font-weight="1.75" category="">
+				Who we are
+				</title>
+			<paragraph category="">Currys PC World is a trading name of DSG Retail Limited (referred to using "We", "Us", "Our" or the “Company”) is a company registered in England and Wales (Company registration number: 504877) and is part of the Dixons Carphone group of companies. Dixons Carphone is Europe's leading specialist electrical and telecommunications retailer and services company, employing over 42,000 people in nine countries. We pride ourselves on giving our customers simple and independent advice on which electronic and technology products are right for them.</paragraph>
+		<paragraph category="">Our primary brands are [Currys PC World, Dixons Travel and Team Knowhow]</paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="5" font-size="1.0" font-weight="1.75" category="12;12">Your security</title>
+					<paragraph category="12;12">When you shop with us or use our services, you trust us with your data. We're a company that puts you, our customer, first, respecting you as an individual but also as a member of our community. We listen to our customers to understand your expectations and make sure these are reflected in our business decisions. We’re committed to maintaining your trust and confidence. In this Privacy Policy, we’ve provided details on when and why we collect your personal information, how we use it, the very limited conditions under which we may disclose it to others (where direct marketing is concerned only with your explicit permission) and how we keep it secure.</paragraph>
+		</segment>
+		<segment>
+			<title tagname="h2" depth="5" font-size="1.0" font-weight="1.75" category="8,9;8,9">
+				Information we collect
+				</title>
+			<paragraph category="8,9;8,9">We collect personal information about you when you visit one of our stores, use our Websites ("Websites"), or use our web or mobile device applications ("Mobile Apps") or if you communicate with us by phone, e-mail and social media. We refer to our Websites and Mobile device Apps collectively as "Online Services".</paragraph>
+		<paragraph category="8.1,9;8.1,9">The types of personal information we collect includes:</paragraph>
+		<item>Personal details such as your name, address, date of birth, email address, phone number and other contact information, transaction information, such as the product you purchased, its price, your method of payment and your payment details which are anonymised as per PCI DSS recommended standards.</item>
+		<item>Information about you like your employment details, financial position and information taken from identification documents like your passport or driving licence when we review your application for insurance or loans offered by selected third parties’ partners</item>
+		<item>Your account information – such as dates of payments owed and received, the subscription services you use or any other information related to your account</item>
+		<item>The phone numbers that you call/send messages to or the phone numbers that you receive calls/messages from.</item>
+		<item>The date and time of the calls and messages you send or receive through our network, and your location at the time these communications take place.</item>
+		<paragraph category="8,9;8,9">When you're using our Online Services, the information we collect includes:</paragraph>
+		<item>Account information, like your username, password, and other identifiers or credentials you use to access our online services or to buy our products and services, details of your shopping preferences, such as your favourite brands and products, as well as which of our stores you prefer to shop in</item>
+		<item>Information that you provide in your dealings with us. This includes when you register to use our online services, or when you subscribe to our services or request further services and/or information from us.</item>
+		<item>Details of your visits to the Website, in-store WIFI or App and the resources that you access. Examples include ads that you click, device information and location</item>
+		<item>IP address and cookie data</item>
+		<paragraph category="8,9.1;8,9.1">The situations when you provide personal information could include when you:</paragraph>
+		<item>Purchase products at our stores or through our contact centre</item>
+		<item>Register or use our Online Services including mobile device applications</item>
+		<item>Request to receive marketing or other communications</item>
+		<item>Use our Wi-Fi networks or other in-store tech</item>
+		<item>Enter one of our competitions or when you complete one of our customer surveys</item>
+		<item>Submit information when you’re providing feedback</item>
+		<item>Use interactive features of our Online Services.</item>
+</segment>
+		<segment>
+			<title tagname="h2" depth="5" font-size="1.0" font-weight="1.75" category="11;11">
+				How we use your information
+				</title>
+			<segment>
+				<title tagname="h3" depth="4" font-size="0.95" font-weight="1.75" category="10.1;10.1">
+					When we're required to enter into a contract with you
+					</title>
+				<paragraph category="11;11">We use your personal information to process your orders and payments or to give you a refund.</paragraph>
+</segment>
+			<segment>
+				<title tagname="h3" depth="4" font-size="0.95" font-weight="1.75" category="10.5;10.5">
+					Where you have provided consent
+					</title>
+				<paragraph category="11;11">We use email and text messages to communicate with you about our products and services, competitions, offers, promotions or special events where you tick a box.</paragraph>
+		<paragraph category="11;11">For example
+		<item>To provide a free mobile phone upgrade reminder service to inform you when a product is back in stock</item>
+		<item>To send you a renewal notice</item>
+		<item>If you give us permission, to communicate with you about our third party partners that we believe may interest you</item></paragraph>
+</segment>
+			<segment>
+				<title tagname="h3" depth="4" font-size="0.95" font-weight="1.75" category="10.3;10.3">Where there is a Legitimate Interest</title>
+						<paragraph category="11;11">As a Company we are often required to process your personal data in order to carry out certain tasks relating to our business activities. In such cases, processing of personal data can be justified on grounds of legitimate interest.</paragraph>
+				<segment>
+					<title tagname="h4" depth="4" font-size="0.81" font-weight="1.75" category="11;11">
+						Communications
+						</title>
+					<item>To provide customer support and to respond to, and communicate with you about your requests</item>
+		<item>To contact you if we need to obtain or provide additional information</item>
+		<item>To check our records are right and to check every now and then that you’re happy and satisfied (e.g. customer surveys).</item>
+		<item>For marketing activities (other than where we rely on your consent) e.g. marketing permissions captured during the course of a sale, personalising marketing messages through social media and other third party platforms;</item>
+		<item>To send promotional material (e.g. renewals) to you in the post or inform you of our offers by telephone</item>
+		<item>To comply with a request from you in connection with the exercise of your rights (for example where you have asked us not to contact you for marketing purposes, we will keep a record of this on our suppression lists in order to be able to comply with your request)</item>
+		<item>To send communications to you about your orders, purchases or accounts and bill you for using our products or services</item>
+		<item>To let you post on our blogs and interact with us through social media.</item>
+</segment>
+				<segment>
+					<title tagname="h4" depth="4" font-size="0.81" font-weight="1.75" category="11;11">
+						Personalise Improve our Service
+						</title>
+					<item>To personalise your experience on our online services. This could include providing you with interesting, relevant content, or making navigation to our Sites and Mobile Apps easier</item>
+		<item>To help us understand more about you as a customer, the products and services you use, the way you use them and how you shop across the company, so we can serve you better</item>
+		<item>Improve the content and appearance of the Website(s) or App(s), and to make sure that content is presented in the most effective manner for you</item>
+		<item>To operate, evaluate and improve our business, including the development of new products and services; to determine the effectiveness of our sales, marketing and advertising; and the analysis and improvement of our products, offers, promotions, and Online Services and other technologies</item>
+		<item>To show you relevant ads by using data collected from your devices, including your searches, location, ads that you have seen and personal information that you have given us, such as your age range, gender and topics of interest. Dependant on your Ads Settings, this data informs the ads that you see across your devices. So if you visit our website on your computer at work, you might see ads about our products or services on your phone later that night.</item>
+</segment>
+				<segment>
+					<title tagname="h4" depth="4" font-size="0.81" font-weight="1.75" category="11;11">
+						Company Interest
+						</title>
+					<item>To protect against, identify and prevent fraud and other criminal activity, claims and other liabilities</item>
+		<item>For network and information security in order for us to take steps to protect your information against loss or damage, theft or unauthorised access.</item>
+</segment>
+			</segment>
+			<segment>
+				<title tagname="h3" depth="4" font-size="0.95" font-weight="1.75" category="10.6;10.6,11">
+					When we're required to comply with our Legal Obligation
+					</title>
+				<item>To identify you when you contact us</item>
+		<item>To verify the accuracy of data that we hold about you</item>
+		<item>To assist HMRC and/or the Police and/or other regulatory bodies in relation to an investigation by a public authority.</item>
+</segment>
+			<segment>
+				<title tagname="h3" depth="4" font-size="0.95" font-weight="1.75" category="10.4;10.4,11">
+					Where it is in your Vital Interest
+					</title>
+				<paragraph category="11;11">In certain circumstances it is in your vital interests for us to process your personal information. We may need to contact you if there are any urgent safety or product recall notices or where we otherwise reasonably believe that the processing of your personal information will prevent or reduce any potential harm to you.</paragraph>
+</segment>
+			<paragraph category="10,11;10,11">The law on data protection sets out a number of different reasons for which a company may collect and process your personal data. These are set out below.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="5" font-size="1.0" font-weight="1.75" category="17.1;17.1">
+				Who we share your personal information with
+				</title>
+			<segment>
+				<title tagname="h4" depth="4" font-size="0.81" font-weight="1.75" category="19;17.1">
+					Our service providers
+					</title>
+				<paragraph category="17.1,17.2;17.1,17.2">We work with partners, suppliers, insurers and agencies so they can process your personal information on our behalf and only where they meet our standards on the processing of data and security. We only share information that helps them provide their services to us or to help them provide their services to you. For example, some of our service providers place advertising for us online, about our products and services and those of our retail partners, suppliers and third parties. As a result, where you have indicated you are happy to receive marketing from us, you might see online advertising that we have placed on the web sites you visit, or the interactive services you use.</paragraph>
+		<paragraph category="17.1,17.2;17.1,17.2">Where you have asked us to deliver your purchases either to the store (‘Click &amp; Collect) or any other place, we will also share your address and contact details with our delivery partners like DPD, Royal Mail etc. to ensure a successful delivery. These partners may contact you to provide periodic updates on your delivery</paragraph>
+</segment>
+			<segment>
+				<title tagname="h4" depth="4" font-size="0.81" font-weight="1.75" category="19;17.1">
+					Other organisations and individuals
+					</title>
+				<paragraph category="17.1,17.2;17.1,17.2">We may transfer your personal information to other organisations in certain scenarios. For example:</paragraph>
+		<item>When you apply for credit or purchase an insurance product we'll pass on your information to trusted third party partners responsible for these products. Please note we act as a credit broker and not as a lender in respect of our insurance products credit facility within our UK and Republic of Ireland stores</item>
+		<item>If required to by law, under any code of practice by which we are bound or we're asked to do so by a public or regulatory authority such as the Police or the Department for Work and Pensions</item>
+		<item>Information may also be shared with fraud prevention agencies to prevent fraudulent claims</item>
+		<item>If we need to do so in order to exercise or protect our legal rights, users, systems and services</item>
+		<item>In response to requests from individuals (or their representatives) seeking to protect their legal rights or the rights of others.</item>
+		<item>With emergency services (if you make an emergency call), including your approximate location</item>
+		<item>Companies that enable us to collect your reviews and comments, both online and offline.</item>
+		<item>We may use trusted third parties to carry out certain activities on our behalf and may share your personal data with them for the purposes of: processing and sorting data, monitoring how customers use our site, issuing our emails for us and collecting product/customer feedback from you via surveys. The third parties include Reevo, Qualtrics, ABA Research, this is by no means an exhaustive list but it gives an indication of the many third parties we work with.</item>
+		<item>Companies which run our contact centres because they need your personal information to identify and contact you.</item>
+		<item>Third party vendors who help us to manage and maintain the Group IT infrastructure.</item>
+		<item>Companies that provide insights and analytics services for us so we can stock the right products, send the right marketing campaigns and understand our business and customers better.</item>
+</segment>
+			<segment>
+				<title tagname="h4" depth="4" font-size="0.81" font-weight="1.75" category="19;17.1">
+					Credit Reference Agencies
+					</title>
+				<paragraph category="17.1,17.2;17.1,17.2">In order to process your application we'll supply your personal information to credit reference agencies (CRAs) and they will give us information about you.</paragraph>
+		<paragraph category="11,17;11,17">This will include information from your credit application and about your financial situation and financial history. CRAs will supply to us both public (including the electoral register) and shared credit, financial situation and financial history information and fraud prevention information. We will use this information to:</paragraph>
+		<item>Assess your creditworthiness and whether you can afford to take the product</item>
+		<item>Verify the accuracy of the data you have provided to us</item>
+		<item>Prevent criminal activity, fraud and money laundering</item>
+		<item>Trace and recover debts</item>
+		<item>To make sure any offers provided to you are appropriate to your circumstances.</item>
+		<paragraph category="17.1;17.1">We'll also continue to exchange information about you with CRAs on an on-going basis, including about your settled accounts and any debts not fully repaid on time. CRAs will share your information with other organisations. Your data will also be linked to the data of your spouse, any joint applicants or other financial associates.</paragraph>
+		<paragraph category="17;17">The identities of the CRAs, and the ways in which they use and share personal information, are explained in more detail at www.equifax.co.uk/crain.</paragraph>
+</segment>
+			<paragraph category="17.1;17.1">We share personal information within the Dixons Carphone PLC Group. Members of the Dixons Carphone Group that receive this information are not authorised to use or disclose the information except as provided in this privacy policy.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="5" font-size="1.0" font-weight="1.75" category="14;14">
+				International transfers of your personal information
+				</title>
+			<paragraph category="14.2;14.2">From time to time we may transfer your personal information to our suppliers, service providers and other company offices based outside of the European Economic Area (EEA) for the purposes described in this privacy policy. If we do this your personal information will continue to be subject to one or more appropriate safeguards set out in the law.</paragraph>
+		<paragraph category="14.2;14.2">If we do transfer information to our agents or advisers outside of the EEA, we will make sure that it is protected in the same way as if it was being used in the EEA. We'll use one of these safeguards:</paragraph>
+		<item>We'll transfer it to a non-EEA country with privacy laws that give the same protection as the EEA. Learn more on the [European Commission Justice website] (https://ec.europa.eu/info/law/law-topic/data-protection_en).</item>
+		<item>We'll put in place a contract with the recipient that means they must protect it to the same standards as the EEA. Read more about this here on the European Commission Justice website.</item>
+</segment>
+		<segment>
+			<title tagname="h2" depth="5" font-size="1.0" font-weight="1.75" category="11;11">
+				How we use your information to make automated decisions
+				</title>
+			<segment>
+				<title tagname="h4" depth="4" font-size="0.81" font-weight="1.75" category="4;4">
+					Your rights
+					</title>
+				<paragraph category="4.8;4.8">You have rights over automated decisions.</paragraph>
+		<item>Under certain circumstances, you can ask that we do not make our decision based on the automated score alone</item>
+		<item>You can object to an automated decision, and ask that a person reviews it.</item>
+		<paragraph category="1.2,4;1.2,4">If you want to know more about these rights, please contact us.</paragraph>
+</segment>
+			<paragraph category="11;11">We sometimes use systems to make automated decisions based on your personal information or the information we are allowed to collect from others about you or your business (for example where we perform credit checks). This helps us to make sure our decisions are quick, fair, efficient and correct, based on what we know. These automated decisions can affect the products, services or features we may offer you now or in the future, or the price that we charge you for them.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="5" font-size="1.0" font-weight="1.75" category="16.1;16.1">
+				How long we keep your personal information
+				</title>
+			<paragraph category="16.1,16.3;16.1,16.3">We will keep your personal information for as long as you're a customer. If you haven't made a purchase or engaged with us for 3 years or more, then we'll remove you from our marketing mailing lists. After you stop being a customer, we may keep your data for up to 7 years after the last time you interacted with us. This could include one of the ways specified in 'How we use your personal information' and for one of these reasons:</paragraph>
+		<item>To respond to any questions or complaints</item>
+		<item>To show that we treated you fairly</item>
+		<item>To maintain records according to rules that applies to us</item>
+		<item>To establish, bring or defend legal claims.</item>
+		<paragraph category="16.1;16.1">We may keep your data for longer than 7 years if we cannot delete it for legal, regulatory or technical reasons. We may also keep it in order to help support product recalls or safety notices. If we do, we will make sure that your privacy is protected and only use it for those purposes.</paragraph>
+		<paragraph category="16;16">We do not retain personal information in an identifiable format for longer than is necessary.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="5" font-size="1.0" font-weight="1.75" category="4;4">Your rights</title>
+			<segment>
+				<title tagname="h4" depth="4" font-size="0.81" font-weight="1.75" category="4.2;4.2">
+					Access to Information held about you
+					</title>
+				<paragraph category="4.2;4.2">You have the right to request what personal information we hold about you. This is sometimes called a 'Data Subject Access Request'. If we agree that we are obliged to provide personal information to you (or someone else on your behalf), we'll provide it to you free of charge. Before providing personal information to you or another person on your behalf, we may ask for proof of identity and sufficient information about your interactions with us that we can locate your personal information. Except in rare cases, we’ll respond to you within 30 days after we've received this information or, where no such information is required, after we’ve received your request.</paragraph>
+		<paragraph category="4.3;4.3">If any of the personal information we hold about you is inaccurate or out of date, you may ask us to correct it.</paragraph>
+		<paragraph category="4.7;4.7">In certain circumstances you have the right to request a copy of your personal information from us or to have that information passed to an organisation of your choice in a format that can be easily re-used.</paragraph>
+</segment>
+			<segment>
+				<title tagname="h4" depth="4" font-size="0.81" font-weight="1.75" category="4.5,4.9;4.5,4.9">
+					Right to stop or limit our processing of your data
+					</title>
+				<paragraph category="4.4,4.6;4.4,4.6">You have the right to object to us processing your personal information if we’re not entitled to use it any more, to have your information deleted if we are keeping it too long or have its processing restricted in certain circumstances.</paragraph>
+		<paragraph category="4.1,4.6,10.3;4.1,4.6,10.3">Where we rely on our legitimate interests, as set out under 'How we use your personal information', you may object to us using it for these purposes. If we agree that your objection is justified in accordance with your rights under data protection laws, we’ll permanently stop using your data for those purposes. Otherwise we’ll provide you with our justification as to why we need to continue using your data.</paragraph>
+		<paragraph category="4.5;4.5">You can ask us to restrict the use of your personal information if:</paragraph>
+		<item>It isn't accurate.</item>
+		<item>It has been used unlawfully but you don't want us to delete it.</item>
+		<item>It's not relevant any more, but you want us to keep it for use in legal claims.</item>
+		<item>You’ve already asked us to stop using your data but you’re waiting for us to tell you if we’re allowed to keep on using it.</item>
+		<paragraph category="16;16">Please note that we may be required by law to retain certain information. Before we are able to provide you with any information or correct any inaccuracies, we may ask you provide other details to help us respond to your request.</paragraph>
+		<paragraph category="1.2,4;1.2,4">If you would like to exercise these rights, please contact us.</paragraph>
+		<paragraph category="19;4">Please make sure you provide the following identification documents as part of your application:</paragraph>
+		<item>Please make sure you provide one proof of identity (we suggest either a utility bill in your name or your driver's licence, but other similar formal documents may be accepted, please note the documents cannot be older than 6 months) as part of your request.</item>
+</segment>
+		</segment>
+		<segment>
+			<title tagname="h2" depth="5" font-size="1.0" font-weight="1.75" category="4.9;4.9">
+				How can you stop the use of your personal data for direct marketing
+				</title>
+			<paragraph category="4.9,6;4.9,6">We won't send you marketing messages if you tell us not to.</paragraph>
+		<item>You can click onto the "unsubscribe" link in any communication that we send to you by email which will automatically unsubscribe you from that type of communication. Each "unsubscribe" link only relates to that specific type of communication. Please also note that you may continue to receive Service communications in relation to the product and services we have sold to you</item>
+		<item>Alternatively, you can unsubscribe by submitting your request here. Please note that it may take up to 28 days to process your request.</item>
+		<item>In relation to our App(s), you can manage your preferences in the App(s). For Mobile Apps, your consent for marketing notifications is collected individually for each device that you use to access our application from. So if you access the App from multiple devices, you will have to independently manage your preferences for each device which is by default switched off</item>
+		<item>Changing your preferences through the Mobile App(s) will not change your marketing preferences for other channels of marketing like SMS, Email etc. To manage those preferences, you can use the ‘Unsubscribe’ link from that type of communication You can also find further information within our Direct Marketing Charter.</item>
+</segment>
+		<segment>
+			<title tagname="h2" depth="5" font-size="1.0" font-weight="1.75" category="12;12">Security measures</title>
+					<paragraph category="12;12">All companies within the Dixons Carphone Group use technical and organisational security measures to protect the personal information supplied by you against loss, destruction, and any unauthorised access by third parties.</paragraph>
+		</segment>
+		<segment>
+			<title tagname="h2" depth="5" font-size="1.0" font-weight="1.75" category="19;19">
+				Links to other websites
+				</title>
+			<paragraph category="19;19">Our websites (which includes this Privacy Policy) contain links to other websites run by other organisations which we do not control. This policy does not apply to those other websites and Apps‚ so we encourage you to read their privacy statements.</paragraph>
+</segment>
+		<segment>
+			<title tagname="h2" depth="5" font-size="1.0" font-weight="1.75" category="19;19">
+				Social plugins
+				</title>
+			<paragraph category="19;19">We use so-called social plugins (buttons) of social networks such as Facebook, Google+, You Tube, Instragram and Twitter.</paragraph>
+		<paragraph category="19;19">After activation of a button, the social network can retrieve data, independently of whether you interact with the button or not. If you are logged on to a social network, the network can assign your visit to the website to your user account. A social network cannot assign a visit to websites operated by our other group companies unless you activate the respective button there as well.</paragraph>
+		<paragraph category="4.9;4.9">If you're a member of a social network and don’t want that network to combine data retrieved from your visit to our websites with data they hold on you, you must log out from the social network concerned before activating the buttons.</paragraph>
+</segment>
+		<paragraph category="">This Privacy Policy helps you understand what Personal data we collect, why we collect it, what we do with it and the choices you have, including how to access and update information.</paragraph>
+		<paragraph category="">Our policy applies to you if you use our products or services in store, over the phone, online, through our mobile applications or if you use any of our websites or interact with us on social media (our “Services”).</paragraph>
+</segment>
+</policy>

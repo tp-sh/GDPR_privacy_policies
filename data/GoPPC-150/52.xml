@@ -1,0 +1,329 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<url>https://soundcloud.com/pages/privacy</url>
+	<update_time>20/ /</update_time>
+	<download_time>2021/02/18</download_time>
+	
+	<segment>
+		<title category="1;1" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">Data Controllers</title>
+		<paragraph category="1;1">When this policy mentions “SoundCloud,” “we,” “us,” or “our,” it refers to the SoundCloud entity that is responsible for your information under this Privacy Policy (the “ Data Controller ”).<list> <item>If you are located in the United States, SoundCloud Inc., 71 5th Avenue, 5th Floor, New York 10003, NY, USA, dataprotection@soundcloud.com is the Data Controller of your personal data provided to, or collected by or for, or processed in connection with, our Platform;</item> <item>If you are located outside the United States, SoundCloud Global Limited &amp; Co. KG, Rheinsberger Str. 76/77, 10115 Berlin, Germany, dataprotection@soundcloud.com, is the Data Controller of your personal data provided to, or collected by or for, or processed in connection with, our Platform;</item> <item>We may share your data within our corporate group of companies that are related by common ownership or control (“SoundCloud Group”) and data of US users may be processed by SoundCloud Global Limited &amp; Co. KG on SoundCloud Inc.’s behalf.</item> </list></paragraph>
+	</segment>
+	<segment>
+		<title category="19;19" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">Our Privacy Principles</title>
+		<paragraph category="19;19">SoundCloud is committed to putting its users first and believes you should know what data we collect about you, why we collect it, and how we use and share it. That’s why we’ve designed this Privacy Policy to give you simple, clear, and actionable information about our privacy and data protection practices. </paragraph>
+		<paragraph category="6;6">We believe users should also have meaningful choices over the data we collect, use and share as described in this Privacy Policy, your Settings and the Help Center . We encourage you to take full advantage of these tools. </paragraph>
+	</segment>
+	<segment>
+		<title category="8,9;8,9" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">Information We Collect</title>
+		<paragraph category="8,9;8,9">The personal information we collect is related to providing the Platform and its features and falls into three general categories:<list> <item>Information you provide to us</item> <item>Information collected automatically</item> <item>Information we obtain from third parties</item> </list></paragraph>
+		<segment>
+			<title category="8,9.1;8,9.1" depth="1" font-size="0.88" font-weight="1.0" tagname="h3">Information You Provide</title>
+			<paragraph category="8,9.1;8,9.1">We ask for and collect the below personal information when you use the Platform. This information is necessary for the adequate performance of the contract between you and us and to comply with our obligations thereunder. </paragraph>
+			<paragraph category="8,9,11;8,9,11">We process this information in light of our legitimate interest in improving the Platform and giving our users the best experience, and where it is necessary for the adequate performance of any contract between us and you, including but not limited to the Terms of Use. Without it, we may not be able to provide you with all the requested services and features of the Platform. </paragraph>
+			<paragraph category="8,9.1,11;8,9.1,11">You don’t need to register for a SoundCloud account in order to visit or use our Platform. However, certain Services require that you register for an account and, by doing so, you will need to provide us with certain information: </paragraph>
+			<segment>
+				<title category="8;8,9" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Account Information</title>
+				<paragraph category="8,9.1;8,9.1">- When you register any kind of SoundCloud account, you will need to provide your email address (except when you sign-up with Facebook, Google or Apple and don’t give your permission to share it with SoundCloud), your age, and choose a password. In addition, if you purchase a Subscription, you will also need to provide <item>your real name</item>, billing address, and payment verification information. </paragraph>
+			</segment>
+			<segment>
+				<title category="8;8,9" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Profile Information</title>
+				<paragraph category="8,9.1,17;8,9.1,17">- you may choose, at your discretion, to provide additional information for your public profile on SoundCloud – for example:<list> <item>your real name</item> a user name (which may be <item>your real name</item> or a pseudonym) <item>the city and country in which you live</item> <item>a profile picture, profile header image or avatar</item> <item>information about how you categorize yourself with respect to your content (for example, whether you are a musician, a label or some other category of creator)</item> <item>details of your other websites and social media profiles, including links to those pages</item> <item>your gender if you wish to provide it</item> any additional information you choose to provide as part of your public profile, such as <item>your real name</item>, and links to your website and other social media profiles (but not your email address), will be published on your profile page. This information will be publicly accessible and may be viewed by anyone accessing the Website, or using our API or other Services.</list> </paragraph>
+			</segment>
+			<segment>
+				<title category="19;8,9" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Communications</title>
+				<paragraph category="8,9.1;8,9.1">- When you communicate with SoundCloud by email or through the Platform, or use the Platform to communicate with other users, we collect information about your communication and any information you choose to provide. </paragraph>
+			</segment>
+			<segment>
+				<title category="8;8,9" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Survey Information</title>
+				<paragraph category="8,9.1;8,9.1">- If you participate in any survey, you may provide certain personal data as part of your response, unless you respond anonymously. </paragraph>
+			</segment>
+			<segment>
+				<title category="8;8,9" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Information You Post</title>
+				<paragraph category="8,9.1;8,9.1">- You may provide personal data when you upload Sounds to the Platform, or when you post comments, or contribute to community discussions. </paragraph>
+			</segment>
+		</segment>
+		<segment>
+			<title category="8,9.2;8,9.2" depth="1" font-size="0.88" font-weight="1.0" tagname="h3">Information We Collect Automatically</title>
+			<paragraph category="6,8,9.2;6,8,9.2">There is certain information that we collect automatically as the result of your use of the Platform, subject to the choices you make in your Settings , or through the use of cookies and other web analytics services as described in our Cookie Policy . This information generally includes: </paragraph>
+			<segment>
+				<title category="8;8,9.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Usage Information</title>
+				<paragraph category="8,9.2;8,9.2">- We collect information about your interactions with the Platform, including the pages that you visit and links you click on, streaming, offline listening or downloading tracks, uploading or recording tracks, connecting your Facebook, Google or Apple account, sharing a Sound with another user, following or unfollowing another user, posting a comment, performing a search, the time, frequency and duration of your visits to the Platform, and whether you interact with email messages, for example, if you opened, clicked on, or forwarded the email message. </paragraph>
+			</segment>
+			<segment>
+				<title category="8;8,9.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Log Data</title>
+				<paragraph category="8,9.2;8,9.2">– We automatically collect log information when you use the Platform, even if you have not registered for an account or logged in. That information includes, among other things: details about how you’ve used the Platform (including links to third party sites or services), Internet Protocol (IP) address, access times, your browser type and operating system, device information, device event information (e.g., crashes, browser type), and the page you’ve viewed or engaged with before or after using the Platform. </paragraph>
+			</segment>
+			<segment>
+				<title category="19;8,9.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Cookies</title>
+				<paragraph category="18.1;18.1">– We use cookies and other similar technologies, such as pixels, local storage, and mobile device identifiers and may also allow our business partners to use these tracking technologies on the Platform, or engage others to track your behavior on our behalf. For more information on our use of these technologies, see our Cookie Policy . </paragraph>
+			</segment>
+			<segment>
+				<title category="8;8,9.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Location Data</title>
+				<paragraph category="4,8,9.2,11;4,8,9.2,11">– When you use certain features of the Platform, we may collect data about your general location (e.g. IP address). We use this data to provide you with location-based services (such as advertising and personalized content). Most mobile devices allow you to control or disable the use of location services for applications in the device’s settings. </paragraph>
+			</segment>
+			<segment>
+				<title category="8;8,9.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Device Information</title>
+				<paragraph category="8,9.2,11;8,9.2,11">– We collect information from and about the devices you use, including how you interact with the Platform and information about the device itself, such as the hardware model, operating system, IP addresses, cookie information, device settings, mobile carrier information, mobile device and advertising identifiers, apps installed, browser type, language, battery level and time zone. Apple’s iOS Advertising Identifier (IDFA) and Google’s Android Advertising ID are examples of device identifiers. This information allows us to recognize and associate your activity, and provide personalized content and advertising, consistently across all of your devices. </paragraph>
+			</segment>
+			<segment>
+				<title category="19;8,9.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Software Development Kits</title>
+				<paragraph category="8,9.2,11;8,9.2,11">(“SDK”) - We may use third parties including our business partners and service providers who use mobile SDKs to collect information and information related to how mobile devices interact with the Platform. An SDK is computer code that app developers can include in their apps to enable ads to be shown, data to be collected and related services and functionality to be implemented. We may use this technology, for instance, to analyze how you interact with content and advertisements and to enable analytics or other features through mobile devices. </paragraph>
+			</segment>
+			<segment>
+				<title category="19;8,9.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">SoundCloud Widget</title>
+				<paragraph category="8,9.2,11;8,9.2,11">- Other websites may integrate SoundCloud widgets; when you visit a website with a SoundCloud widget embedded, we may receive certain information, including information about the website you visited. SoundCloud and the widget may be able to recognize you in order to retrieve your library of content, and in some cases the widget may be used to show personalized content. We know when you interact with a widget, and websites containing the widgets may receive this information as well. </paragraph>
+			</segment>
+		</segment>
+		<segment>
+			<title category="8,9.3;8,9.3" depth="1" font-size="0.88" font-weight="1.0" tagname="h3">Information From Third Parties</title>
+			<segment>
+				<title category="19;8,9.3" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Single-Sign Ons</title>
+				<paragraph category="8,9.3;8,9.3">– If you sign up for SoundCloud through a third party application like Facebook, Google or Apple, you authorize us to collect your authentication information, such as your username and encrypted access credentials, and other information available through the third party application account, including the following information: </paragraph>
+				<segment>
+					<title category="19;8,9.3" depth="6" font-size="0.88" font-weight="1.0" tagname="strong">Facebook</title>
+					<paragraph category="4.5,4.4,8,9.3;4.5,4.4,8,9.3">– SoundCloud allows you to sign up and sign in using your Facebook account. If you sign up using Facebook, Facebook will ask your permission to share certain information from your Facebook account with SoundCloud. This includes your Facebook user ID, first name, last name, email address (optional), gender, locale, your time zone, birthday and profile picture. This information is collected by Facebook and is provided to SoundCloud under the terms of Facebook’s Privacy Policy . You can control the information that we receive from Facebook using the privacy and data settings in your Facebook account. If you signed up using Facebook by mistake, you can delete your account from the Account page within your Settings at any time, or you can contact us via the Help Center . </paragraph>
+				</segment>
+				<segment>
+					<title category="19;8,9.3" depth="6" font-size="0.88" font-weight="1.0" tagname="strong">Google</title>
+					<paragraph category="4.5,4.4,8,9.3;4.5,4.4,8,9.3">– You can sign up and log in to SoundCloud using your Google account. When you sign up using Google, Google will ask your permission to share certain information from your Google account with SoundCloud. This includes your Google email address, birthdate (optional), gender (optional), and avatar (optional). This information is collected by Google and is provided to us under the terms of Google’s Privacy Policy . You can regulate the information that we receive from Google using your Google activity controls . If you signed up using Google by mistake, you can delete your account from the Account page within your Settings at any time, or you can contact us via the Help Center . </paragraph>
+				</segment>
+				<segment>
+					<title category="19;8,9.3" depth="6" font-size="0.88" font-weight="1.0" tagname="strong">Apple</title>
+					<paragraph category="4.5,4.4,8,9.3;4.5,4.4,8,9.3">- You may also sign up and log in to SoundCloud using your Apple-ID. When you sign up using your Apple-ID, Apple will ask your permission to share certain information from your Apple account with SoundCloud. This includes your Apple email address, birthdate (optional), gender (optional), and avatar (optional). This information is collected by Apple and is provided to us under the terms of Apple’s Privacy Policy . You can regulate the information that we receive from Apple using your Apple-ID settings. If you signed up using Apple by mistake, you can delete your account from the Account page within your Settings at any time, or you can contact us via the Help Center . </paragraph>
+				</segment>
+			</segment>
+			<segment>
+				<title category="19;8,9.3" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Service Providers and Business Partners</title>
+				<paragraph category="8,9.3,11;8,9.3,11">– We may also receive information about you from our service providers and business partners, including companies that assist with payment processing, analytics, advertising, marketing, data processing and management (e.g. to measure ad quality and responses to ads, and to display ads that are more likely to be relevant to you, including for SoundCloud products) account management, hosting, customer and technical support, content moderation, and other services which we use to personalize your SoundCloud experience. We explain in more detail why and how we use this information below. </paragraph>
+			</segment>
+		</segment>
+	</segment>
+	<segment>
+		<title category="11;11" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">How We Use Your Information</title>
+		<paragraph category="6,11;6,11">We use the personal information we collect from you, including with the help of automated systems and decision making, for a range of different business purposes according to different legal bases of processing and subject to the choices you make in your Settings . </paragraph>
+		<segment>
+			<title category="19;11" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Provide, Improve, and Develop the Platform</title>
+			<paragraph category="10,11;10,11">We process this information primarily for the adequate performance of our contract with you (e.g. Terms of Use ). We may also process this information in light of our legitimate interest in improving the Platform and giving our users the best experience.<list> <item>To operate and maintain your SoundCloud account, and to provide you with access to and use of the Platform. Your email address and password are used to identify you when you log into the Platform. Your device-IDs are used to ensure that you are in control of the devices that have access to your Subscription.</item> <item>To identify you as the creator of the Sounds that you upload, the comments that you post and/or the other contributions that you make to the Platform.</item> <item>To provide creators with stats and insights about users’ listening behavior of their Sounds, (i.e. streaming and downloading their Sounds or following their profiles).</item> <item>We conduct surveys and research, test features in development, and analyze the information we have to evaluate and improve products and services, develop new features, and conduct audits and troubleshooting activities.</item> <item>If you purchase a Subscription, your name, address and payment verification information will be used to process your account subscription and renewals and to collect your payment. All payment verification information is transmitted using industry-standard SSL (Secure Socket Layer) encryption. SoundCloud also complies with the Payment Card Industry Security Standards.</item> <item>Your email will be used to send you service updates and notifications about your account.</item> <item>To respond to you about any comment or enquiry you have submitted.</item> <item>We use your age to enable age restrictions.</item></list> </paragraph>
+		</segment>
+		<segment>
+			<title category="19;11" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Maintain a Safe and Secure Environment</title>
+			<paragraph category="10,11;10,11">We process this information in light of our legitimate interest in improving the Platform and giving our users the best experience, and where it is necessary for the adequate performance of our contract with you (e.g. Terms of Use).<list> <item>Detect and prevent fraud, spam, abuse, security incidents, and other suspicious activity.</item> <item>Verify and authenticate your identity and prevent unauthorized or illegal activity.</item> <item>Enhance the safety and security of our products and services.</item> <item>Conduct security investigations and risk assessments.</item> <item>To prevent or take action against activities that are, or may be, in breach of our Terms of Use, Community Guidelines or applicable law.</item> <item>To provide you with customer and technical support.</item></list> </paragraph>
+		</segment>
+		<segment>
+			<title category="19;11" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Personalize Content, Advertising and Marketing</title>
+			<paragraph category="4.1,6,10,11;4.1,6,10,11">We process this information based on your consent. You can revisit your choices in your settings .<list> <item>To improve your experience on the Platform by providing personalized content, recommendations, and features.</item> <item>To customize the content and measure performance of any email, push notification, or in-app message we may send to you.</item> <item>Administer sweepstakes, contests, or other promotional activities or events sponsored or managed by SoundCloud or its partners.</item> <item>Use automated systems and decision making to profile user characteristics and infer preferences based on information that you provide to us, your interactions with the Platform and content, your profile information, and information obtained from third parties. This data is used to create groups of users, called segments, who share similar characteristics and interests; we use segments to serve personalized content, advertising, and marketing messages. We also use automated systems to associate your activity over time across devices, and may associate activity and accounts under a single user ID, in order to determine that certain devices are related to each other and provide you with a personalized experience across devices and platforms.</item> <item>To deliver targeted marketing for SoundCloud products on and off the Platform and measure the success of those campaigns. When you see our ads on a third party website or apps, we or third party services we engage for this purpose, may collect information that your browser or mobile app makes available when seeing the ad (e.g IP address, referral URL, browser details, timestamp of request), including whether a click converted to an actual purchase of a Subscription. Please see the privacy policy of such third party websites to understand what data may be collected and how to opt-out.</item> <item>Ads are more effective when they are shown to people who are likely to be interested in the product or service advertised. For this reason, we use the information we collect and receive to help us select which ads to show you on behalf of advertisers. This includes information you choose to provide to us (e.g. age and gender) and make available to us when you interact with the Platform (e.g. by listening, liking or creating playlists), as well as Device Information and general location data. We may also display ads based on the page you’re on or content you have recently viewed, searched, or listened to. This allows us to show you ads that will likely be more relevant and interesting to you.</item> <item>When we engage third party services such as ad-networks and exchanges that enable us showing you targeted ads, we may also allow them to collect certain information such as cookie data and Device Information. That information is used to synch or match users to segments and serve targeted advertising, including based on device activity, inferred interests, and general location information. We act based on your consent which you may revisit at all times in your settings .</item> <item>Combine information we collect about you with information from business partners and use it to serve more relevant advertising.</item></list> </paragraph>
+			<paragraph category="4.1,11;4.1,11">Furthermore, we may use your data for other purposes, provided we disclose the purposes and use to you at the relevant time, and provided that you consent to the proposed use of your personal data. Which of your data we process on the basis of your consent depends on the purpose of your consent. Typical purposes include:<list> <item>Subscription to a newsletter.</item> <item>Participation in surveys and market research studies.</item> <item>Using cookies and similar technologies according to your settings.</item></list> </paragraph>
+		</segment>
+	</segment>
+	<segment>
+		<title category="17;17" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">Sharing of Your Information</title>
+		<paragraph category="17;17">This section describes how the information collected or generated through your use of the Platform may be shared by you or by us. </paragraph>
+		<segment>
+			<title category="19;17" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Through Your Profile</title>
+			<paragraph category="17.1,17.2;17.1,17.2">– Any information in your public profile (other than your email address) will be accessible by other users of the Platform, who may view your profile information, listen to and comment on any of your public Sounds, add themselves to your list of followers, and send you messages. Creators will be able to see in their statistics that you have listened to the tracks they uploaded. They will also be able to see how many times you have listened to any of their Sounds, and that you are following them. This is to allow creators to track the popularity of their Sounds. Similarly, if you comment on any Sounds on the Platform, your comments will be available to all users of the Platform. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;17.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">With Your Consent</title>
+			<paragraph category="4.1,17.2;4.1,17.2">– We will disclose your information if you have agreed that we may do so. We will make this clear to you at the point at which we collect your information, including the purpose(s) for which we will use the data. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;17.1" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Service Providers</title>
+			<paragraph category="17.1,17.2;17.1,17.2">– We use a variety of service providers, some of who may be located outside of the European Economic Area (“EEA”), to provide services to us or to our users on our behalf. These service providers have access to your information solely to perform these tasks on our behalf, and are contractually bound to implement appropriate organizational and technical security measures to protect against unauthorized disclosure of personal data, and only to process personal data in accordance with our instructions and to the extent necessary to provide their services to us. We need to share your information, including personal information, in order to ensure the adequate performance of our contract with you. For instance, we work closely with Service Providers in the area of customer service (i.e. help center, content moderation), with technical service providers (e.g. running computer centres) or music service providers (i.e. rights administration) and payment service providers. These service providers may generally only process your data on our behalf under special conditions. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;17.1" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Content Partners</title>
+			<paragraph category="17.1,17.2;17.1,17.2">– The Platform allows you to listen to a variety of audio content, including licensed streaming content from our commercial content partners. We share information with these content partners that license this content to us to help them understand how the content they provide is performing, including insights about general user listening trends and preferences. We use technical measures to ensure the data is de-identified and/or aggregated so it does not identify you directly. We share this data based on our legitimate interest in helping content partners deliver high performing content and to ensure the fulfillment of our contract with those partners. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;17.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Advertising</title>
+			<paragraph category="17.1,17.2;17.1,17.2">– We share the data collected about you, generally in hashed, aggregated, or de-identified forms with advertisers and advertising service providers and business partners in order to serve ads based on your interests and measure the reach and effectiveness of those ads, including whether a user took an action (e.g. purchase a product). We may also share cookie data and device identifiers with service providers for data matching purposes, in order to improve ad targeting. If you are a user located in the EU, you can find a detailed overview of our advertisers here . </paragraph>
+		</segment>
+		<segment>
+			<title category="19;17.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Social Media</title>
+			<paragraph category="4.1,17.1,17.2;4.1,17.1,17.2">– For users outside of the EU/EEA, where permissible under applicable law, or with your explicit consent, we may share your email address (in hashed form, so that it does not identify you) with Facebook in order to target you with ads for SoundCloud products on Facebook and on third party websites and applications in the Facebook Audience Network . We also allow Facebook and other social media platforms to collect information through cookies and similar technologies like pixels in order to serve ads for SoundCloud on those third party websites and apps and drive users to our Platform. In order to measure the effectiveness of and optimize these marketing campaigns, these technologies track activity taken across devices after a user sees a SoundCloud ad, in order to determine performance metrics like sign ups, visits to the Platform, and purchases. We undertake these activities based on our legitimate interest in acquiring new customers and offering products we think you may be interested in. Any questions regarding how these social media platform service provider processes your personal data should be directed to such third party platform. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;17.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Aggregated Data</title>
+			<paragraph category="17.2;17.2">– We may also share aggregated information (information about our users that we render in such a way that it no longer identifies or references an individual user) and other pseudonymised information for regulatory compliance, industry and market analysis, demographic profiling, marketing and advertising, and other business purposes. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;17.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">API Integrations</title>
+			<paragraph category="4,17.1,17.2;4,17.1,17.2">– SoundCloud has an open application-programming interface (API), which enables application developers to integrate elements of the Platform into other apps. Some of these developers may be located outside of the EEA. Any information you choose to make public on the Platform, including your public profile information and any public Sounds, may be accessible to these developers, subject to our API Terms of Use . Please bear this in mind when deciding what information to publish on your profile. For information on how to limit the information that is available through the API, please see the <item>Your Choices and Controls</item> section below. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;17" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Third Party Applications</title>
+			<paragraph category="4,17.1,17.2;4,17.1,17.2">– If you choose to connect your SoundCloud account to other apps or social networks such as Facebook you may be sharing certain information with these apps or networks. Content that you share with Facebook will appear on your timeline and in your Facebook friends’ newsfeeds. In the case of connected apps, you will need to provide the app developer with full access to your SoundCloud® account in order to upload and download Sounds, or comment on, favorite, or repost Sounds from within the app. This means sharing your public information, plus access to your private Sounds. SoundCloud is not responsible for these other apps or networks, so please make sure you only connect your account with apps or services that you trust. For information on how to control the information that you share, and how to disconnect your account from these apps, please see the <item>Your Choices and Controls</item> section below. If you do not want this information shared with Facebook or Google, please change your SoundCloud Settings on our Platform or in those networks. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;17.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Compliance with Laws</title>
+			<paragraph category="17.1,17.2;17.1,17.2">– We may disclose your information to courts, law enforcement agencies, and governmental authorities (i) to comply with our legal obligations, (ii) to comply with legal process and to respond to claims asserted against SoundCloud, (iii) to respond to verified requests relating to a criminal investigation or alleged or suspected illegal activity or any other activity that may expose us, you, or any other of our users to legal liability, (iv) to enforce and administer our Terms of Use and other agreements with users, or (v) to protect the rights, property or personal safety of SoundCloud, its employees, and members of the public. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;17.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Protecting our Rights</title>
+			<paragraph category="17.2;17.2">– We may disclose your information if we feel this is necessary in order to protect or defend our legitimate rights and interests, or those of our users, employees, directors, officers, or shareholders, and/or to ensure the safety and security of the Platform and/or the SoundCloud community. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;17.1" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">To Our Affiliates</title>
+			<paragraph category="17.1,17.2;17.1,17.2">– We may share your personal information within the SoundCloud Group in order to provide the Platform and for any other purposes described in this Privacy Policy. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;17.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Change of Control</title>
+			<paragraph category="17.1,17.2;17.1,17.2">– We may also share your personal data as part of a sale, merger or change in control of SoundCloud, or in preparation for any of these events. Any other entity that buys us or part of our business will have the right to continue to use your data, but only in the manner set out in this Privacy Policy unless you agree otherwise. </paragraph>
+		</segment>
+		<segment>
+			<title category="19;17.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Analytics, Targeted Communications &amp; Advertising</title>
+			<paragraph category="4.1,17.2;4.1,17.2">- Here you will find a list of external partners with whom we cooperate and share personal data (often in aggregated or de-identified forms) for analytics, targeted communications and targeted advertising purposes, should you have consented and not turned these toggles off in your settings . Please find more information on this below in </paragraph>
+		</segment>
+	</segment>
+	<segment>
+		<title category="19;19" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">Cookies and Similar Technology</title>
+		<paragraph category="18.1;18.1">As further described in our Cookie Policy we use cookies and similar technologies (e.g., pixels, local storage, and device identifiers) to recognize you and/or your device(s) on and off the Platform, and across devices and devices. To the extent allowed by your settings or your device, we also allow third parties to use cookies as described in our Cookie Policy in order to track user behavior on and off the Platform in order to show you ads based on your interests and preferences. You can control cookies through your browser and other tools as described in the Cookie Policy. </paragraph>
+	</segment>
+	<segment>
+		<title category="12;12" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">Information Security</title>
+		<paragraph category="12;12">SoundCloud maintains appropriate technical, administrative, and physical safeguards that are designed to prevent unauthorized access, use or disclosure of personal information we collect or store and to ensure a level of security appropriate to the risk of varying likelihood and severity for the rights and freedoms of natural persons that may be involved with our processing operations. We regularly monitor our systems for possible vulnerabilities and attacks. However, it is not possible to guarantee the security of information transmitted over the Internet. You use the Platform and provide us with information at your own discretion and risk. </paragraph>
+	</segment>
+	<segment>
+		<title category="14;14" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">International Data Transfers</title>
+		<paragraph category="14;14">SoundCloud operates globally and may share your information internally within the SoundCloud Group, and third parties for the purposes described in this Privacy Policy. Information collected within the EEA may, for example, be transferred to countries outside of the EEA for the purposes as described in this Privacy Policy. We utilize appropriate safeguards such as Standard Contractual Clauses approved by the European Commission, or another legally approved mechanism, to ensure the lawful transfer of your personal data outside of the EEA. The Standard Contractual Clauses can be accessed at any time at https://eur-lex.europa.eu/legal-content/ALL/?uri=CELEX%3A32010D0087 . Alternatively, you can request these documents from us using the contact details given below. </paragraph>
+	</segment>
+	<segment>
+		<title category="15;15" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">Children</title>
+		<paragraph category="1.2,15,16.3;1.2,15,16.3">SoundCloud is not intended for use by children. Anyone under the age of 16 in the EEA, or 13 in the United States and the rest of the world, is not permitted to use the Platform and must not attempt to register an account or submit any personal information to us. We do not knowingly collect any personal information from any person who is under the age of 16 or 13, as the case may be, or allow them to register an account. If it comes to our attention that we have collected personal data from a person under the age of 16 or 13, as applicable, we will delete this information as quickly as possible. If you have reason to believe that we may have collected any such personal data, please notify us immediately at dataprotection@soundcloud.com . </paragraph>
+	</segment>
+	<segment>
+		<title category="4,6;4,6" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">Your Choices and Controls</title>
+		<paragraph category="4,6;4,6">We do our best to give you as much choice as possible regarding the amount of information you provide to us, and the control you have over that information. </paragraph>
+		<segment>
+			<title category="4,6;4,6" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Managing SoundCloud Settings</title>
+			<paragraph category="4;4">. If you register an account, you may manage the content and information you share when you use SoundCloud through your account Settings , including for the features explained below. You are solely responsible for keeping your Settings up-to-date. </paragraph>
+			<segment>
+				<title category="19;4,6" depth="6" font-size="0.88" font-weight="1.0" tagname="strong">Email</title>
+				<paragraph category="4.3;4.3">– You can adjust your Settings in the Notification tab to disable email and desktop notifications (other than important service updates and essential notifications about the Platform or your account). All commercial emails and newsletters also allow you to unsubscribe at any time. </paragraph>
+			</segment>
+			<segment>
+				<title category="19;4,6" depth="6" font-size="0.88" font-weight="1.0" tagname="strong">Analytics</title>
+				<paragraph category="4,6;4,6">– To control whether we collect analytics and usage information, including through cookies and similar technologies, you can adjust your Settings in the “Analytics” tab. </paragraph>
+			</segment>
+			<segment>
+				<title category="19;4,6" depth="6" font-size="0.88" font-weight="1.0" tagname="strong">Marketing</title>
+				<paragraph category="4,6;4,6">– If you do not want to receive personalized ads, offers or other marketing messages for SoundCloud products or services, you can adjust your Settings in the “Communications” tab. </paragraph>
+				<segment>
+					<title category="19;4,6" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Advertising</title>
+					<paragraph category="4,6;4,6">– If you do not want SoundCloud to deliver “interest based” or personalized ads for third party products, you can adjust your Settings in the “Advertising” tab. Please note, however, that even if you opt out of personalized ads, you may still see ads, but they will likely not be as relevant or useful to you. </paragraph>
+				</segment>
+			</segment>
+			<segment>
+				<title category="19;4,6" depth="6" font-size="0.88" font-weight="1.0" tagname="strong">Content Sharing</title>
+				<paragraph category="4.1,6;4.1,6">– It’s not possible to make your account entirely private. However, you do have the option to make all of your tracks, playlists and other uploads private. This means that no one will be able to access and listen to your Sounds without your explicit permission. You can learn more about these settings here . </paragraph>
+			</segment>
+			<segment>
+				<title category="19;4,6" depth="6" font-size="0.88" font-weight="1.0" tagname="strong">Third Party Apps</title>
+				<paragraph category="4,6;4,6">– If you have chosen to connect your account to a third-party application, like Facebook or Google, you can disable permission for the app by adjusting your Settings in the “Connections” tab. </paragraph>
+			</segment>
+			<segment>
+				<title category="19;4,6" depth="6" font-size="0.88" font-weight="1.0" tagname="strong">Third Party Developers</title>
+				<paragraph category="4.9,6;4.9,6">– SoundCloud has an open API, which allows third party developers to build some really cool apps as an extension of the Platform. If you would prefer that your Sounds are not made available to third party app developers, you can disable API access within the sound page for each of the Sounds that you upload. Click on the pencil icon in the waveform player, and uncheck the “Apps enabled” box at the bottom of the page. Please note that your public profile information will still be accessible, but this does not include anything that is not publicly available on the Website. </paragraph>
+			</segment>
+			<segment>
+				<title category="19;4.9,6" depth="6" font-size="0.88" font-weight="1.0" tagname="strong">Deleting Your Account</title>
+				<paragraph category="4.4,4.9,6;4.4,4.9,6">– If you have an account and would like to delete it, you may do so by adjusting you Settings in the Account tab. If you delete your account, all data associated with your account (except for backup copies), including the Sounds that you have uploaded and the usage data associated with those Sounds, will be deleted and may not be recoverable. We therefore advise you to copy or backup all content uploaded to your account before deletion. Even if you delete your SoundCloud account, it is possible that your information may still show up in some internet search results for a short while afterwards, if the search engine maintains a temporary cache of web pages. Search engines’ caching processes are outside of SoundCloud’s control and therefore we cannot be responsible for any information that remains cached by search engines after that information has been removed from the Platform. Please note that deleting any SoundCloud Apps, or any third party apps to which your SoundCloud account is connected, will not delete your SoundCloud account. Similarly, if you delete a third party app that is connected to your SoundCloud account over our API, this will not necessarily delete all data about your SoundCloud activity from within that third party app. You will need to refer to the app provider’s terms of use and privacy policy to find out how to delete data about your SoundCloud activity from that third party app. </paragraph>
+			</segment>
+			<segment>
+				<title category="19;4,6" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Managing Device Settings</title>
+				<paragraph category="4.9,6;4.9,6"><list>On your mobile device, enable the “Limit Ad Tracking” setting in your iOS phone’s settings, or the setting to “Opt out of Ads Personalization” in your Android phone’s settings. To opt-out of location tracking when using our Apps, you can use the settings of your device. You can disable mobile analytics and bug reporting through these same settings as well.</list> </paragraph>
+			</segment>
+			<segment>
+				<title category="19;4,6" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Managing Browser Settings</title>
+				<paragraph category="4.4,6,11;4.4,6,11"><list>To control cookies, you can modify your settings in most web browsers to accept or deny cookies or to request your permission each time a site attempts to set a cookie. You can also manually delete previously stored cookies at any time. Please note that if you choose to block cookies, doing so may impair the Platform or prevent certain elements of it from functioning.</list> </paragraph>
+			</segment>
+			<segment>
+				<title category="19;4,6" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Additional Choices and Controls</title>
+				<paragraph category="4.9;4.9"><item>For more information about analytics and advertising cookies and how you can opt out, you can visit the Network Advertising Initiative’s opt-out page , the Digital Advertising Alliance’s opt-out page , or http://youronlinechoices.eu .</item> </paragraph>
+			</segment>
+		</segment>
+	</segment>
+	<segment>
+		<title category="4;4" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">Exercising Your EU Privacy Rights</title>
+		<paragraph category="1.2,4;1.2,4">If you are a user residing in the EU/EEA, you may exercise any of the rights described in this section through the Help Center or by contacting us at dataprotection@soundcloud.com . Please note that we may ask you to verify your identity before taking further action on your request. </paragraph>
+		<segment>
+			<title category="19;4.2,4.7" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Data Access and Portability</title>
+			<paragraph category="4.2,4.7;4.2,4.7"><list>You may be entitled to request copies of your personal information held by us. While a lot of the personal information you provide to us can be accessed in your account Settings, you may also be entitled to request copies of personal information you have provided to us in machine-readable format.</list> </paragraph>
+		</segment>
+		<segment>
+			<title category="19;4.3" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Change or Correct Data</title>
+			<paragraph category="4.3;4.3"><list>Where you cannot update data yourself through an account, you have the right to ask us to correct, change, update or rectify your data.</list> </paragraph>
+		</segment>
+		<segment>
+			<title category="19;4.4,16" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Data Retention and Deletion</title>
+			<paragraph category="4.4,10,16.1;4.4,10,16.1"><item>We generally retain data for as long as is necessary to provide services to you under your account or, for as long as is necessary to provide the Platform to you as a registered or unregistered user.</item> <item>You have the right to ask us to delete all or some of the personal data we hold about you. If you have an account, you can also delete your account through the Settings at any time as described below.</item> <item>We may need to retain some of your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (e.g. under applicable tax or commercial law or to prevent fraud and abuse and maintain and enhance security). Afterwards, we delete the data immediately, unless we need the data until the expiry of the statutory period of limitation for the purpose of providing evidence for civil law claims or because of statutory storage obligations (e.g. for accounting reasons).</item> </paragraph>
+		</segment>
+		<segment>
+			<title category="19;4.6" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Objection to Processing</title>
+			<paragraph category="4.6,10;4.6,10"><item>You have the right to object to processing your personal information on grounds relating your particular situation at any time (in particular, where we don’t have to process the information to meet a contractual or other legal requirement, or where we are using the information on the basis of our legitimate interests).</item> <item>If you object to such processing SoundCloud will no longer process your personal information for these purposes unless we can demonstrate compelling legitimate grounds for such processing or such processing is required for the establishment, exercise or defense of legal claims or obligations.</item> <item>Where your personal information is processed for direct marketing purposes, you have the right to object to such processing of your personal data at any time and ask SoundCloud to cease processing your data for these direct marketing purposes.</item> </paragraph>
+		</segment>
+		<segment>
+			<title category="19;4.5" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Restriction of Processing</title>
+			<paragraph category="4.5;4.5"><list>Under certain circumstances, you may have the right to limit the ways in which we use your personal information.</list> </paragraph>
+		</segment>
+		<segment>
+			<title category="19;4.9" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Withdrawing Consent</title>
+			<paragraph category="4.1,4.9;4.1,4.9"><item>Where you provide consent to the processing of your personal information by SoundCloud, you may withdraw your consent at any time by changing your account Settings or by sending a communication to SoundCloud specifying the specific consent you are withdrawing. Please note that the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal.</item> </paragraph>
+		</segment>
+		<segment>
+			<title category="19;7" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Lodging Complaints</title>
+			<paragraph category="7;7"><item>You have the right to lodge complaints about the data processing activities carried out by SoundCloud before a competent data protection authority. A list of EU data protection authorities is available at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080 .</item> </paragraph>
+		</segment>
+	</segment>
+	<segment>
+		<title category="18.2;18.2" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">Notice To California Users</title>
+		<paragraph category="18.2;18.2">Pursuant to the California Consumer Privacy Act of 2018 (“CCPA”), we are providing the following details regarding the categories of personal information about California residents we have collected or disclosed within the preceding 12 months. </paragraph>
+		<paragraph category="8.1,9;18.2">We collected, including through service providers, the following categories of personal information:<list> <item>Identifiers, such as your name, email address, birthday, profile name, as well as IP addresses, device IDs, mobile advertising IDs, anonymous SoundCloud user IDs, and other similar identifiers</item>;</item> <item>Payment and financial information you provide when you purchase a Subscription or use certain features of the Platform</item>;</item> <item>Characteristics about you like any gender information you choose to provide when you register an account on the Platform</item>;</item> <item>Commercial information, such as Subscription and other purchase or transaction information related to your use of the Platform</item>;</item> <item>Internet or other network activity information, including browsing and search history and other information about your use of the Platform, as well as information about how you interact with ads for SoundCloud off the Platform</item>;</item> <item>Geolocation data derived from IP addresses</item>;</item> <item>Audio, visual, and other electronic information, such as sound recordings, images, and comments</item>;</item> <item>Education information to verify your student status if you purchase a Go+ for Students Subscription; and</item> <item>Inferences drawn from any of the personal information above to create a profile or segment about you so we can provide you with personalized content and advertising</item>.</item> </list></paragraph>
+		<segment>
+			<title category="8,9;18.2" depth="1" font-size="0.88" font-weight="1.0" tagname="h3">Sources of Personal Information</title>
+			<paragraph category="8,9.1,9.3;18.2">We collected this personal information directly from California residents themselves, as well as from other sources, such as our business partners and third-party applications (for example, Facebook and Google) if you sign up to SoundCloud through such an application. </paragraph>
+		</segment>
+		<segment>
+			<title category="11;18.2" depth="1" font-size="0.88" font-weight="1.0" tagname="h3">Purposes</title>
+			<paragraph category="11;18.2">We used this personal information or a range of operational business purposes, including:<list> <item>To operate and maintain the Platform and your account;</item> <item>To market and sell our products and services;</item> <item>To provide personalized content and ads;</item> <item>To perform research and development;</item> <item>To perform data and business analytics;</item> <item>To detect and prevent fraud or abuse;</item> <item>To perform identity verification;</item> <item>To process Subscription payments;</item> <item>To process user inquiries and requests;</item> <item>To perform security and other risk testing;</item> <item>To undertake quality assurance measures;</item> <item>To maintain our systems and infrastructure;</item> <item>To comply with law or exercise or defend legal claims;</item> <item>To perform accounting, audits and other internal functions; and</item> <item>To otherwise operate our business and achieve our business objectives</item> </list></paragraph>
+		</segment>
+		<segment>
+			<title category="17;18.2" depth="1" font-size="0.88" font-weight="1.0" tagname="h3">Disclosures of Personal Information</title>
+			<paragraph category="17.1,17.2;18.2">We disclosed the following personal information to third parties, as set forth below, for our operational business purposes: <item>Identifiers, such as your name, email address, birthday, profile name, as well as IP addresses, device IDs, mobile advertising IDs, anonymous SoundCloud user IDs, and other similar identifiers</item> <item>Payment and financial information you provide when you purchase a Subscription or use certain features of the Platform</item> Characteristics about you like any gender
+information you choose to provide when you register an account on the Platform <item>Commercial information, such as Subscription and other purchase or transaction information related to your use of the Platform</item> <item>Internet or other network activity information, including browsing and search history and other information about your use of the Platform, as well as information about how you interact with ads for SoundCloud off the Platform</item> <item>Geolocation data derived from IP addresses</item> <item>Audio, visual, and other electronic information, such as sound recordings, images, and comments</item> <item>Education information to verify your student status if you purchase a Students Subscription</item> <item>Inferences drawn from any of the personal information above to create a profile or segment about you so we can provide you with personalized content and advertising</item> </paragraph>
+		</segment>
+		<segment>
+			<title category="19;18.2" depth="1" font-size="0.88" font-weight="1.0" tagname="h3">Sales of Personal Information</title>
+			<paragraph category="18.2;18.2">For purposes of CCPA, the disclosure of personal information to our advertising partners to provide you with personalized ads may constitute a “sale” in some instances. The personal information disclosed is limited to the following:<list> <item>IP address and device ID</item> <item>Age and gender you provide</item> <item>General location information</item> <item>Inferred music preferences based on your use of the Platform</item> </list>We do not otherwise “sell” personal information. We do not knowingly sell the personal information of individuals under the age of 16. </paragraph>
+		</segment>
+		<segment>
+			<title category="18.2;18.2" depth="1" font-size="0.88" font-weight="1.0" tagname="h3">Exercising Your California Privacy Rights</title>
+			<paragraph category="18.2;18.2">CCPA and other California law provides California residents with the additional rights listed below. You may exercise any of the rights described in this section through the Help Center or by contacting us at dataprotection@soundcloud.com or +1 833 993 2002. Please note that we may request information from you in order to verify your identity, such as your email address or a picture and then use that information to match it with information we already have. We will respond to your request consistent with applicable law. If you would like an authorized agent to make a request on your behalf, the agent may do so by contacting us at dataprotection@soundcloud.com or +1 833 993 2002. Upon receipt of a request by an agent, we will require the agent’s power of attorney or signed, written permission that you have authorized the agent to act on your behalf. </paragraph>
+			<segment>
+				<title category="4.2;18.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Right to Access:</title>
+				<paragraph category="4.1,4.2;18.2">You have the right to know and access what personal information we have collected about you over the past 12 months, including:<list> <item>The categories of personal information we’ve collected about you;</item> <item>The categories of sources from which the personal information is collected;</item> <item>The business or commercial purpose for collecting or selling your personal information;</item> <item>The categories of personal information about you which we shared and/or sold;</item> <item>The categories of third parties to which we have shared or sold personal information; and</item> <item>The specific pieces of personal information we have collected about you.</item></list> </paragraph>
+			</segment>
+			<segment>
+				<title category="4.4;18.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Right to Deletion:</title>
+				<paragraph category="4.4;18.2">You have the right to request that we delete personal information we have collected from you. In some instances, however, we may decline to honor your request where an exception applies. </paragraph>
+			</segment>
+			<segment>
+				<title category="4.9;18.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Right to Opt Out of a Sale:</title>
+				<paragraph category="4.9;18.2">You have the right to opt-out of any future “sale” of personal information about you by clicking here or by adjusting your Settings in the “Advertising” tab or by contacting us at dataprotection@soundcloud.com . </paragraph>
+			</segment>
+			<segment>
+				<title category="4;18.2" depth="4" font-size="0.88" font-weight="1.0" tagname="strong">Other Rights:</title>
+				<paragraph category="4,17;18.2">You can request certain information about our disclosure of personal information to third parties for their own direct marketing purposes during the preceding calendar year. This request may be made once a year. You also have the right not to be discriminated against for exercising any of the rights listed above. </paragraph>
+			</segment>
+		</segment>
+	</segment>
+	<segment>
+		<title category="1.2;1.2" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">Contact Information</title>
+		<paragraph category="3.2,7;3.2,7">If you have questions or complaints about this Privacy Policy or our practices, please contact our Data Protection Officer by email at dataprotection@soundcloud.com or write to our Data Protection Officer at SoundCloud Global Limited &amp; Co. KG, Rheinsberger Str. 76/77 10115 Berlin, Germany Attention: Data Protection Officer. </paragraph>
+	</segment>
+	<segment>
+		<title category="5;5" depth="1" font-size="1.5" font-weight="0.25" tagname="h2">Changes to this Privacy Policy</title>
+		<paragraph category="4.1,5;4.1,5">We may update this Privacy Policy from time to time in our sole discretion. If we make changes to this Privacy Policy, we will post the revised Privacy Policy on the Platform and update the “Last Amended” date below. Please be sure to periodically check this page to ensure that you are aware of any changes to this Privacy Policy. Any material changes to this Privacy Policy will be communicated to registered users by a notification to their account and/or by posting a notice of the change on the Website. Your continued access to or use of the Platform after the effective date of such changes will be subject to the revised Privacy Policy. </paragraph>
+
+	</segment>
+</policy>
