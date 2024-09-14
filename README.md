@@ -11,7 +11,6 @@ Automated compliance analysis with the EU GDPR is in high demand. However, previ
 less consideration of hierarchical information in privacy policies affect the conduct of research. To bridge these gaps, we've introduced a thorough GDPR taxonomy, a corpus of labeled policies with hierarchy, and conducted a detailed assessment of classifier performance at both sentence and document levels. This repository contains our proposed taxonomy, corpus, and all code used in the study.
 
 ![figure1](assets/Architecture_GoHPPC.png)
-![figure2](assets/Comprehensive_study_concept_classifiers.png)
 ## Project Directory Structure
 ```shell
 |-- code # Contains all the code used in the paper
