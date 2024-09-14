@@ -29,11 +29,11 @@ pt5 = torch.load(f'type10/checkpoints/{level}/2_4/epoch_9.pt')
 pt6 = torch.load(f'type10/checkpoints/{level}/2_5/epoch_9.pt')
 pt7 = torch.load(f'type10/checkpoints/{level}/2_6/epoch_9.pt')
 
-test_data_y = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_y.pkl')
-test_text = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_text.pkl')
-test_parents = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_parents.pkl')
-test_siblings = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_siblings.pkl')
-test_key = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_key.pkl')
+test_data_y = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_y.pkl')
+test_text = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_text.pkl')
+test_parents = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_parents.pkl')
+test_siblings = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_siblings.pkl')
+test_key = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_key.pkl')
 
 test_xn = np.concatenate([test_text, test_parents, test_siblings, test_key], axis=1)
 

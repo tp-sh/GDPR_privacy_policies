@@ -36,6 +36,11 @@ less consideration of hierarchical information in privacy policies affect the co
 |           |-- train_segment.py(train_document.py) # Training code at different levels
 
 |-- data  # Contains data used and generated
+|   |-- datasets # Divided datasets using GoPPC-150
+|       |-- p_dataset_document_train.csv # Document-level training datasets
+|       |-- p_dataset_document_test.csv # Document-level testing datasets
+|       |-- p_dataset_segment_train.csv # Segment-level training datasets
+|       |-- p_dataset_segment_test.csv # Segment-level testing datasets
 |   |-- GoPPC-150 # Our proposed corpus
 |       |-- 1.xml-150.xml # 150 labeled privacy policies with hierarchy 
 |   |-- comparison_experiments.csv # Mainstream ML models results using 300-D TF-IDF features of current node as input
@@ -51,25 +56,55 @@ less consideration of hierarchical information in privacy policies affect the co
 ## Requirements
 
 We have tested all the code in this repository on a server with the following configuration:
-- CPU:
-- Memory: 
-- GPU:
-- OS: Linux 11
+- CPU: Intel(R) Xeon(R) CPU E5-2640 v3
+- GPU: Tesla M40
+- OS: Ubuntu 20.04
 
 The code of this repository is written in Python. We use conda to manage the Python dependencies. Please download and install conda first.
 
 After cloning this repository, change the working directory to the cloned directory.
 
-Create a new conda environment named pp with dependencies installed:
+We recommend using Python version 3.8 or higher. Create a new conda environment named 'pp' and install the dependencies:
 
 ```
-
+conda create -n pp python=3.8
 ```
 
+Navigate to the 'code' directory and install the required packages:
 
-## Train and Test Models
+```
+cd code
+pip install -r requirements.txt
+```
 
+## Training and Testing Models
 
+###  Step1
+Navigate to the 'train' directory and download the privbert model for embedding.
+
+### Step2
+
+Fine-tune the privbert model using the training datasets:
+
+```
+python Embeeding/bert_finetuning.py
+```
+
+Refer to the logfile to select the best fine-tuned privbert model and update the path in the 'get_bert_embeddings.py' file.
+
+Generate tfidf and privbert embeddings for the training and testing datasets.
+
+```
+python Embedding/get_tfidf_embeddings.py
+python Embedding/get_bert_embeddings.py
+```
+
+### Step3
+Choose a classifier from type1 to type12 and run it using the embeddings from Step 2.
+
+Type1 to Type6 only have training code as testing is performed simultaneously.
+
+Type7 to Type12 have both training and testing code as they use a multi-neural network as a classifier. Run the training code first, select the best classifier, and then evaluate it by running the testing code.
 
 ## Citation
 

@@ -39,12 +39,16 @@ on_gpu = [args.on_gpu]
 
 LABEL_COLUMNS = ['1', '22', '38', '39', '41', '47', '54', '64', '65', '67', '85', '86', '90', '93', '2', '4', '23', '27', '28', '29', '30', '31', '32', '34', '48', '49', '55', '60', '62', '63', '87', '88', '89', '91', '92']
 
+if not os.path.exists('Embedding/logfiles'):
+    os.makedirs('Embedding/logfiles')
+if not os.path.exists('Embedding/checkpoints'):
+    os.makedirs('Embedding/checkpoints')
 
 if level == 'document':
-    file_path = "/home/user/cthlx/new_version/p_dataset_matrix_119.csv"
+    file_path = ".../data/datasets/p_dataset_document_train.csv"
     df = pd.read_csv(file_path)
 elif level == 'segment':
-    file_path = "/data/data1/cyx/p_dataset_segment_train.csv"
+    file_path = ".../data/datasets/p_dataset_segment_train.csv"
     df = pd.read_csv(file_path)
 
 df.fillna(0,inplace=True)
@@ -112,7 +116,7 @@ train_df, val_df = train_test_split(data,test_size = 0.2)
 class PrivacyDataset(Dataset):              
     def __init__(self, data:pd.DataFrame, tokenizer, max_token_len = 256):
         self.data = data
-        self.tokenizer = AutoTokenizer.from_pretrained("/data/data1/cyx/privbert")
+        self.tokenizer = AutoTokenizer.from_pretrained("privbert")
         self.max_token_len = max_token_len
         
     def __len__(self):
@@ -194,7 +198,7 @@ class PrivacyTagger(pl.LightningModule):
     def __init__(self, n_classes: int, steps_per_epoch=None, n_epochs=None):
         super().__init__()
         self.validation_step_outputs = []
-        self.bert = AutoModel.from_pretrained("/data/data1/cyx/privbert")
+        self.bert = AutoModel.from_pretrained("privbert")
         hidden_size = self.bert.config.hidden_size
         self.classifier = nn.Linear(hidden_size, n_classes)
         self.steps_per_epoch = steps_per_epoch
@@ -261,7 +265,7 @@ class PrivacyTagger(pl.LightningModule):
             f1 = f1_score(labelss, predictionss, average='binary')
             f1s.append(f1)
 
-        with open(f'logfiles/{level}.txt','a') as logfile:
+        with open(f'Embedding/logfiles/{level}.txt','a') as logfile:
             logfile.write(level+'\n')
             logfile.write('f1s: '+str(np.mean(f1s)) + str(f1s)+'\n')
 
@@ -279,11 +283,11 @@ from pytorch_lightning.callbacks import Callback
 
 class SaveCheckpointCallback(Callback):
     def on_epoch_end(self, trainer, pl_module):
-        trainer.save_checkpoint(f"checkpoints/{level}/epoch_{trainer.current_epoch}.ckpt")
+        trainer.save_checkpoint(f"Embedding/checkpoints/{level}/epoch_{trainer.current_epoch}.ckpt")
 
 if __name__ == '__main__':
 
-    tokenizer = AutoTokenizer.from_pretrained("/data/data1/cyx/privbert")
+    tokenizer = AutoTokenizer.from_pretrained("privbert")
     data_module = PrivacyDataModule(train_df,val_df,tokenizer)
     data_module.setup(stage=None)
     model = PrivacyTagger(

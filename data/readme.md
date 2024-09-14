@@ -4,6 +4,8 @@ This directory contains the data used and generated in our study. Below is a bri
 
 - `GoPPC-150`: This directory contains 150 hierarchically labeled privacy policies. It represents our proposed corpus and serves as the foundation for our study.
 
+- `datasets`: This directory contains the GoPPC-150 dataset, which has been divided into training and testing sets for document and segment levels.
+
 - `GDPR_taxonomy.ppx`: This file presents our proposed GDPR-oriented privacy policy taxonomy. The red boxes represent newly added concepts, underlined text represents concepts covered by the ICO template, and the percentages represent coverage rates of different GDPR concepts in our new GoPPC-150 corpus.
 
 - `Torre_classifier_results.csv`: This file contains the results of our reproduction of Torre et al.'s classifier on our corpus.

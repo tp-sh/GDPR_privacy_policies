@@ -17,12 +17,12 @@ import argparse
 level = 'segment'
 
 if level == 'document':
-    file_path = "/data/data1/cyx/p_dataset_matrix_119.csv"
-    test_file_path = "/data/data1/cyx/p_dataset_matrix_30.csv"
+    file_path = ".../data/datasets/p_dataset_document_train.csv"
+    test_file_path = ".../data/datasets/p_dataset_document_test.csv"
 
 elif level == 'segment':
-    file_path = "/data/data1/cyx/p_dataset_segment_train.csv"
-    test_file_path = "/data/data1/cyx/p_dataset_segment_test.csv"
+    file_path = ".../data/datasets/p_dataset_segment_train.csv"
+    test_file_path = ".../data/datasets/p_dataset_segment_test.csv"
 
 df = pd.read_csv(file_path)
 data = df

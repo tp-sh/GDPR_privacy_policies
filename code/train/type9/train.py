@@ -43,16 +43,16 @@ elif aim == '2_6':
     LABEL_COLUMNS = ['91', '92']
 
 
-data_y = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/train_y.pkl')
-test_data_y = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_y.pkl')
-train_text = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/train_text.pkl')
-test_text = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_text.pkl')
-train_parents = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/train_parents.pkl')
-test_parents = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_parents.pkl')
-train_siblings = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/train_siblings.pkl')
-test_siblings = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_siblings.pkl')
-train_key = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/train_key.pkl')
-test_key = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_key.pkl')
+data_y = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/train_y.pkl')
+test_data_y = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_y.pkl')
+train_text = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/train_text.pkl')
+test_text = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_text.pkl')
+train_parents = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/train_parents.pkl')
+test_parents = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_parents.pkl')
+train_siblings = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/train_siblings.pkl')
+test_siblings = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_siblings.pkl')
+train_key = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/train_key.pkl')
+test_key = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_key.pkl')
 
 
 

@@ -12,10 +12,10 @@ from nltk.corpus import stopwords
 torch.manual_seed(0)
 np.random.seed(0)
 
-model_path = '/data/data1/cyx/privbert'
+model_path = 'privbert'
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
-checkpoint = torch.load('checkpoints/segment/epoch_9.ckpt')
+checkpoint = torch.load('Embedding/checkpoints/segment/epoch_9.ckpt')
 state_dict_full_model = checkpoint['state_dict']
 
 model = AutoModel.from_pretrained(model_path).to(device)
@@ -144,15 +144,15 @@ def get_bert_embedding(file_path, save_path, attribute, model_path=model_path, d
 def embedding(level, attribute):
 
     if level == 'document':
-        file1 = "/data/data1/cyx/p_dataset_matrix_119.csv"
-        dir1 = "PrivBert_Embeddings3/document/train_"
-        file2 = "/data/data1/cyx/p_dataset_matrix_30.csv"
-        dir2 = "PrivBert_Embeddings3/document/test_"
+        file1 = ".../data/datasets/p_dataset_document_train.csv"
+        dir1 = "Embedding/PrivBert_Embeddings3/document/train_"
+        file2 = ".../data/datasets/p_dataset_document_test.csv"
+        dir2 = "Embedding/PrivBert_Embeddings3/document/test_"
     elif level == 'segment':
-        file1 = "/data/data1/cyx/p_dataset_segment_train.csv"
-        dir1 = "PrivBert_Embeddings3/segment/train_"
-        file2 = "/data/data1/cyx/p_dataset_segment_test.csv"
-        dir2 = "PrivBert_Embeddings3/segment/test_"
+        file1 = ".../data/datasets/p_dataset_segment_train.csv"
+        dir1 = "Embedding/PrivBert_Embeddings3/segment/train_"
+        file2 = ".../data/datasets/p_dataset_segment_test.csv"
+        dir2 = "Embedding/PrivBert_Embeddings3/segment/test_"
 
     get_bert_embedding(file1, dir1+attribute+".pt", attribute)
     get_bert_embedding(file2, dir2+attribute+".pt", attribute)
@@ -160,9 +160,9 @@ def embedding(level, attribute):
 
 if __name__ == "__main__":
 
-    #embedding('document', 'text')
-    #mbedding('document', 'parents')
-    #embedding('document', 'siblings')
+    embedding('document', 'text')
+    embedding('document', 'parents')
+    embedding('document', 'siblings')
 
     embedding('segment', 'text')
     embedding('segment', 'parents')

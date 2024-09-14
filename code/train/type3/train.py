@@ -14,16 +14,16 @@ import joblib
 level = 'document'
 
 
-data_y = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/train_y.pkl')
-test_data_y = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_y.pkl')
-train_text = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/train_text.pkl')
-test_text = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_text.pkl')
-train_parents = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/train_parents.pkl')
-test_parents = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_parents.pkl')
-train_siblings = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/train_siblings.pkl')
-test_siblings = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_siblings.pkl')
-train_key = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/train_key.pkl')
-test_key = joblib.load(f'/data/data1/cyx/Embedding/TFIDF_Embeddings/{level}/test_key.pkl')
+data_y = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/train_y.pkl')
+test_data_y = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_y.pkl')
+train_text = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/train_text.pkl')
+test_text = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_text.pkl')
+train_parents = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/train_parents.pkl')
+test_parents = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_parents.pkl')
+train_siblings = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/train_siblings.pkl')
+test_siblings = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_siblings.pkl')
+train_key = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/train_key.pkl')
+test_key = joblib.load(f'Embedding/TFIDF_Embeddings/{level}/test_key.pkl')
 
 #xn = train_text
 #test_xn = test_text
@@ -46,6 +46,9 @@ LABEL_COLUMNS = []
 modellist = ['1', '22', '38', '39', '41', '47', '54', '64', '65', '67', '85', '86', '90', '93',  '2', '4', '23', '27', '28', '29', '30', '31', '32', '34','48', '49','55', '60', '62', '63','87', '88', '89','91', '92']
 for i in range(1,97):
     LABEL_COLUMNS.append(str(i))
+
+if not os.path.exists('type3/logfiles'):
+    os.makedirs('type3/logfiles')
 
 f1s = []
 for t in modellist:
