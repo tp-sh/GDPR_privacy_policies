@@ -104,7 +104,7 @@ Choose a classifier from type1 to type12 and run it using the embeddings from St
 
 Type1 to Type6 only have training code as testing is performed simultaneously.
 
-Type7 to Type12 have both training and testing code as they use a multi-neural network as a classifier. Run the training code first, select the best classifier, and then evaluate it by running the testing code.
+Type7 to Type12 have both training and testing code as they use a multi-neural network as a classifier. Run the training code first, select the best checkpoint, and then evaluate it by running the testing code.
 
 ## Citation
 
