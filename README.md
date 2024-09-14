@@ -38,6 +38,7 @@ less consideration of hierarchical information in privacy policies affect the co
 |-- data  # Contains data used and generated
 |   |-- GoPPC-150 # Our proposed corpus
 |       |-- 1.xml-150.xml # 150 labeled privacy policies with hierarchy 
+|   |-- comparison_experiments.csv # Mainstream ML models results using 300-D TF-IDF features of current node as input
 |   |-- complete_classifier_results.csv  # Type1-Type12 results at different levels
 |   |-- Torre_classifiers_results.csv # Reproduction of Torre et al.'s classifier on our corpus.
 |   |-- opp_results.csv # Old evaluation and our evaluation results on OPP-115 datasets
