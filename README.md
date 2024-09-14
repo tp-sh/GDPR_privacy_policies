@@ -99,7 +99,7 @@ python Embedding/get_tfidf_embeddings.py
 python Embedding/get_bert_embeddings.py
 ```
 
-### Step3
+### Step3: Train & test
 Choose a classifier from type1 to type12 and run it using the embeddings from Step 2.
 
 Type1 to Type6 only have training code as testing is performed simultaneously.
