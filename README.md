@@ -51,7 +51,7 @@ less consideration of hierarchical information in privacy policies affect the co
 Please cite it if you find the repository helpful. Thank you!
 
 ```
-@miasc{tang2024PP,
+@misc{tang2024PP,
   title={{A Comprehensive Study on GDPR-Oriented Analysis of Privacy Policies: Taxonomy, Corpus and GDPR Concept Classifiers}},
   author={Tang, Peng and Li, Xin and Chen, Yuxin and Qiu, Weidong and Mei, Haochen and Holmes, Allison and Li, Fenghua and Li, Shujun},
   howpublished={arXiv:XX},
