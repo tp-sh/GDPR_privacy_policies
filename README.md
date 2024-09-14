@@ -79,15 +79,15 @@ pip install -r requirements.txt
 
 ## Training and Testing Models
 
-###  Step1
+###  Step1: Preparaion
 Navigate to the 'train' directory and download the privbert model for embedding.
 
-### Step2
+### Step2: Generate Embeddings
 
 Fine-tune the privbert model using the training datasets:
 
 ```
-python Embeeding/bert_finetuning.py
+python Embedding/bert_finetuning.py
 ```
 
 Refer to the logfile to select the best fine-tuned privbert model and update the path in the 'get_bert_embeddings.py' file.
