@@ -54,6 +54,7 @@ We have tested all the code in this repository on a server with the following co
 - Memory: 
 - GPU:
 - OS: Linux 11
+
 The code of this repository is written in Python. We use conda to manage the Python dependencies. Please download and install conda first.
 
 After cloning this repository, change the working directory to the cloned directory.
