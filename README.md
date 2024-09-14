@@ -11,7 +11,7 @@ Automated compliance analysis with the EU GDPR is in high demand. However, previ
 less consideration of hierarchical information in privacy policies affect the conduct of research. To bridge these gaps, we've introduced a thorough GDPR taxonomy, a corpus of labeled policies with hierarchy, and conducted a detailed assessment of classifier performance at both sentence and document levels. This repository contains our proposed taxonomy, corpus, and all code used in the study.
 
 ![figure1](assets/Architecture_GoHPPC.png)
-![figure2](assets/Comprehensive_study_concept_classifiers.png)
+
 ## Project Directory Structure
 ```shell
 |-- code # Contains all the code used in the paper
@@ -48,10 +48,39 @@ less consideration of hierarchical information in privacy policies affect the co
 |   |-- readme.md # Description for this directory
 ```
 
+## Requirements
+
+We have tested all the code in this repository on a server with the following configuration:
+- CPU:
+- Memory: 
+- GPU:
+- OS: Linux 11
+
+The code of this repository is written in Python. We use conda to manage the Python dependencies. Please download and install conda first.
+
+After cloning this repository, change the working directory to the cloned directory.
+
+Create a new conda environment named pp with dependencies installed:
+
+```
+
+```
+
+
+## Train and Test Models
+
+
+
 ## Citation
 
 Please cite it if you find the repository helpful. Thank you!
 
 ```
-
+@misc{tang2024PP,
+  title={{A Comprehensive Study on GDPR-Oriented Analysis of Privacy Policies: Taxonomy, Corpus and GDPR Concept Classifiers}},
+  author={Tang, Peng and Li, Xin and Chen, Yuxin and Qiu, Weidong and Mei, Haochen and Holmes, Allison and Li, Fenghua and Li, Shujun},
+  howpublished={arXiv:XX},
+  doi={XXX},
+  year={2024},
+}
 ```
