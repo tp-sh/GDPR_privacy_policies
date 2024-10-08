@@ -114,8 +114,8 @@ Please cite it if you find the repository helpful. Thank you!
 @misc{tang2024PP,
   title={{A Comprehensive Study on GDPR-Oriented Analysis of Privacy Policies: Taxonomy, Corpus and GDPR Concept Classifiers}},
   author={Tang, Peng and Li, Xin and Chen, Yuxin and Qiu, Weidong and Mei, Haochen and Holmes, Allison and Li, Fenghua and Li, Shujun},
-  howpublished={arXiv:XX},
-  doi={XXX},
+  howpublished={arXiv:2410.04754v1},
+  doi={https://doi.org/10.48550/arXiv.2410.04754},
   year={2024},
 }
 ```
