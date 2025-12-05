@@ -10,11 +10,17 @@ import matplotlib.pyplot as plt
 from pylab import rcParams
 import seaborn as sns
 import joblib
+import argparse
 
-#segment level
+parser = argparse.ArgumentParser()
+parser.add_argument('--level', type=str, default='segment') #segment
+parser.add_argument('--fold', type=str, default='1')
+args = parser.parse_args()
 
-train_text_path = 'Embedding/PrivBert_Embeddings3/segment/train_text.pt'
-test_text_path = 'Embedding/PrivBert_Embeddings3/segment/test_text.pt'
+level = args.level
+fold = args.fold
+train_text_path = f'/data/data1/cyx/Embedding/cross_validation/PrivBert_Embeddings_fold{fold}/{level}/train_text.pt'
+test_text_path = f'/data/data1/cyx/Embedding/cross_validation/PrivBert_Embeddings_fold{fold}/{level}/test_text.pt'
 
 train_text_x, train_text_y = torch.load(train_text_path)
 test_text_x, test_text_y = torch.load(test_text_path)
@@ -43,11 +49,11 @@ modellist = ['1', '22', '38', '39', '41', '47', '54', '64', '65', '67', '85', '8
 for i in range(1,97):
     LABEL_COLUMNS.append(str(i))
 
-if not os.path.exists('type11/logfiles'):
-    os.makedirs('type11/logfiles')
+with open(f"type11/cross_validation/logfiles/{level}.txt",'a') as f:
+    f.write(f"PrivBert+RF,{level}, fold{fold}")
 f1s = []
 for t in modellist:
-    log_text = open("type11/logfiles/segment.txt",'a')
+    log_text = open(f"type11/cross_validation/logfiles/{level}.txt",'a')
     precision= 0
     recall = 0
     f1 = 0
@@ -94,7 +100,7 @@ for t in modellist:
     f1s.append(f1)
     log_text.close()
 
-log_text = open("type11/logfiles/segment.txt",'a')
+log_text = open(f"type11/cross_validation/logfiles/{level}.txt",'a')
 log_text.write('average f1 for level1: '+str(np.mean(f1s[:14]))+'\n')
 log_text.write('average f1: '+str(np.mean(f1s))+'\n')
 log_text.close()

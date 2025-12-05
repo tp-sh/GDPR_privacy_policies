@@ -33,7 +33,6 @@ less consideration of hierarchical information in privacy policies affect the co
 |           |-- get_bert_embeddings.py # Generates BERT embeddings
 |           |-- get_tfidf_embeddings.py # Generates TF-IDF embeddings
 |       |-- type1-type12 # Contains different types of classifier training and testing code
-|           |-- train_segment.py(train_document.py) # Training code at different levels
 
 |-- data  # Contains data used and generated
 |   |-- datasets # Divided datasets using GoPPC-150
@@ -92,10 +91,9 @@ python Embedding/bert_finetuning.py
 
 Refer to the logfile to select the best fine-tuned privbert model and update the path in the 'get_bert_embeddings.py' file.
 
-Generate tfidf and privbert embeddings for the training and testing datasets.
+Generate privbert embeddings for the training and testing datasets.
 
 ```
-python Embedding/get_tfidf_embeddings.py
 python Embedding/get_bert_embeddings.py
 ```
 

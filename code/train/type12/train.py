@@ -26,7 +26,8 @@ torch.multiprocessing.set_sharing_strategy('file_system')
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--level', type=str, default='segment') #document
+parser.add_argument('--level', type=str, default='segment') #segment
+parser.add_argument('--fold', type=str, default='1')
 parser.add_argument('--aim', type=str, default='2_1') #1, 2_2, 2_3, 2_4, 2_5, 2_6
 parser.add_argument('--N_EPOCHS', type=int, default=10)
 parser.add_argument('--on_gpu', type=int, default=0)
@@ -34,10 +35,11 @@ args = parser.parse_args()
 
 level = args.level
 aim = args.aim
+fold = args.fold
 N_EPOCHS = args.N_EPOCHS
 on_gpu = [args.on_gpu]
 
-mark = 'type6: '+aim+' '+level+'level'
+mark = 'type6: '+aim+' '+level+'level' + 'fold'+fold
 
 
 if aim == '1':
@@ -55,29 +57,31 @@ elif aim == '2_5':
 elif aim == '2_6':
     LABEL_COLUMNS = ['91', '92']
 
-if level == 'document':
-    file_path = ".../data/datasets/p_dataset_document_train.csv"
-    df = pd.read_csv(file_path)
-elif level == 'segment':
-    file_path = '.../data/datasets/p_dataset_segment_train.csv'
-    df = pd.read_csv(file_path)
-    
+file_path = f"/data/data1/cyx/cross_validation/{level}/fold_{fold}_train.csv"
+df = pd.read_csv(file_path)
+
 df.fillna(0,inplace=True)
-df.drop(index=(df.loc[(df['text']==0)].index))
-for x in df.index:
-    data_flag = False
-    for t in LABEL_COLUMNS:
-        if df.loc[x,t] != 0:
-            data_flag = True
-    if data_flag == False:
-        df.drop(x, inplace = True)
+df.drop(index=(df.loc[(df['text']==0)].index),inplace=True)
+
+parent_col_map = {
+    '2_1': '1',
+    '2_2': '22',
+    '2_3': '47',
+    '2_4': '54',
+    '2_5': '86',
+    '2_6': '90'
+}
+
+if aim in parent_col_map:
+    parent_col = parent_col_map[aim]
+    df = df[df[parent_col] != 0].copy()
+    
 print(df.shape)
-data = df.loc[np.random.choice(df.index, size=df.shape[0])]
+data = df.loc[np.random.choice(df.index, size=df.shape[0], replace=False)]
 if not sys.warnoptions:
     warnings.simplefilter("ignore")
     
 def cleanPunc(sentence):
-    """删除符号"""
     sentence = str(sentence)
     cleaned = re.sub(r'[?|!|\'|"|#]', r" ", sentence)
     cleaned = re.sub(r'[.|,|)|(|\|/]', r" ", cleaned)
@@ -86,7 +90,6 @@ def cleanPunc(sentence):
     return cleaned
 
 def keepAlpha(sentence):
-    """删除字母和空格以外的所有词"""
     sentence = str(sentence)
     alpha_sent = ""
     for word in sentence.split():
@@ -109,13 +112,11 @@ data["siblings"] = data["siblings"].apply(cleanPunc)
 data["siblings"] = data["siblings"].apply(keepAlpha)
 
 def text_clean(text):
-    # 用空格替换各种符号
 
     REPLACE_BY_SPACE_RE = re.compile('[/(){}\[\]\|@,;]')
     BAD_SYMBOLS_RE = re.compile('[^a-z #+_]')
     STOPWORDS = set(stopwords.words('english'))
     NonSTOPWORDS = []
-    # 保留一些有意义的停止词
     text = text.lower()
     text = REPLACE_BY_SPACE_RE.sub(' ', text)
     text = BAD_SYMBOLS_RE.sub('', text)
@@ -134,7 +135,7 @@ train_df, val_df = train_test_split(data,test_size = 0.2)
 class PrivacyDataset(Dataset):              
     def __init__(self, data:pd.DataFrame, tokenizer, max_token_len = 256):
         self.data = data
-        self.tokenizer = AutoTokenizer.from_pretrained("privbert")
+        self.tokenizer = AutoTokenizer.from_pretrained("/data/data1/cyx/privbert")
         self.max_token_len = max_token_len
         
     def __len__(self):
@@ -246,7 +247,7 @@ class PrivacyTagger(pl.LightningModule):
     def __init__(self, n_classes: int, steps_per_epoch=None, n_epochs=None):
         super().__init__()
         self.validation_step_outputs = []
-        self.bert = AutoModel.from_pretrained("privbert")
+        self.bert = AutoModel.from_pretrained("/data/data1/cyx/privbert")
         hidden_size = self.bert.config.hidden_size*3
         self.classifier = nn.Linear(hidden_size, n_classes)
         self.steps_per_epoch = steps_per_epoch
@@ -330,7 +331,7 @@ class PrivacyTagger(pl.LightningModule):
             f1 = f1_score(labelss, predictionss, average='binary')
             f1s.append(f1)
 
-        with open(f'type6/logfiles/{level}/{aim}.txt','a') as logfile:
+        with open(f'type6/cross_validation/logfiles/{level}/fold{fold}/{aim}.txt','a') as logfile:
             logfile.write(mark+'\n')
             logfile.write('f1s: '+str(np.mean(f1s)) + str(f1s)+'\n')
 
@@ -346,13 +347,21 @@ class PrivacyTagger(pl.LightningModule):
 
 from pytorch_lightning.callbacks import Callback
 
-class SaveCheckpointCallback(Callback):
+from pytorch_lightning.callbacks import ModelCheckpoint
+
+class SaveLast2Checkpoints(Callback):
     def on_epoch_end(self, trainer, pl_module):
-        trainer.save_checkpoint(f"type6/checkpoints/{level}/{aim}/epoch_{trainer.current_epoch}.ckpt")
+        path = f"type6/cross_validation/checkpoints/{level}/fold{fold}/{aim}"
+        os.makedirs(path, exist_ok=True)
+        trainer.save_checkpoint(f"{path}/epoch_{trainer.current_epoch}.ckpt")
+        old_ckpt = f"{path}/epoch_{trainer.current_epoch - 2}.ckpt"
+        if os.path.exists(old_ckpt):
+            os.remove(old_ckpt)
+
 
 if __name__ == '__main__':
 
-    tokenizer = AutoTokenizer.from_pretrained("privbert")
+    tokenizer = AutoTokenizer.from_pretrained("/data/data1/cyx/privbert")
     data_module = PrivacyDataModule(train_df,val_df,tokenizer)
     data_module.setup(stage=None)
     model = PrivacyTagger(
@@ -362,6 +371,6 @@ if __name__ == '__main__':
         )
 
     CUDA_VISIBLE_DEVICES = 0
-    trainer = pl.Trainer(max_epochs=N_EPOCHS, accelerator="gpu", gpus=on_gpu, callbacks=[SaveCheckpointCallback()])
+    trainer = pl.Trainer(max_epochs=N_EPOCHS, accelerator="gpu", gpus=on_gpu, callbacks=[SaveLast2Checkpoints()])
 
     trainer.fit(model, data_module)

@@ -22,7 +22,13 @@ from matplotlib import re
 from torch.utils.data import Dataset, DataLoader
 from torch import optim, nn, utils, Tensor
 
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
+device = 'cuda:1' if torch.cuda.is_available() else 'cpu'
+
+parser = argparse.ArgumentParser(description="Process dataset at document or segment level.")
+parser.add_argument('--fold', type=str, default='0',
+                    help="Fold index")
+args = parser.parse_args()
+fold = args.fold 
 
 LABEL_COLUMNS1 =  ['1', '22', '38', '39', '41', '47', '54', '64', '65', '67', '85', '86', '90', '93']
 LABEL_COLUMNS2 =  ['2', '4']
@@ -34,51 +40,50 @@ LABEL_COLUMNS7 =  ['91', '92']
 
 LABEL_COLUMNS = LABEL_COLUMNS1 + LABEL_COLUMNS2 + LABEL_COLUMNS3 + LABEL_COLUMNS4 + LABEL_COLUMNS5 + LABEL_COLUMNS6 + LABEL_COLUMNS7
 
-modelP_level1 = PrivacyTagger.load_from_checkpoint('type6/checkpoints/segment/1/epoch_9.ckpt', n_classes=14, logfile_path='').to(device)
+modelP_level1 = PrivacyTagger.load_from_checkpoint(f'type6/cross_validation/checkpoints/segment/fold{fold}/1/epoch_9.ckpt', n_classes=14, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level1 = modelP_level1.to(device)
 modelT_level1.eval()
 
-modelP_level2_1 = PrivacyTagger.load_from_checkpoint('type6/checkpoints/segment/2_1/epoch_9.ckpt', n_classes=2, logfile_path='').to(device)
+modelP_level2_1 = PrivacyTagger.load_from_checkpoint(f'type6/cross_validation/checkpoints/segment/fold{fold}/2_1/epoch_9.ckpt', n_classes=2, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level2_1 = modelP_level2_1.to(device)
 modelT_level2_1.eval()
 
-modelP_level2_2 = PrivacyTagger.load_from_checkpoint('type6/checkpoints/segment/2_2/epoch_9.ckpt', n_classes=8, logfile_path='').to(device)
+modelP_level2_2 = PrivacyTagger.load_from_checkpoint(f'type6/cross_validation/checkpoints/segment/fold{fold}/2_2/epoch_9.ckpt', n_classes=8, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level2_2 = modelP_level2_2.to(device)
 modelT_level2_2.eval()
 
 
-modelP_level2_3 = PrivacyTagger.load_from_checkpoint('type6/checkpoints/segment/2_3/epoch_7.ckpt', n_classes=2, logfile_path='').to(device)
+modelP_level2_3 = PrivacyTagger.load_from_checkpoint(f'type6/cross_validation/checkpoints/segment/fold{fold}/2_3/epoch_9.ckpt', n_classes=2, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level2_3 = modelP_level2_3.to(device)
 modelT_level2_3.eval()
 
 
-modelP_level2_4 = PrivacyTagger.load_from_checkpoint('type6/checkpoints/segment/2_4/epoch_9.ckpt', n_classes=4, logfile_path='').to(device)
+modelP_level2_4 = PrivacyTagger.load_from_checkpoint(f'type6/cross_validation/checkpoints/segment/fold{fold}/2_4/epoch_9.ckpt', n_classes=4, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level2_4 = modelP_level2_4.to(device)
 modelT_level2_4.eval()
 
 
-modelP_level2_5 = PrivacyTagger.load_from_checkpoint('type6/checkpoints/segment/2_5/epoch_7.ckpt', n_classes=3, logfile_path='').to(device)
+modelP_level2_5 = PrivacyTagger.load_from_checkpoint(f'type6/cross_validation/checkpoints/segment/fold{fold}/2_5/epoch_9.ckpt', n_classes=3, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level2_5 = modelP_level2_5.to(device)
 modelT_level2_5.eval()
 
 
-modelP_level2_6 = PrivacyTagger.load_from_checkpoint('type6/checkpoints/segment/2_6/epoch_9.ckpt', n_classes=2, logfile_path='').to(device)
+modelP_level2_6 = PrivacyTagger.load_from_checkpoint(f'type6/cross_validation/checkpoints/segment/fold{fold}/2_6/epoch_9.ckpt', n_classes=2, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level2_6 = modelP_level2_6.to(device)
 modelT_level2_6.eval()
 
 
 tokenizer = AutoTokenizer.from_pretrained("/data/data1/cyx/privbert")
-data = pd.read_csv('/data/data1/cyx/p_dataset_segment_test.csv')
+data = pd.read_csv(f"/data/data1/cyx/cross_validation/segment/fold_{fold}_test.csv")
 
 def cleanPunc(sentence):
-    """删除符号"""
     sentence = str(sentence)
     cleaned = re.sub(r'[?|!|\'|"|#]', r" ", sentence)
     cleaned = re.sub(r'[.|,|)|(|\|/]', r" ", cleaned)
@@ -87,7 +92,6 @@ def cleanPunc(sentence):
     return cleaned
 
 def keepAlpha(sentence):
-    """删除字母和空格以外的所有词"""
     sentence = str(sentence)
     alpha_sent = ""
     for word in sentence.split():
@@ -99,13 +103,10 @@ def keepAlpha(sentence):
 
 
 def text_clean(text):
-    # 用空格替换各种符号
-
     REPLACE_BY_SPACE_RE = re.compile('[/(){}\[\]\|@,;]')
     BAD_SYMBOLS_RE = re.compile('[^a-z #+_]')
     STOPWORDS = set(stopwords.words('english'))
     NonSTOPWORDS = []
-    # 保留一些有意义的停止词
     text = text.lower()
     text = REPLACE_BY_SPACE_RE.sub(' ', text)
     text = BAD_SYMBOLS_RE.sub('', text)
@@ -266,7 +267,7 @@ for i in range(1,7):
     
 
 
-with open(f'type6/logfiles/segment/results.txt','a') as log:
+with open(f'type6/cross_validation/logfiles/segment/fold{fold}/results.txt','a') as log:
     log.write('f1s: '+str(f1s)+'\n')
     log.write('average f1 for level1: '+str(np.mean(f1s[:14]))+'\n')
     log.write('average f1: '+str(np.mean(f1s))+'\n')

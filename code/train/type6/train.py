@@ -10,17 +10,25 @@ import matplotlib.pyplot as plt
 from pylab import rcParams
 import seaborn as sns
 import joblib
+import argparse
 
+parser = argparse.ArgumentParser()
+parser.add_argument('--level', type=str, default='segment') #segment
+parser.add_argument('--fold', type=str, default='1')
+args = parser.parse_args()
+
+level = args.level
+fold = args.fold
 #segment level
 
-train_text_path = 'Embedding/PrivBert_Embeddings3/segment/train_text.pt'
-test_text_path = 'Embedding/PrivBert_Embeddings3/segment/test_text.pt'
+train_text_path = f'/data/data1/cyx/Embedding/cross_validation/PrivBert_Embeddings_fold{fold}/{level}/train_text.pt'
+test_text_path = f'/data/data1/cyx/Embedding/cross_validation/PrivBert_Embeddings_fold{fold}/{level}/test_text.pt'
 
-train_parents_path = 'Embedding/PrivBert_Embeddings3/segment/train_parents.pt'
-test_parents_path = 'Embedding/PrivBert_Embeddings3/segment/test_parents.pt'
+train_parents_path = f'/data/data1/cyx/Embedding/cross_validation/PrivBert_Embeddings_fold{fold}/{level}/train_parents.pt'
+test_parents_path = f'/data/data1/cyx/Embedding/cross_validation/PrivBert_Embeddings_fold{fold}/{level}/test_parents.pt'
 
-train_siblings_path = 'Embedding/PrivBert_Embeddings3/segment/train_siblings.pt'
-test_siblings_path = 'Embedding/PrivBert_Embeddings3/segment/test_siblings.pt'
+train_siblings_path = f'/data/data1/cyx/Embedding/cross_validation/PrivBert_Embeddings_fold{fold}/{level}/train_siblings.pt'
+test_siblings_path = f'/data/data1/cyx/Embedding/cross_validation/PrivBert_Embeddings_fold{fold}/{level}/test_siblings.pt'
 
 train_text_x, train_text_y = torch.load(train_text_path)
 test_text_x, test_text_y = torch.load(test_text_path)
@@ -33,11 +41,9 @@ test_siblings_x, test_siblings_y = torch.load(test_siblings_path)
 
 
 x = np.concatenate([train_text_x, train_parents_x], axis=1)
-#(6484,2304)
 xn = np.concatenate([x, train_siblings_x], axis=1)
 
 test_x = np.concatenate([test_text_x, test_parents_x], axis=1)
-#(1480,2304)
 test_xn = np.concatenate([test_x, test_siblings_x], axis=1)
 
 data_y = train_text_y
@@ -59,11 +65,12 @@ modellist = ['1', '22', '38', '39', '41', '47', '54', '64', '65', '67', '85', '8
 for i in range(1,97):
     LABEL_COLUMNS.append(str(i))
 
-if not os.path.exists('type12/logfiles'):
-    os.makedirs('type12/logfiles')
+with open(f"type12/cross_validation/logfiles/{level}.txt",'a') as f:
+    f.write(f"PrivBert+RF,{level}, fold{fold}")
+
 f1s = []
 for t in modellist:
-    log_text = open("type12/logfiles/segment.txt",'a')
+    log_text = open(f"type12/cross_validation/logfiles/{level}.txt",'a')
     precision= 0
     recall = 0
     f1 = 0
@@ -111,7 +118,7 @@ for t in modellist:
     log_text.close()
 
 
-log_text = open("type12/logfiles/segment.txt",'a')
+log_text = open(f"type12/cross_validation/logfiles/{level}.txt",'a')
 log_text.write('average f1 for level1: '+str(np.mean(f1s[:14]))+'\n')
 log_text.write('average f1: '+str(np.mean(f1s))+'\n')
 log_text.close()

@@ -15,16 +15,29 @@ from train import PrivacyTagger
 from transformers import AutoTokenizer, AutoModel
 import torch
 import sys
+import argparse
 
-sys.path.append('../')
 from label_convertion import label_dic
+parser = argparse.ArgumentParser(description="Process dataset at document or segment level.")
+parser.add_argument('--fold', type=str, default='0',
+                    help="Fold index")
+args = parser.parse_args()
+fold = args.fold 
 
 
 device = torch.device('cuda:0')
 keyarr = list(label_dic.keys())
 
-exceptlist = [41, 27, 10, 118, 5, 133, 15, 101, 49, 114, 31, 139, 115, 148, 30, 91, 33, 136, 128, 144, 146, 70, 24, 79, 13, 25, 135, 29, 56, 78]
-
+if fold == '1':
+    exceptlist = [5, 10, 13, 15, 24, 25, 27, 29, 30, 31, 33, 41, 49, 56, 70, 78, 79, 91, 101, 114, 115, 118, 128, 133, 135, 136, 139, 144, 146, 148]
+elif fold == '2':
+    exceptlist = [3, 6, 7, 11, 22, 32, 35, 40, 46, 47, 58, 61, 63, 72, 75, 83, 95, 96, 99, 100, 104, 106, 107, 111, 112, 120, 130, 138, 141, 142]
+elif fold == '3':
+    exceptlist = [2, 9, 12, 14, 21, 36, 38, 42, 44, 48, 51, 52, 53, 55, 68, 74, 76, 84, 89, 90, 92, 102, 103, 110, 117, 119, 122, 131, 143]
+elif fold == '4':
+    exceptlist = [1, 4, 8, 16, 17, 18, 20, 26, 28, 39, 45, 54, 64, 65, 71, 73, 77, 80, 85, 86, 87, 109, 113, 116, 121, 127, 132, 134, 145, 147]
+elif fold == '5':
+    exceptlist = [19, 23, 34, 37, 43, 50, 57, 59, 60, 62, 66, 67, 69, 81, 82, 88, 93, 94, 97, 98, 105, 108, 123, 124, 125, 126, 129, 137, 140, 149]
 
 modellist_level1 =  ['1', '22', '38', '39', '41', '47', '54', '64', '65', '67', '85', '86', '90', '93']
 modellist_level2_1 =  ['2', '4']
@@ -34,38 +47,37 @@ modellist_level2_4 =  ['55', '60', '62', '63']
 modellist_level2_5 =  ['87', '88', '89']
 modellist_level2_6 =  ['91', '92']
 
-modelP_level1 = PrivacyTagger.load_from_checkpoint('type5/checkpoints/document/1/epoch_8.ckpt', n_classes=14, logfile_path='').to(device)
+modelP_level1 = PrivacyTagger.load_from_checkpoint(f'type5/cross_validation/checkpoints/document/fold{fold}/1/epoch_9.ckpt', n_classes=14, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level1 = modelP_level1.to(device)
 
-modelP_level2_1 = PrivacyTagger.load_from_checkpoint('type5/checkpoints/document/2_1/epoch_6.ckpt', n_classes=2, logfile_path='').to(device)
+modelP_level2_1 = PrivacyTagger.load_from_checkpoint(f'type5/cross_validation/checkpoints/document/fold{fold}/2_1/epoch_9.ckpt', n_classes=2, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level2_1 = modelP_level2_1.to(device)
 
-modelP_level2_2 = PrivacyTagger.load_from_checkpoint('type5/checkpoints/document/2_2/epoch_9.ckpt', n_classes=8, logfile_path='').to(device)
+modelP_level2_2 = PrivacyTagger.load_from_checkpoint(f'type5/cross_validation/checkpoints/document/fold{fold}/2_2/epoch_9.ckpt', n_classes=8, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level2_2 = modelP_level2_2.to(device)
 
-modelP_level2_3 = PrivacyTagger.load_from_checkpoint('type5/checkpoints/document/2_3/epoch_8.ckpt', n_classes=2, logfile_path='').to(device)
+modelP_level2_3 = PrivacyTagger.load_from_checkpoint(f'type5/cross_validation/checkpoints/document/fold{fold}/2_3/epoch_9.ckpt', n_classes=2, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level2_3 = modelP_level2_3.to(device)
 
-modelP_level2_4 = PrivacyTagger.load_from_checkpoint('type5/checkpoints/document/2_4/epoch_6.ckpt', n_classes=4, logfile_path='').to(device)
+modelP_level2_4 = PrivacyTagger.load_from_checkpoint(f'type5/cross_validation/checkpoints/document/fold{fold}/2_4/epoch_9.ckpt', n_classes=4, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level2_4 = modelP_level2_4.to(device)
 
-modelP_level2_5 = PrivacyTagger.load_from_checkpoint('type5/checkpoints/document/2_5/epoch_8.ckpt', n_classes=3, logfile_path='').to(device)
+modelP_level2_5 = PrivacyTagger.load_from_checkpoint(f'type5/cross_validation/checkpoints/document/fold{fold}/2_5/epoch_9.ckpt', n_classes=3, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level2_5 = modelP_level2_5.to(device)
 
-modelP_level2_6 = PrivacyTagger.load_from_checkpoint('type5/checkpoints/document/2_6/epoch_9.ckpt', n_classes=2, logfile_path='').to(device)
+modelP_level2_6 = PrivacyTagger.load_from_checkpoint(f'type5/cross_validation/checkpoints/document/fold{fold}/2_6/epoch_9.ckpt', n_classes=2, logfile_path='').to(device)
 #modelP = AutoModel.from_pretrained("mukund/privbert")
 modelT_level2_6 = modelP_level2_6.to(device)
 
-tokenizer = AutoTokenizer.from_pretrained("privbert")
+tokenizer = AutoTokenizer.from_pretrained("/data/data1/cyx/privbert")
 
 def cleanPunc(sentence):
-    """删除符号"""
     sentence = str(sentence)
     cleaned = re.sub(r'[?|!|\'|"|#]', r" ", sentence)
     cleaned = re.sub(r'[.|,|)|(|\|/]', r" ", cleaned)
@@ -74,7 +86,6 @@ def cleanPunc(sentence):
     return cleaned
 
 def keepAlpha(sentence):
-    """删除字母和空格以外的所有词"""
     sentence = str(sentence)
     alpha_sent = ""
     for word in sentence.split():
@@ -85,7 +96,6 @@ def keepAlpha(sentence):
     return alpha_sent
 
 def text_clean(text):
-    # 用空格替换各种符号
     REPLACE_BY_SPACE_RE = re.compile('[/(){}\[\]\|@,;]')
     BAD_SYMBOLS_RE = re.compile('[^a-z #+_]')
     STOPWORDS = set(stopwords.words('english'))
@@ -373,7 +383,7 @@ for i in range(0,35):
         pF1.append((2*ppr*pre/(ppr+pre)))
     except:
         pF1.append(0)
-reslog = open('type5/logfiles/document/result.txt', 'a')
+reslog = open(f'type5/cross_validation/logfiles/document/fold{fold}/results.txt', 'a')
 reslog.write(str(pTPs)+'\n')
 reslog.write(str(pFPs)+'\n')
 reslog.write(str(pTNs)+'\n')
@@ -386,9 +396,3 @@ reslog.write('average F1 for level1: '+str(np.mean(pF1[:14]))+'\n')
 reslog.write('average F1: '+str(np.mean(pF1))+'\n')
 reslog.close()
 print(pF1)
-            
-            
-            
-            
-
-
