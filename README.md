@@ -103,17 +103,3 @@ Choose a classifier from type1 to type12 and run it using the embeddings from St
 Type1 to Type6 only have training code as testing is performed simultaneously.
 
 Type7 to Type12 have both training and testing code as they use a multi-neural network as a classifier. Run the training code first, select the best checkpoint, and then evaluate it by running the testing code.
-
-## Citation
-
-Please cite it if you find the repository helpful. Thank you!
-
-```
-@misc{tang2024PP,
-  title={{A Comprehensive Study on GDPR-Oriented Analysis of Privacy Policies: Taxonomy, Corpus and GDPR Concept Classifiers}},
-  author={Tang, Peng and Li, Xin and Chen, Yuxin and Qiu, Weidong and Mei, Haochen and Holmes, Allison and Li, Fenghua and Li, Shujun},
-  howpublished={arXiv:2410.04754v1},
-  doi={https://doi.org/10.48550/arXiv.2410.04754},
-  year={2024},
-}
-```
